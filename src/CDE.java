@@ -1,11 +1,14 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 // Need to optimize this part to not be hard coded
 
 public class CDE {
 	private List<String> elements;
-	public static String pattern;
+	public static Pattern searchPattern; // constructed from searchFields.txt
+	public static Pattern keyWordsPattern; //constructed from Temporal CDE Operators.xls
 	public static int full;
 	
 	public CDE(){
@@ -24,9 +27,13 @@ public class CDE {
 	}
 	public boolean isValid(){
 		//get PREFERREDDEFINITION field
-		String eval = elements.get(3);
-		if(eval.matches(".*(?i)(day)(?-i).*"))
-			return true;
+		for(String s: elements){
+			Matcher m = searchPattern.matcher(s);
+			if(m.matches()){
+				m = keyWordsPattern.matcher(s);
+				if(m.matches()) return true;
+			}
+		}
 		return false;
 	}
 	public List<String> getElements(){

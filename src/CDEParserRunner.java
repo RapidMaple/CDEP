@@ -8,6 +8,7 @@ import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 import java.util.StringTokenizer;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -23,7 +24,7 @@ public class CDEParserRunner {
 	private static BufferedReader in;
 	private static PrintWriter out;
 	//private static StringTokenizer st;
-	private static ArrayList<CDE> cdeList;
+	private static List<CDE> cdeList;
 	private static boolean write;
 	private static Pattern pattern;
 	
@@ -39,15 +40,20 @@ public class CDEParserRunner {
 			System.out.println(it.next());
 		}
 		*/
+		int counter = 0;
 		pattern = buildPattern("bin//fields.txt");
+		CDE.searchPattern = Pattern.compile(searchPattern("bin//searchFields.txt").toString());
+		CDE.keyWordsPattern = Pattern.compile(".*(?i)(day)(?-i).*"); // change this to the output of the excel spreadsheet
 		out = new PrintWriter(new BufferedWriter(new FileWriter("parsedCDEs.txt")));
 		write = false;
+		cdeList = new ArrayList<CDE>();
 		for(File f: new File("xml_files").listFiles()){
 			in = new BufferedReader(new FileReader(f.getAbsolutePath()));
 			String curLine = in.readLine();
 			System.out.println("Begin parsing - " + f.getAbsolutePath());
 			CDE element = new CDE();
 			while(curLine != null){
+				counter++;
 				Matcher m = pattern.matcher(curLine);
 				/*if(curLine.matches("^.*<DataElement num=\"\\d+\">.*$") || curLine.matches("^.*<(PUBLICID|LONGNAME|PREFERREDDEFINITION)>.*<(/PUBLICID|/LONGNAME|/PREFERREDDEFINITION)>.*$")){
 					element.addElement(curLine);
@@ -64,13 +70,15 @@ public class CDEParserRunner {
 					out.println();
 					}
 					//clear element
-					
+					cdeList.add(element);
 					element = new CDE();
 				}
 				curLine = in.readLine();
 			}
 			System.out.println("Finished parsing - " + f.getAbsolutePath());	
 		}
+		System.out.println(cdeList.size());
+		System.out.println(counter);
 		in.close();
 		out.close();
 	}
@@ -81,7 +89,21 @@ public class CDEParserRunner {
 	 * @throws Exception
 	 */
 	public static Pattern buildPattern(String fields) throws Exception{
-		BufferedReader read = new BufferedReader(new FileReader(new File(fields)));
+		StringBuilder p = helpBuild(fields);
+		StringBuilder outp = new StringBuilder("(^.*<DataElement num=\"\\d+\">.*$)");
+		outp.append("|("+p.toString()+")");
+		Pattern pat = Pattern.compile(outp.toString());
+		return pat;
+	}
+	
+	public static Pattern searchPattern(String searchFields) throws Exception{
+		StringBuilder p = helpBuild(searchFields);
+		Pattern pat = Pattern.compile(p.toString());
+		return pat;
+	}
+	
+	private static StringBuilder helpBuild(String file) throws Exception{
+		BufferedReader read = new BufferedReader(new FileReader(new File(file)));
 		StringBuilder p = new StringBuilder("");
 		String curLine = read.readLine().trim();
 		int ct = curLine.length();
@@ -95,12 +117,9 @@ public class CDEParserRunner {
 			ct += 1 + curLine.length();
 			count++;
 		}
-		CDE.full = count + 1;
-		StringBuilder outp = new StringBuilder("(^.*<DataElement num=\"\\d+\">.*$)");
-		outp.append("|("+p.toString()+")");
-		Pattern pat = Pattern.compile(outp.toString());
-		return pat;
-		
+		if(CDE.full == 0)
+			CDE.full = count + 2;
+		return p;
 	}
 
 }
