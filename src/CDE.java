@@ -39,7 +39,7 @@ public class CDE {
 			if(m.matches()){
 				String temp = s.toLowerCase();
 				BufferedReader in = new BufferedReader(new FileReader(keyWords.getAbsolutePath()));
-				String curLine = in.readLine().trim();
+				String curLine = in.readLine();
 				while(curLine != null){
 					String[] sp = curLine.split("(->)|(\\s+->)|(->\\s+)|(\\s+->\\s)");
 					String main = sp[0];

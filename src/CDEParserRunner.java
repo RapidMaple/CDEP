@@ -7,8 +7,10 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -78,6 +80,10 @@ public class CDEParserRunner {
 		}
 		System.out.println(cdeList.size());
 		System.out.println(counter);
+		Map<List<String>, Integer> counts = countInstances(cdeList);
+		for(List<String> list : counts.keySet()){
+			out.println(list + " - " + counts.get(list));
+		}
 		in.close();
 		out.close();
 	}
@@ -120,6 +126,17 @@ public class CDEParserRunner {
 			CDE.full = count + 2;
 		read.close();
 		return p;
+	}
+	
+	private static Map<List<String>, Integer> countInstances(List<CDE> cdeList){
+		Map<List<String>, Integer> freq = new HashMap<List<String>, Integer>();
+		for(CDE cde : cdeList){
+			List<String> temp = cde.getMatched();
+			if(freq.get(temp) == null)
+				freq.put(temp, 0);
+			freq.put(temp, freq.get(temp)+1);
+		}
+		return freq;
 	}
 
 }
