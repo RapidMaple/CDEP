@@ -9,7 +9,6 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import java.util.StringTokenizer;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -43,7 +42,6 @@ public class CDEParserRunner {
 		int counter = 0;
 		pattern = buildPattern("bin//fields.txt");
 		CDE.searchPattern = Pattern.compile(searchPattern("bin//searchFields.txt").toString());
-		CDE.keyWordsPattern = Pattern.compile(".*(?i)(day)(?-i).*"); // change this to the output of the excel spreadsheet
 		out = new PrintWriter(new BufferedWriter(new FileWriter("parsedCDEs.txt")));
 		write = false;
 		cdeList = new ArrayList<CDE>();
@@ -65,12 +63,13 @@ public class CDEParserRunner {
 				if(element.isFull()){
 					//do processing here
 					if(element.isValid()){
+						out.println(element.getMatched());
 						for(String outp : element.getElements())
 							out.println(outp);
 					out.println();
+					cdeList.add(element);
 					}
 					//clear element
-					cdeList.add(element);
 					element = new CDE();
 				}
 				curLine = in.readLine();
@@ -119,6 +118,7 @@ public class CDEParserRunner {
 		}
 		if(CDE.full == 0)
 			CDE.full = count + 2;
+		read.close();
 		return p;
 	}
 
