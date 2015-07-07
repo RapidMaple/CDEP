@@ -14043,4 +14043,1193 @@
    <DataElement num="40691">
       <PUBLICID>2724857</PUBLICID>
 
-      <LONGNAME>Inclusion Criteria Cl
+      <LONGNAME>Inclusion Criteria Clinical Trial Eligibility Criteria Observation Performed Study Activity Delay Duration ISO21090.PQ.TIME.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>A characteristic or requirement that a subject must meet to participate in a study. EXAMPLE(S): Must be over the age of 18 The period of time that an action is delayed relative to an original schedule. EXAMPLE(S): If a substance administration is delayed 2 days as a result of an adverse event, then the delayDuration is 2 days.</PREFERREDDEFINITION>
+   <DataElement num="40720">
+      <PUBLICID>3177092</PUBLICID>
+
+      <LONGNAME>Concomitant Medication Form Prescription Daily Dose java.lang.String</LONGNAME>
+      <PREFERREDDEFINITION>Accessory, accompanying especially in a subordinate or incidental way, occurring or existing during the same period of time.:A drug or medicine that treats or prevents or alleviates the symptoms of disease.:A printed or electronic document with spaces to be filled out._A doctor's order for medicine or another intervention.:Occurring or done each day.:A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+   <DataElement num="40735">
+      <PUBLICID>2534833</PUBLICID>
+
+      <LONGNAME>Adverse Event Response Description Intervention or Procedure Negation Administration Day Number java.lang.Integer</LONGNAME>
+      <PREFERREDDEFINITION>Any unfavorable or unintended symptom, sign, or disease including an abnormal laboratory finding) temporally associated with the use of a medical treatment or procedure that may or may not be considered related to the medical treatment or procedure.  Such events can be intervention related, dose related, route related, patient related, or caused by an interaction with another drug(s) or procedure(s).:Any act or phenomena, or behavior, constituting a reply or reaction of a living organism or its part to some foregoing stimulus or agent.:A written or verbal account, representation, statement, or explanation of something._An activity that produces an effect, or that is intended to alter the course of a disease in a patient or population. This is a general term that encompasses the medical, social, behavioral, and environmental acts that can have preventive, therapeutic, or palliative effects.:An operation in which a term denies or inverts the meaning of another term or construction.:The act of the dispensing, applying, or tendering of something to another, such as administration of a medicine.:The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day.:A numeral or string of numerals expressing value, quantity, or identification._Generic value domain for a primitive java dataype that is an Integer (32-bit two's complement).</PREFERREDDEFINITION>
+   <DataElement num="40795">
+      <PUBLICID>4689212</PUBLICID>
+
+      <LONGNAME>FACIT-D Questionnaire Version 4 D1 How True Past Seven Days Limit Social Activity Because of Diarrhea Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they have to limit social activity because of diarrhea (diarrhoea), using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="40796">
+      <PUBLICID>2557981</PUBLICID>
+
+      <LONGNAME>Animal Participant Death Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A living organism that has membranous cell walls, requires oxygen and organic foods, and is capable of voluntary movement, as distinguished from a plant or mineral.:Someone who takes part in an activity._The absence of life or state of being dead.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="40804">
+      <PUBLICID>3646379</PUBLICID>
+
+      <LONGNAME>Pharmacokinetics Dose Prior Specimen Collection Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.:Earlier in time or order.:A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis.:The act of gathering things together; having been brought together in one place.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="40831">
+      <PUBLICID>2593327</PUBLICID>
+
+      <LONGNAME>Tissue Sample Diagnosis Date java.lang.String</LONGNAME>
+      <PREFERREDDEFINITION>No value exists._The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation.:a particular day specified as the time something has, or will, happen._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+   <DataElement num="40834">
+      <PUBLICID>2470446</PUBLICID>
+
+      <LONGNAME>Chemotherapy First Cycle Date Missing Value Reason Indicator</LONGNAME>
+      <PREFERREDDEFINITION>The use of synthetic or naturally-occurring chemicals for the treatment of diseases.  Although this term is used to describe any therapy involving the use of chemical-based agents, it is particularly used to refer to the use of chemical-based agents to treat cancer. Antineoplastic chemotherapy works by arresting or killing the growth and spread of cancer cells. Chemotherapy may also include agents that enhance immune function or alter hormonal activity._Preceding all others in time or space or degree._An event or sequence of events that constitute a round or succession of observable phenomena, recurring usually at regular or approximately regular time intervals and in the same sequence._The particular day, month and year an event has happened or will happen._A specific reason explaining why a meaningful value is not available.  A meaningful value answers the question posed by a Data Element Concept.  In contrast, a Missing Value Reason answers the implicit question &quot;Why is there no 'meaningful' value?&quot;, when there is none._An event, entity or condition that typically characterizes a prescribed environment or situation and determines or aids in determining whether certain stated circumstances exist or criteria are satisfied.</PREFERREDDEFINITION>
+   <DataElement num="40869">
+      <PUBLICID>2179592</PUBLICID>
+
+      <LONGNAME>Acute Graft Versus Host Disease Diagnosis Date</LONGNAME>
+      <PREFERREDDEFINITION>Date of the onset of a syndrome of immologically mediated tissue damage occurring following allogeneic transplant usually affecting the skin, liver, and gi tract.  Onset is usually within one hundred days of transplantation or immunologic manipulation. [Manually-curated]</PREFERREDDEFINITION>
+   <DataElement num="40881">
+      <PUBLICID>3014273</PUBLICID>
+
+      <LONGNAME>Bathing Physical Activity Assessment Scale</LONGNAME>
+      <PREFERREDDEFINITION>Response to an inquiry about a person's level of activity on a typical day and health limits on bathing and dressing yourself.</PREFERREDDEFINITION>
+   <DataElement num="40882">
+      <PUBLICID>4553756</PUBLICID>
+
+      <LONGNAME>FAHI Questionnaire Version 4 HI7 How True Past Seven Days Feel Fatigue Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they feel fatigue, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="40883">
+      <PUBLICID>2773327</PUBLICID>
+
+      <LONGNAME>Quality of Life Depression Assessment Day Frequency</LONGNAME>
+      <PREFERREDDEFINITION>the evaluation of the number of occurrences of feelings depression, a mental state of depressed mood characterised by feelings of sadness, despair and discouragement, within a given time period of days as a subjective measurement of an individual's sense of well-being and ability to enjoy life.</PREFERREDDEFINITION>
+   <DataElement num="40891">
+      <PUBLICID>3175829</PUBLICID>
+
+      <LONGNAME>Personal Medical History Variant Angina First Ever Onset of Angina Pectoris Event Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>an account of all medical events and problems a person has experienced._A variant form of angina pectoris caused by coronary artery vasospasm, usually occurring spontaneously and frequently associated with ST segment elevation.:The beginning of the first experience of the symptom complex of angina pectoris.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="40902">
+      <PUBLICID>2839197</PUBLICID>
+
+      <LONGNAME>Initiator Action Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>An act that sets in motion some course of events; a device that activates or releases or causes something to happen.:A thing done._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="40921">
+      <PUBLICID>2750429</PUBLICID>
+
+      <LONGNAME>Abstract Participant Observation Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A concept or idea not associated with any specific instance.:Someone who takes part in an activity.:Watching something and taking note of what happens._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="40942">
+      <PUBLICID>4670615</PUBLICID>
+
+      <LONGNAME>Run Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The act of testing or performing something._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="40971">
+      <PUBLICID>3192594</PUBLICID>
+
+      <LONGNAME>Protocol Step Execution Activity Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A rule which guides how an activity should be performed.:A specific stage of progression through a sequential process.:The act of carrying out some order or instruction to accomplish an aim._The state of being active; any specific activity.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="40987">
+      <PUBLICID>4273455</PUBLICID>
+
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they felt nervous, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="40991">
+      <PUBLICID>2596483</PUBLICID>
+      <LONGNAME>Oral Surgical Procedure Patient Self-Report Prior Osteonecrosis of Jaw Performed Specify</LONGNAME>
+
+      <PREFERREDDEFINITION>Numeric value to represent the day of the end of radiation therapy.</PREFERREDDEFINITION>
+   <DataElement num="40998">
+      <PUBLICID>2930846</PUBLICID>
+      <LONGNAME>Postal Code Address Part Code System xsd.string</LONGNAME>
+
+      <PREFERREDDEFINITION>The act of testing or performing something._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41033">
+      <PUBLICID>3755637</PUBLICID>
+      <LONGNAME>Chronic Graft Versus Host Disease Common Feature Name</LONGNAME>
+
+      <PREFERREDDEFINITION>A concept is the basic unit of information contained in the Thesaurus. They describe sets of individuals in a given domain. A concept has a name, belongs to a Namespace and exists in relation to other concepts. The vertical relationships consist of &quot;isa&quot; statements that form a logical hierarchy (taxonomy or subsumption graph). In general, concepts above a given concept are referred to as superconcepts or parents and those below as subconcepts or children. In addition, there are horizontal named realationships between concepts called Roles, binary relations between concepts that provide a machine-interpretable definition of a concept and the means for discrimination of sibling concepts. A concept may also include Properties, named slots that allow attachment of external information to concepts.:The logical, mathematical, and/or other operations specifying derivation. The rule may range from a simple operation such as subtraction to a very complex set of derivations._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41087">
+      <PUBLICID>3151961</PUBLICID>
+      <LONGNAME>Patient Stage III Stage IV Clear Cell Ovarian Malignant Neoplasm Eligibility Determination Ind-2</LONGNAME>
+
+      <PREFERREDDEFINITION>Having to do with metabolism.:The quality of being free from change or variation or not taking part readily in chemical change._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41096">
+      <PUBLICID>4276832</PUBLICID>
+      <LONGNAME>Laboratory Procedure Serum Immunologic IgM Result Integer::2 Decimal Place Value</LONGNAME>
+
+      <PREFERREDDEFINITION>Person; a human being._New; having no previous example or precedent or parallel.__A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues.  Malignant neoplasms usually metastasize to distant anatomic sites and may recur after excision_the continuum of experience in which events pass from the future through the present to the past._The period of time during which something continues._Measurement is the determination of the size or magnitude of something.  It is also used ro refer to the result of this act._the quantity of days.</PREFERREDDEFINITION>
+   <DataElement num="41098">
+      <PUBLICID>2727147</PUBLICID>
+      <LONGNAME>Variable Value Value java.lang.String</LONGNAME>
+
+      <PREFERREDDEFINITION>information related to the engraftment syndrome, a toxicity of hematopoietic stem cell transplantation that manifests as fever, rash and pulmonary deterioration which becomes evident at marrow engraftment, occuring._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+   <DataElement num="41108">
+      <PUBLICID>2002963</PUBLICID>
+      <LONGNAME>Patient Enjoyment of Life Assessment Quality of Life Assessment</LONGNAME>
+
+      <PREFERREDDEFINITION>Numeric value to represent the day that the patient was diagnosed with clinical chronic pancreatitis.</PREFERREDDEFINITION>
+   <DataElement num="41113">
+      <PUBLICID>2423749</PUBLICID>
+      <LONGNAME>Left Breast Lymph Node Assessment Status</LONGNAME>
+
+      <PREFERREDDEFINITION>A human offspring (son or daughter) of any age; an immediate progeny._Occurring or done each day._The state of being active; any specific activity._The final result of a determination of the value, significance, or extent of._A written or verbal account, representation, statement, or explanation of something._The words of something written.</PREFERREDDEFINITION>
+   <DataElement num="41115">
+      <PUBLICID>3263553</PUBLICID>
+      <LONGNAME>Edit Over-ride Case Last Changed Date</LONGNAME>
+
+      <PREFERREDDEFINITION>A persons' stated observation of how true in the past 7 days they can eat solid foods, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="41126">
+      <PUBLICID>64754</PUBLICID>
+      <LONGNAME>Sentinel Node Positive Hematoxylin and Eosin Staining Assessment Count</LONGNAME>
+
+      <PREFERREDDEFINITION>A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis.:The process by which something is acquired or obtained._The point or place at which something terminates in time, space, or extent.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41137">
+      <PUBLICID>3842337</PUBLICID>
+      <LONGNAME>Brain Natriuretic Peptide Measurement Assessment Lab Result Specify</LONGNAME>
+
+      <PREFERREDDEFINITION>The month, day, and year graft failure and or graft rejection occurred.</PREFERREDDEFINITION>
+   <DataElement num="41150">
+      <PUBLICID>2181256</PUBLICID>
+      <LONGNAME>Autonomic Neuropathy Response Type</LONGNAME>
+
+      <PREFERREDDEFINITION>Records the urological history of the subject that occurred more than 30 days prior to visit associated with biopsy.</PREFERREDDEFINITION>
+   <DataElement num="41180">
+      <PUBLICID>3176062</PUBLICID>
+      <LONGNAME>Study Site Accrual Status Date and Time ISO21090.TS.DATETIME.v1.0</LONGNAME>
+
+      <PREFERREDDEFINITION>A set of ideas, abstractions, or things in the real world that can be identified with explicit boundaries and meaning and whose properties and behavior follow the same rules.:A state of connectedness between people, objects, or events; to be associated or connected with something.:A registry item for which administrative information is recorded in an Administration Record._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41209">
+      <PUBLICID>3822973</PUBLICID>
+      <LONGNAME>Nasopharyngeal Carcinoma Diagnosis Ind</LONGNAME>
+
+      <PREFERREDDEFINITION>Text term to signify that a patient has a diagnosis of immunodeficiency or was receiving therapeutic systemic steroids or any other form of immunosuppressive therapy within 7 days before the first dose of trial treatment.</PREFERREDDEFINITION>
+   <DataElement num="41212">
+      <PUBLICID>2544985</PUBLICID>
+      <LONGNAME>Data Source Identifier java.lang.Long</LONGNAME>
+
+      <PREFERREDDEFINITION>The act or business of transporting goods.:Express the need or desire for; ask for._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41217">
+      <PUBLICID>4155430</PUBLICID>
+      <LONGNAME>Cardiac Magnetic Resonance Imaging Performed Indicator</LONGNAME>
+
+      <PREFERREDDEFINITION>An established procedure to be followed in carrying out a given operation or in a given situation._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41223">
+      <PUBLICID>2611948</PUBLICID>
+      <LONGNAME>Sequence Chromatogram Genotype Relationship Secondary Peak Ratio java.lang.Float</LONGNAME>
+
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._A natural number greater than 1 and less than 3 and the quantity that it denotes: the sum of one and one.:A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day.:A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.:Happening at a time subsequent to a reference time; later in time or order.:Plasma is the fluid (noncellular) portion of the circulating blood, as distinguished from the serum that is the fluid portion of the blood obtained by removal of the fibrin clot and blood cells after coagulation.:The act or event which causes the transition from a liquid to solid matter phase.:The continuum of experience in which events pass from the future through the present to the past._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41240">
+      <PUBLICID>3211598</PUBLICID>
+      <LONGNAME>Collection Study Protocol Protocol Identifier java.lang.String</LONGNAME>
+
+      <PREFERREDDEFINITION>A collection of facts from which conclusions may be drawn._The Life Sciences Identifier (LSID) is an I3C and OMG Life Sciences Research (LSR) Uniform Resource Name (URN) specification. The LSID concept introduces a straightforward approach to naming and identifying data resources stored in multiple, distributed data stores in a manner that overcomes the limitations of naming schemes in use today. By defining a simple, common way to identify and access biologically significant data, whether that data is stored in files, relational databases, in applications, or in internal or public data sources, LSID provides a naming standard underpinning for wide-area science and interoperability. (from W3C)_Value Domain for java language String datatype.</PREFERREDDEFINITION>
+   <DataElement num="41242">
+      <PUBLICID>2552610</PUBLICID>
+      <LONGNAME>Application Context Change Date java.util.Date</LONGNAME>
+
+      <PREFERREDDEFINITION>A designation or description of the application environment or discipline in which a name is applied or from which it originates. (caBIO)_The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41243">
+      <PUBLICID>3874595</PUBLICID>
+      <LONGNAME>Protocol Worksheet Complete Ind</LONGNAME>
+
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they have trouble breathing, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="41256">
+      <PUBLICID>3918212</PUBLICID>
+      <LONGNAME>Associated Premalignant Change(s) Yes No Indicator</LONGNAME>
+
+      <PREFERREDDEFINITION>period of time spent sitting at home unrelated to watching television as an assessment of physical activity that requires physical or mental exertion, especially when performed to develop or maintain fitness per hour, defined as a unit of time 60 minutes or 3600 seconds in length, per week, period of seven consecutive days, during a given month.</PREFERREDDEFINITION>
+   <DataElement num="41293">
+      <PUBLICID>2898714</PUBLICID>
+      <LONGNAME>CaArray Entity Life Sciences Identifier Namespace java.lang.String</LONGNAME>
+
+      <PREFERREDDEFINITION>The act of gathering things together.:A rule which guides how an activity should be performed; a set of formal rules used to specify the format of an exchange of data._The point or place at which something terminates in time, space, or extent.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41298">
+      <PUBLICID>3872070</PUBLICID>
+      <LONGNAME>OARS Physical Health Comorbidity Scale Have Current Illness Gastrointestinal System Ulcer Indicator</LONGNAME>
+
+      <PREFERREDDEFINITION>The number of days related to a peripheral blood stem CD34+ cell harvest performed.</PREFERREDDEFINITION>
+   <DataElement num="41313">
+      <PUBLICID>2981057</PUBLICID>
+      <LONGNAME>Dexamethasone Dose Modification Ind-2</LONGNAME>
+
+      <PREFERREDDEFINITION>A printed or electronic document with spaces to be filled out.:An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41358">
+      <PUBLICID>2778509</PUBLICID>
+      <LONGNAME>Gene Delivery Comment java.lang.String</LONGNAME>
+
+      <PREFERREDDEFINITION>Maladaptive pattern of drug or alcohol use that may lead to social, occupational, psychological, or physical problems._The branches of medical science that deal with nonsurgical techniques._To put into action or service._Before the present time._A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period._Predetermined sets of questions used to collect data - clinical data, social status, occupational group, etc. The term is often applied to a self-completed survey instrument._The final result of a determination of the value, significance, or extent of._A written or verbal account, representation, statement, or explanation of something._The words of something written.</PREFERREDDEFINITION>
+   <DataElement num="41379">
+      <PUBLICID>2615419</PUBLICID>
+      <LONGNAME>Image Positive Left Breast Lesion Finding Count</LONGNAME>
+
+      <PREFERREDDEFINITION>The yes/no response regarding whether the patient developed superficial surgical site infection within 30 days after the operation where the infection involved only skin or subcutaneous tissue of the incision.</PREFERREDDEFINITION>
+   <DataElement num="41384">
+      <PUBLICID>2516919</PUBLICID>
+      <LONGNAME>Dental Restoration Patient Anxiety Oral Health Impact Profile Assessment Scale</LONGNAME>
+
+      <PREFERREDDEFINITION>The completed action of applying, introducing or otherwise giving medications or other substances to the subject or experimental unit. EXAMPLE(S): (1) An experimental unit receives methotrexate as part of chemotherapy, radiation therapy. (2) For a substance administration, target anatomic site code = coronary artery, approach anatomic site code = groin, route of administration code = intra-arterial. The relative timing for a performed activity expressed as the number of days offset from the study-defined reference activity (e.g., date of registration, start of treatment) for this particular experimental unit. EXAMPLE(S): Day 1, Days 10-20 OTHER NAME(S): Study Day NOTE(S): The study-defined reference activity can be different from study to study. The study day for a date after this reference activity is a positive integer calculated as the difference in the two dates + 1. The study day for dates before the reference activity is a negative integer calculated as the difference between the two dates. Note that this means there is no &quot;Day 0.&quot;</PREFERREDDEFINITION>
+   <DataElement num="41448">
+      <PUBLICID>4119933</PUBLICID>
+      <LONGNAME>Well Raw Value Count</LONGNAME>
+
+      <PREFERREDDEFINITION>The act of appraisal, evaluation, or analysis.:Acceptance as satisfactory by an authoritative body; established by authority; given authoritative approval._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41457">
+      <PUBLICID>3158446</PUBLICID>
+      <LONGNAME>Ovary Removed Date</LONGNAME>
+
+      <PREFERREDDEFINITION>the number of days since Health Insurance Portability and Accountability Act (HIPAA) authorization was obtained.</PREFERREDDEFINITION>
+   <DataElement num="41473">
+      <PUBLICID>2689290</PUBLICID>
+      <LONGNAME>Stage Prognostic Factor Derived Summary Stage 1977 Source Number Code</LONGNAME>
+
+      <PREFERREDDEFINITION>To surround an object with a firm chemical substance such as wax or resin, in order to perform cutting of thin sections for microscopic examination.:Something that happens at a given place and time._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41478">
+      <PUBLICID>2712057</PUBLICID>
+      <LONGNAME>Tracer Process Lysis Buffer java.lang.String</LONGNAME>
+
+      <PREFERREDDEFINITION>an account of all medical events and problems a person has experienced._An event in the personal medical history of heart failure, a condition in which the heart is unable to pump enough blood to meet the body's requirements.:The most recent occurrence of heart failure.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41481">
+      <PUBLICID>4420434</PUBLICID>
+      <LONGNAME>Laboratory Procedure T-Lymphocyte CD5 Antigen Result</LONGNAME>
+
+      <PREFERREDDEFINITION>The yes/no/unknown indicator to determine whether the patient received IFN therapy 90 days prior to the resection of the specimen submitted.</PREFERREDDEFINITION>
+   <DataElement num="41484">
+      <PUBLICID>2752785</PUBLICID>
+      <LONGNAME>Disease or Disorder Evaluation Details Lesion Sequence Number java.lang.Integer</LONGNAME>
+
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they are bothered by discharge or bleeding from their vagina, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="41490">
+      <PUBLICID>2223852</PUBLICID>
+      <LONGNAME>Protocol Treatment Flag Yes No Indicator</LONGNAME>
+
+      <PREFERREDDEFINITION>An activity that is intended to occur at some point in the context of a particular study that represents a characteristic or requirement intended to be applied to a potential study subject to determine whether or not they may participate in a study. NOTE(S): This allows questions defined as agnostic criteria in defined eligibility criterion (that is, they could be used either as inclusion or exclusion criteria) to be referenced in specific study protocols and allows the inclusion/exclusion distinction to be determined for that study specifically. An integer falling within minimum and maximum bounds that specifies how many times the planned activity occurs. NOTE(S): If the frequency is more than once a day, this is still interpreted per time, e.g. BID for 5 days is 10 repeats.</PREFERREDDEFINITION>
+   <DataElement num="41506">
+      <PUBLICID>2842658</PUBLICID>
+      <LONGNAME>Specimen Tissue Microarray Prostatectomy Submission Type</LONGNAME>
+
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days their family had accepted their illness, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="41534">
+      <PUBLICID>3761374</PUBLICID>
+      <LONGNAME>Substance Administration Schedule Study Activity Status Code ISO21090.CD.v1.0</LONGNAME>
+
+      <PREFERREDDEFINITION>A uniquely identified, typed representation of textual data.:An object that holds the values or locations of other objects._Coming after all others in time or space or degree or being the only one remaining.:Communicate or express by means of letters or symbols written or imprinted on a surface to represent the sounds or words of a language; record data on a computer.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41568">
+      <PUBLICID>2958589</PUBLICID>
+      <LONGNAME>Behavioral Assessment Evaluation Method java.lang.String</LONGNAME>
+
+      <PREFERREDDEFINITION>A channel for communication between groups.:A way of doing something; how a result is obtained or an end is achieved._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41650">
+      <PUBLICID>2940160</PUBLICID>
+      <LONGNAME>Patient Satisfaction Therapy Caries Dental Restoration Assessment Scale</LONGNAME>
+
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they had vaginal bleeding or spotting, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="41679">
+      <PUBLICID>2783993</PUBLICID>
+      <LONGNAME>New Diagnosis Summary Other Intervention or Procedure java.lang.String</LONGNAME>
+
+      <PREFERREDDEFINITION>Medical device - any machinery designed to aid diagnostic and medical therapies. Medical device has to be designed with rigorous safety standards. There are several basic types of medical devices: life support equipment used to maintain a patient's body functions; therapeutic equipment; monitors and detectors to measure the indexes of a patient's state; imagine machines and laboratory equipment used with diagnostic and status monitoring purposes. In insurance parlance, the term is usually synonymous with assistive device, although it may include medical supplies._A surgical procedure that places something in the human body.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41689">
+      <PUBLICID>2179723</PUBLICID>
+      <LONGNAME>Head and Neck Tumor Clinical N Stage</LONGNAME>
+
+      <PREFERREDDEFINITION>Different than the one(s) previously specified or mentioned.:The normal action performed by a structure or device._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41720">
+      <PUBLICID>4839931</PUBLICID>
+      <LONGNAME>Prior Chemotherapy Intravesical Treatment Code Indicator</LONGNAME>
+
+      <PREFERREDDEFINITION>An activity defined at a global library level that is an action whose immediate and primary intention is the alteration of the physical condition of the study subject or experimental unit. EXAMPLE(S): Procedures may involve the disruption of some body surface (e.g. an incision in a surgical procedure). Conservative procedures such as reduction of a luxated joint, including physiotherapy such as chiropractic treatment, massage, balneotherapy, acupuncture, shiatsu. A coded value specifying the number of occurrences of an activity within a given time period. EXAMPLE(S): BID = Two times per day, at unspecified times (does not necessarily imply that these are 12 hours apart); Q12H = Every twelve hours</PREFERREDDEFINITION>
+   <DataElement num="41741">
+      <PUBLICID>2436698</PUBLICID>
+      <LONGNAME>Infertility Treatment Descriptive Text</LONGNAME>
+
+      <PREFERREDDEFINITION>Text that describes the age at which the family member was diagnosed with bladder cancer in relationship to their 50th birthday.</PREFERREDDEFINITION>
+   <DataElement num="41761">
+      <PUBLICID>4828731</PUBLICID>
+      <LONGNAME>Family Medical History Disease Category Type</LONGNAME>
+
+      <PREFERREDDEFINITION>Numeric representation of an individual's response to a FAHI question about the importance of having had swelling in their face, arms or legs in the past 7 days.</PREFERREDDEFINITION>
+   <DataElement num="41769">
+      <PUBLICID>3133741</PUBLICID>
+      <LONGNAME>Dental Implant Placement Status</LONGNAME>
+
+      <PREFERREDDEFINITION>A person's stated perception of how often in the last seven days they have or had pain, tenderness, or discomfort in their breast, using a Likert scale value captured as a non-enumerated text field.</PREFERREDDEFINITION>
+   <DataElement num="41771">
+      <PUBLICID>2678482</PUBLICID>
+      <LONGNAME>Scientific Control Gene Scientific Control Type java.lang.String</LONGNAME>
+
+      <PREFERREDDEFINITION>Any of a number of technologies that permits the visualization and acquisition of images into a physical or electronic record.:The normal action performed by a structure or device._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="41799">
+      <PUBLICID>2001883</PUBLICID>
+      <LONGNAME>Patient Transient Ischemic Attack Cerebrovascular Accident Personal Medical History Ind-2</LONGNAME>
+
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they felt weak all over, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="41838">
+      <PUBLICID>3761399</PUBLICID>
+      <LONGNAME>Product Problem Discover Performed Observation Outcome Outcome Classification Code ISO21090.DSET.CD.v1.0</LONGNAME>
+
+      <PREFERREDDEFINITION>Number that represents how many days in the past month a person has felt worried, tense or anxious.</PREFERREDDEFINITION>
+   <DataElement num="41846">
+      <PUBLICID>2557853</PUBLICID>
+      <LONGNAME>Self-Organizing Map Parameter Radius java.lang.Float</LONGNAME>
+
+      <PREFERREDDEFINITION>Numeric value for a score on the Manual Ability Measure-36 (MAM-36), a rating scale of 36 everyday tasks that measures self-reported manual ability.</PREFERREDDEFINITION>
+   <DataElement num="41848">
+      <PUBLICID>2711913</PUBLICID>
+      <LONGNAME>Analysis Programming Parameter Add Reference Object Programming Parameter Identifier java.lang.Long</LONGNAME>
+
+   <DataElement num="41874">
+      <PUBLICID>2768168</PUBLICID>
+      <LONGNAME>Toxicity Assessment Response Evaluation Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The finding of bodily harm due to the poisonous effects of something.:The act of judging the value, significance, or extent of something._In medicine, an improvement related to treatment.:Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="41888">
+      <PUBLICID>4553740</PUBLICID>
+      <LONGNAME>FACT-G Questionnaire Version 4 GP5 How True Past Seven Days Bothered By Side Effects of Treatment Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they are bothered by side effects of treatment, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="41895">
+      <PUBLICID>2629840</PUBLICID>
+      <LONGNAME>Comment Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A written explanation or criticism or illustration that is added to a book or other textual material._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="41908">
+      <PUBLICID>2968153</PUBLICID>
+      <LONGNAME>Value Meaning Administered Item Begin Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The significance associated with an allowable/permissible value.:A registry item for which administrative information is recorded in an Administration Record._Have a beginning, in a temporal, spatial, or evaluative sense.:a particular day specified as the time something has, or will, happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="41916">
+      <PUBLICID>3421488</PUBLICID>
+      <LONGNAME>Dental  Removable  Retainer Device Component  Hour Day Use  Count</LONGNAME>
+      <PREFERREDDEFINITION>The quantitative number of hours the participant used of the removable retainer in a day</PREFERREDDEFINITION>
+
+   <DataElement num="41933">
+      <PUBLICID>3226269</PUBLICID>
+      <LONGNAME>Diagnosis To Last Communication Contact Time Day Count</LONGNAME>
+      <PREFERREDDEFINITION>The number of days after diagnosis to the last follow-up or death of the patient.</PREFERREDDEFINITION>
+
+   <DataElement num="41940">
+      <PUBLICID>2185521</PUBLICID>
+      <LONGNAME>Last Menstrual Period Date</LONGNAME>
+      <PREFERREDDEFINITION>First day of the last menstrual period.</PREFERREDDEFINITION>
+
+   <DataElement num="42107">
+      <PUBLICID>4838226</PUBLICID>
+      <LONGNAME>FACIT-Dyspnea 10 Item Short Form Past Seven Days Short of Breath Severity Did Not Make a Bed Reason</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated indication of the reason why in the past 7 days they did not make a bed, using one of two text responses.</PREFERREDDEFINITION>
+
+   <DataElement num="42116">
+      <PUBLICID>3101131</PUBLICID>
+      <LONGNAME>Protocol Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A protocol is a rule which guides how an activity should be performed; a set of formal rules used to specify the format of an exchange of data._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42117">
+      <PUBLICID>2752956</PUBLICID>
+      <LONGNAME>Concomitant Medication Complete Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Concomitant; following as a consequence.:biologically active substance, including those intended for use in diagnosis, treatment, or prevention of disease or other abnormalities, for the relief of suffering, or control or improvement of a physical or mental state; includes biological products._To possess every necessary or normal part or component or step; having come or been brought to a conclusion.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42141">
+      <PUBLICID>2772912</PUBLICID>
+      <LONGNAME>Diagnostic, Therapeutic, and Research Equipment Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>An object needed to perform a diagnostic, therapeutic or research activity._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42162">
+      <PUBLICID>2727639</PUBLICID>
+      <LONGNAME>Menses Longest Time Period Occurrence Day Count</LONGNAME>
+      <PREFERREDDEFINITION>Numeric value to identify the longest period of time in days that has lapsed between a woman's menstrual cycles. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="42166">
+      <PUBLICID>4603859</PUBLICID>
+      <LONGNAME>FACT-P Questionnaire Version 4 P2 How True Past Seven Days Have Certain Painful Body Parts Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they have certain parts of their body where they experience pain, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="42206">
+      <PUBLICID>3101706</PUBLICID>
+      <LONGNAME>Death Event Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The cessation of life.:Something that happens at a given place and time._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42225">
+      <PUBLICID>2752775</PUBLICID>
+      <LONGNAME>On Study Randomization Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Actively participating in a study._The allocation of individuals to groups by chance, especially in order to control the variables in an experiment.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42234">
+      <PUBLICID>4571750</PUBLICID>
+      <LONGNAME>FACT-BRM Questionnaire Version 4 BRM1 How True Past Seven Days Have Pain in Joints Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A persons' stated observation of how true in the past 7 days they have joint pain, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="42270">
+      <PUBLICID>3101502</PUBLICID>
+      <LONGNAME>Collection Protocol Event Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The act of gathering things together.:A rule which guides how an activity should be performed; a set of formal rules used to specify the format of an exchange of data.:Something that happens at a given place and time._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42285">
+      <PUBLICID>2729009</PUBLICID>
+      <LONGNAME>Past Year Menses Mean Duration Day Count</LONGNAME>
+      <PREFERREDDEFINITION>Average number of days in a woman's menses over the past year, expressed as a numeric value or a term. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="42290">
+      <PUBLICID>4838224</PUBLICID>
+      <LONGNAME>FACIT-Dyspnea 10 Item Short Form Past Seven Days Short of Breath Severity Did Not Wash Dishes Reason</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated indication of the reason why in the past 7 days they did not wash dishes, using one of two text responses.</PREFERREDDEFINITION>
+
+   <DataElement num="42318">
+      <PUBLICID>2852627</PUBLICID>
+      <LONGNAME>Quality of Life Mild Exercise Performed Assessment Week Frequency</LONGNAME>
+      <PREFERREDDEFINITION>the number of times mild exercise, activity that requires light physical or mental exertion, especially when performed to develop or maintain fitness, was performed within any period of seven consecutive days as a subjective measurement of an individual's sense of well-being and ability to enjoy life.</PREFERREDDEFINITION>
+
+   <DataElement num="42333">
+      <PUBLICID>2608413</PUBLICID>
+      <LONGNAME>Death Summary Evaluation Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The absence of life or state of being dead.:A shortened version of a speech or written text, containing only the main points._Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42358">
+      <PUBLICID>2915828</PUBLICID>
+      <LONGNAME>Nanomaterial Entity Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A bulk material composed of discrete nano-substructures that are engineered, synthesized and characterized for a myriad of applications.:An independently existing thing (living or nonliving)._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42377">
+      <PUBLICID>3101263</PUBLICID>
+      <LONGNAME>Body Region Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Named areas of the body._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42411">
+      <PUBLICID>4689203</PUBLICID>
+      <LONGNAME>FAIT-F Questionnaire Version 4 ITF1 How True Past Seven Days Move Bowels More Frequently Than Usual Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they move their bowels more frequently than usual, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="42419">
+      <PUBLICID>3235638</PUBLICID>
+      <LONGNAME>Agent Stopped Administration Date Validation Indicator</LONGNAME>
+      <PREFERREDDEFINITION>Reference to the halt or termination of an agent being administered._The particular day, month and year an event has happened or will happen._The act of validating; finding or testing the truth of something._An event, entity or condition that typically characterizes a prescribed environment or situation and determines or aids in determining whether certain stated circumstances exist or criteria are satisfied.</PREFERREDDEFINITION>
+
+   <DataElement num="42441">
+      <PUBLICID>3612996</PUBLICID>
+      <LONGNAME>Acute Graft Versus Host Disease Therapeutic Procedure Finished Pharmaceutical Product Etretinate Occurrence Indicator</LONGNAME>
+      <PREFERREDDEFINITION>The indicator that describes the absence or presence of whether or not Etretinate, activates retinoid receptors, causing an induction of cell differentiation, inhibition of cell proliferation, and inhibition of tissue infiltration by inflammatory cells, was used to treat acute graft versus host disease, a syndrome of immologically mediated tissue damage occurring following allogeneic transplant usually affecting the skin, liver, and gi tract. Onset is usually within one hundred days of transplantation or immunologic manipulation.</PREFERREDDEFINITION>
+
+   <DataElement num="42457">
+      <PUBLICID>2232390</PUBLICID>
+      <LONGNAME>Administered Component Designation Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A name by which an Administered Component is known in a specific Context. Also a placeholder to track the usage of Administered Components by different Contexts. (NCICB)_Brought into existence.:The particular day, month and year an event will happen or has happened._Java Date Type</PREFERREDDEFINITION>
+
+   <DataElement num="42468">
+      <PUBLICID>2866487</PUBLICID>
+      <LONGNAME>Umbilical Cord Blood Prior Thaw At Facility Storage Begin Date</LONGNAME>
+      <PREFERREDDEFINITION>Blood from the placenta (afterbirth) that contains high concentrations of stem cells needed to produce new blood cells._Earlier in time or order._The process whereby heat changes something from a solid to a liquid._Used to indicate position, location, or state._Services and space and equipment provided for a particular purpose; a building or place that provides a particular service or is used for a particular industry._The act of safekeeping goods in a depository._Have a beginning, in a temporal, spatial, or evaluative sense; the point in space or time where something begins._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="42477">
+      <PUBLICID>3351901</PUBLICID>
+      <LONGNAME>Laboratory Procedure Most Recent Postoperative Prostate Specific Antigen Day Number</LONGNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the day that the most recent PSA was performed.</PREFERREDDEFINITION>
+
+   <DataElement num="42485">
+      <PUBLICID>2619946</PUBLICID>
+      <LONGNAME>Experiment End Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A set of actions and observations, performed to verify or falsify a hypothesis or research a causal relationship between phenomena._The point or place at which something terminates in time, space, or extent.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42499">
+      <PUBLICID>3294412</PUBLICID>
+      <LONGNAME>Limited Activity Due To Impairment Or Health Problem Day Count</LONGNAME>
+      <PREFERREDDEFINITION>Number that represents how many days the activity of a person has been limited due to impairment or health condition.</PREFERREDDEFINITION>
+
+   <DataElement num="42522">
+      <PUBLICID>3761527</PUBLICID>
+      <LONGNAME>Inclusion Criteria Clinical Trial Eligibility Criteria Plan Study Activity Study Day Range ISO21090.IVL.INT.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>An activity that is intended to occur at some point in the context of a particular study that represents a characteristic or requirement intended to be applied to a potential study subject to determine whether they may participate in a study. NOTE(S): This allows questions defined as agnostic criteria in defined eligibility criterion (that is, they could be used either as inclusion or exclusion criteria) to be referenced in specific study protocols and allows the inclusion/exclusion distinction to be determined for that study specifically. The relative timing for a planned activity expressed as the number of days offset from the study-defined reference activity (e.g., date of registration, start of treatment) for a particular subject, study subject or experimental unit. EXAMPLE(S): Day 1, Days 10-20 OTHER NAME(S): Visit Day NOTE(S): The study-defined reference activity can be different from study to study.</PREFERREDDEFINITION>
+
+   <DataElement num="42533">
+      <PUBLICID>3261831</PUBLICID>
+      <LONGNAME>Maternal Mutation Analysis Laboratory Procedure Performed Date</LONGNAME>
+      <PREFERREDDEFINITION>A designation that has some relationship to motherhood._A procedure to test for the presence of a specific mutation or a set of mutations as opposed to complete gene sequencing or mutation scanning, which detect most, if not all, mutations in the tested region. (From GeneTests)._Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting._Executed and carried through to completion._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="42543">
+      <PUBLICID>3243801</PUBLICID>
+      <LONGNAME>Person Local Disease Progression Time Duration Measurement Day Count</LONGNAME>
+      <PREFERREDDEFINITION>Person; a human being._Of or belonging to a restricted area or locality.__Cancer that continues to grow or spread._the continuum of experience in which events pass from the future through the present to the past._The period of time during which something continues._Measurement is the determination of the size or magnitude of something.  It is also used ro refer to the result of this act._the quantity of days.</PREFERREDDEFINITION>
+
+   <DataElement num="42549">
+      <PUBLICID>2552707</PUBLICID>
+      <LONGNAME>Property Administered Item Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A characteristic or attribute common to all members of a group or class. (ISO 11179):A registry item for which administrative information is recorded in an Administration Record. (ISO 11179)_The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42578">
+      <PUBLICID>2965011</PUBLICID>
+      <LONGNAME>Blackout Specified Date Month Partial Month Date </LONGNAME>
+      <PREFERREDDEFINITION>A suspension of service (especially of radio or tv broadcasting).:Clearly and explicitly stated.:The particular day, month and year an event has happened or will happen._One of the 12 divisions of a year as determined by a calendar.  It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks._The month of the partial date. [Explanatory comment:  The preferred exchange format for Month is MM. The months of the Gregorian Calendar should be represented by the values 00 to 12 beginning with January as 01. The display format for Month information is determined by programmatic requirements.]</PREFERREDDEFINITION>
+
+   <DataElement num="42590">
+      <PUBLICID>4838228</PUBLICID>
+      <LONGNAME>FACIT-Dyspnea 10 Item Short Form Past Seven Days Short of Breath Severity Did Not Carry Something Weighing 10-20 Pounds Reason</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated indication of the reason why in the past 7 days they did not carry something weighing 10-20 lbs or about 4.5-9kg, like a large bag of groceries, using one of two text responses.</PREFERREDDEFINITION>
+
+   <DataElement num="42594">
+      <PUBLICID>3176184</PUBLICID>
+      <LONGNAME>Administration Reuse Template Study Activity Repeat Frequency Code ISO21090.CD.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>An activity defined at a global library level that is not directly related to hypothesis evaluation or testing, but is typically essential to the efficient and/or effective coordination and execution of a study. EXAMPLE(S): assignment to a treatment arm, registration to a study, start of on-study period, end of on-study period, obtain informed consent, verify eligibility criteria, enroll, randomize, complete study visits, exit trial, break treatment blind, protocol violation, premature withdrawal A coded value specifying the number of occurrences of an activity within a given time period. EXAMPLE(S): BID = Two times per day, at unspecified times (does not necessarily imply that these are 12 hours apart); Q12H = Every twelve hours.</PREFERREDDEFINITION>
+
+   <DataElement num="42605">
+      <PUBLICID>2756100</PUBLICID>
+      <LONGNAME>Other Chemical Association Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Different than the one(s) previously specified or mentioned.:Any process of combining chemical entities that is dependent upon chemical forces._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42607">
+      <PUBLICID>2678479</PUBLICID>
+      <LONGNAME>Microsatellite Instability Experiment Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Genomic instability associated with defective DNA mismatch repair in tumors._A set of actions and observations, performed to verify or falsify a hypothesis or research a causal relationship between phenomena.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42630">
+      <PUBLICID>4573668</PUBLICID>
+      <LONGNAME>FACT-An Questionnaire Version 4 An8 How True Past Seven Days Need to Sleep During Day Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they needed to sleep during the day, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="42638">
+      <PUBLICID>3462298</PUBLICID>
+      <LONGNAME>Other Malignant Neoplasm Diagnosis Day Number</LONGNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the day of the initial diagnosis of any malignancy diagnosed prior to or at the same time as the submitted tumor.</PREFERREDDEFINITION>
+
+   <DataElement num="42645">
+      <PUBLICID>2443962</PUBLICID>
+      <LONGNAME>Carious Dentin Treatment Occurrence Week Frequency</LONGNAME>
+      <PREFERREDDEFINITION>the number of occurrences in a week (any period of seven consecutive days) of treatment of tooth decay that has invaded the dentin, the porous, yellow-hued material between the enamel and pulp of the tooth.</PREFERREDDEFINITION>
+
+   <DataElement num="42679">
+      <PUBLICID>3279229</PUBLICID>
+      <LONGNAME>Person Daily Alcohol Consumption Frequency Amount</LONGNAME>
+      <PREFERREDDEFINITION>Text to describe the number of beverages containing alcohol a patient drinks per day.</PREFERREDDEFINITION>
+
+   <DataElement num="42702">
+      <PUBLICID>3102087</PUBLICID>
+      <LONGNAME>Apgar Score Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>An assessment of the physical condition of an infant at the time birth; involves heart rate, muscle tone, respiratory effort,  color, and reflex responsiveness. _The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42731">
+      <PUBLICID>2539739</PUBLICID>
+      <LONGNAME>Organization Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A formal group of people with one or more shared goals._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42734">
+      <PUBLICID>2756173</PUBLICID>
+      <LONGNAME>Polymer Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A molecule made up of a linked series of repeated monomers._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42746">
+      <PUBLICID>2866523</PUBLICID>
+      <LONGNAME>Donor Cellular Infusion Occurrence Date</LONGNAME>
+      <PREFERREDDEFINITION>A form of adoptive immunotherapy used after hematopoietic stem cell transplantation (HSCT). Lymphocytes from the original stem cell donor are given to the HSCT recipient, after the transplant, to augment an antitumor immune response (graft-versus-tumor), or ensure that the donor stem cells remain engrafted. Although lymphocytes are the most commonly used cell, other cells including fibroblasts, mesenchymal or dendritic cells may be delivered to affect chimerism, treat Graft vs. Host Disease, treat viral infections or Post Transplant Lymphoproliferative Disease or other novel uses under investigation._An instance of something happening, such as an event or incident._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="42752">
+      <PUBLICID>2959973</PUBLICID>
+      <LONGNAME>Study on Hold Date ISO21090.IVL.TS.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>A clinical study status designating the study regarding which the FDA issued an order to a study sponsor to delay a proposed investigation or to suspend an ongoing one. When a proposed study is placed on clinical hold, subjects may not be given the investigational product as part of the study. When an ongoing study is placed on clinical hold, no new subjects may be recruited to the study and placed on the investigational product. Subjects already in the study have to stop receiving therapy involving the investigational agent unless the FDA specifically permits it._The particular day, month and year an event will happen or has happened._Set of consecutive values of an ordered base datatype of the type TS.</PREFERREDDEFINITION>
+
+   <DataElement num="42755">
+      <PUBLICID>3812936</PUBLICID>
+      <LONGNAME>Person Home Health Assistance Occurrence Average Hour Day Count</LONGNAME>
+      <PREFERREDDEFINITION>Information related to the occurrence of the number of hours per day a home health assistant or paid individual is used to assist an individual.</PREFERREDDEFINITION>
+
+   <DataElement num="42756">
+      <PUBLICID>3351906</PUBLICID>
+      <LONGNAME>Prostate Cancer First Recurrent Disease Biochemical Diagnosis Day Number</LONGNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the day of the first biochemical recurrence.</PREFERREDDEFINITION>
+
+   <DataElement num="42757">
+      <PUBLICID>2617834</PUBLICID>
+      <LONGNAME>Person Estimated Daily Caloric Intake Assessment Type</LONGNAME>
+      <PREFERREDDEFINITION>the estimated number of calories (energy content) consumed per day by a person.</PREFERREDDEFINITION>
+
+   <DataElement num="42778">
+      <PUBLICID>3192941</PUBLICID>
+      <LONGNAME>Patient Reported Outcome Problem Person Normal Function Past Week Severity Score_11 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how bad, if at all, functioning normally has been a problem during the past week, including today, using an 11-point Likert scale where 0 is not a problem and 10 is as bad as possible.</PREFERREDDEFINITION>
+
+   <DataElement num="42803">
+      <PUBLICID>4810614</PUBLICID>
+      <LONGNAME>PROMIS 43 Adult Profile v2.0 FATIMP49 Past 7 Days Fatigue Interference with Physical Function Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of the degree to which in the past 7 days their fatigue interferred with their physical functioning, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="42811">
+      <PUBLICID>3101930</PUBLICID>
+      <LONGNAME>Sterilization Event Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The process that effectively kills or eliminates transmissible agents.:Something that happens at a given place and time._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42813">
+      <PUBLICID>2552751</PUBLICID>
+      <LONGNAME>Question Text Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The actual text of the data element as specified on a Case Report Form of a Protocol. (NCICB)_The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="42835">
+      <PUBLICID>4574695</PUBLICID>
+      <LONGNAME>FACT-H&amp;N Questionnaire Version 4 H&amp;N8 How True Past Seven Days Smoke Cigarettes or Other Tobacco Products Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A persons' stated observation of how true in the past 7 days they smoke cigarettes or other tobacco products, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="42857">
+      <PUBLICID>2860466</PUBLICID>
+      <LONGNAME>Systemic Therapy Administered Begin Date</LONGNAME>
+      <PREFERREDDEFINITION>The month, day, and year administration of systemic therapy began.</PREFERREDDEFINITION>
+
+   <DataElement num="42900">
+      <PUBLICID>4633478</PUBLICID>
+      <LONGNAME>PROMIS Adult Short Form 6b Pain Interference v1.0 PAININ8 Past 7 Days How Much Did Pain Interfere with Ability to Concentrate Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how much in the past 7 days pain interfered with their ability to concentrate, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="42958">
+      <PUBLICID>2233040</PUBLICID>
+      <LONGNAME>Cigarette Smoking Lifetime Use Average Number</LONGNAME>
+      <PREFERREDDEFINITION>Average number of cigarettes smoked per day by a person over his/her entire lifetime.</PREFERREDDEFINITION>
+
+   <DataElement num="43039">
+      <PUBLICID>3761115</PUBLICID>
+      <LONGNAME>Exclusion Criteria Clinical Trial Eligibility Criteria Observation Reuse Template Study Activity Repeat Frequency Ratio ISO21090.RTO.INT.NONNEG,PQ.TIME.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>An activity defined at a global library level that identifies a characteristic or requirement intended to be applied to a potential study subject to determine whether they may not participate in a study. EXAMPLE(S): Must be over the age of 18. A ratio representing the number of occurrences of an activity within a given time period. EXAMPLE(S): Once per 12 hours, 2 times per day.</PREFERREDDEFINITION>
+
+   <DataElement num="43046">
+      <PUBLICID>3762375</PUBLICID>
+      <LONGNAME>Endoscopy Day Number</LONGNAME>
+      <PREFERREDDEFINITION>the day of the month related to the occurrence or date of the use of a thin, lighted tube (called an endoscope) to examine the inside of the body.</PREFERREDDEFINITION>
+
+   <DataElement num="43077">
+      <PUBLICID>3101495</PUBLICID>
+      <LONGNAME>Review Approval Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The act of appraisal, evaluation, or analysis.:Acceptance as satisfactory by an authoritative body; established by authority; given authoritative approval._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43103">
+      <PUBLICID>2539796</PUBLICID>
+      <LONGNAME>Administered Item Classification Scheme Item Association Class Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A registry item for which administrative information is recorded in an Administration Record. (ISO 11179):A component of content in a Classification Scheme. This may be a node in a taxonomy or ontology or a term in a thesaurus, etc. (NCICB):In UML modeling, an association that is also a class.  It not only connects a set of classes, but also defines a set of features that belong to the relationship itself. (ISO 11179)_The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43119">
+      <PUBLICID>3727176</PUBLICID>
+      <LONGNAME>FACT-BMT Questionnaire Past Seven Days Get Tired Easily How True Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how true in the past 7 days they got tired easily, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43128">
+      <PUBLICID>2772934</PUBLICID>
+      <LONGNAME>Storage Space Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The act of safekeeping goods in a depository.:An empty area; an area set apart or available for use._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43138">
+      <PUBLICID>4561279</PUBLICID>
+      <LONGNAME>FACT-G Questionnaire Version 4 GS6 How True Past Seven Days Feel Close to Partner Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they felt close to their partner (or the person who is their main support), using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43170">
+      <PUBLICID>2480905</PUBLICID>
+      <LONGNAME>Tobacco Pipe Pouch Number</LONGNAME>
+      <PREFERREDDEFINITION>The number of pipe pouches consumed per day.</PREFERREDDEFINITION>
+
+   <DataElement num="43186">
+      <PUBLICID>2772989</PUBLICID>
+      <LONGNAME>Collaboration Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The process by which two or more parties work jointly towards a common goal._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43195">
+      <PUBLICID>2232734</PUBLICID>
+      <LONGNAME>Question Text Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The actual text of the data element as specified on a Case Report Form of a Protocol. (NCICB)_Brought into existence.:The particular day, month and year an event will happen or has happened._Java Date Type</PREFERREDDEFINITION>
+
+   <DataElement num="43222">
+      <PUBLICID>3101363</PUBLICID>
+      <LONGNAME>Missing Event Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Not existing; not able to be found.:Something that happens at a given place and time._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43228">
+      <PUBLICID>2848521</PUBLICID>
+      <LONGNAME>Tissue Donor Birth Date java.lang.String</LONGNAME>
+      <PREFERREDDEFINITION>Someone who gives blood or tissue or an organ to be used in another person._The event of being born.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="43231">
+      <PUBLICID>3191976</PUBLICID>
+      <LONGNAME>Patient Reported Outcome Problem Weight Gain Past Week Severity Score_11 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how bad, if at all, weight gain has been a problem during the past week, including today, using an 11-point Likert scale where 0 is not a problem and 10 is as bad as possible.</PREFERREDDEFINITION>
+
+   <DataElement num="43242">
+      <PUBLICID>2970778</PUBLICID>
+      <LONGNAME>Physical Activity Sitting Home Assessment Hour Week Month Duration</LONGNAME>
+      <PREFERREDDEFINITION>The period of time spent sitting at home wathcing television as an assessment of physical activity that requires physical or mental exertion, especially when performed to develop or maintain fitness per hour, defined as a unit of time 60 minutes or 3600 seconds in length, per week, period of seven consecutive days, during a given month.</PREFERREDDEFINITION>
+
+   <DataElement num="43271">
+      <PUBLICID>2866764</PUBLICID>
+      <LONGNAME>Hematopoietic Stem Cell Transplantation Response Negation Complete Remission Date</LONGNAME>
+      <PREFERREDDEFINITION>Primitive blood cells derived from embryonic mesenchyme capable of differentiating into any of the blood cell line progenitor cells (erythroblasts, young granulocytic series cells, megakaryocytes, etc.)_The grafting of tissues from one individual to another or place to place within a single individual_Any act or phenomena, or behavior, constituting a reply or reaction of a living organism or its part to some foregoing stimulus or agent._An operation in which a term denies or inverts the meaning of another term or construction._The disappearance of all signs of cancer in response to treatment.  This does not always mean the cancer has been cured._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="43285">
+      <PUBLICID>2964208</PUBLICID>
+      <LONGNAME>Chemotherapy Administered Begin Date</LONGNAME>
+      <PREFERREDDEFINITION>information related to the administration of chemotherapy to an individual._Have a beginning, in a temporal, spatial, or evaluative sense; the point in space or time where something begins._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="43287">
+      <PUBLICID>2552676</PUBLICID>
+      <LONGNAME>Valid Value Administered Item Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The allowable values for a given question on a Case Report Form. (NCICB):A registry item for which administrative information is recorded in an Administration Record. (ISO 11179)_The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43297">
+      <PUBLICID>3101529</PUBLICID>
+      <LONGNAME>Carbon Dioxide Percentage Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Carbon Dioxide:A fraction or ratio with 100 understood as the denominator. (NCI)_The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43299">
+      <PUBLICID>2673130</PUBLICID>
+      <LONGNAME>Form Hematopoietic Stem Cell Transplantation Occurrence Same Date  Indicator</LONGNAME>
+      <PREFERREDDEFINITION>A printed or electronic document with spaces to be filled out._Primitive blood cells derived from embryonic mesenchyme capable of differentiating into any of the blood cell line progenitor cells (erythroblasts, young granulocytic series cells, megakaryocytes, etc.)_The grafting of tissues from one individual to another or place to place within a single individual._An instance of something happening, such as an event or incident._Equal, or closely similar or comparable, in kind or quality or quantity or degree._The particular day, month and year an event has happened or will happen._Indicator of Yes, No, Unknown, Not Done, or Not Applicable to a question.[manually curated]</PREFERREDDEFINITION>
+
+   <DataElement num="43326">
+      <PUBLICID>2968157</PUBLICID>
+      <LONGNAME>Value Meaning Administered Item Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The significance associated with an allowable/permissible value.:A registry item for which administrative information is recorded in an Administration Record._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43355">
+      <PUBLICID>2539740</PUBLICID>
+      <LONGNAME>Organization Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A formal group of people with one or more shared goals._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43362">
+      <PUBLICID>3101031</PUBLICID>
+      <LONGNAME>Event Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Event; something that happens at a given place and time._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43372">
+      <PUBLICID>3743849</PUBLICID>
+      <LONGNAME>Pain Medication Daily Frequency</LONGNAME>
+      <PREFERREDDEFINITION>Text term to describe how often a person takes a dose of pain medication during in one day.</PREFERREDDEFINITION>
+
+   <DataElement num="43374">
+      <PUBLICID>2968180</PUBLICID>
+      <LONGNAME>Valid Value Form Element Administered Item End Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The allowable values for a given data element (question) on a Case Report Form.:A printed or electronic document with spaces to be filled out.:An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system.:A registry item for which administrative information is recorded in an Administration Record._The point or place at which something terminates in time, space, or extent.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43420">
+      <PUBLICID>3912481</PUBLICID>
+      <LONGNAME>FACT-NP Questionnaire Past Seven Days Have Trouble Smelling How True Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how true in the past 7 days they have trouble smelling, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43470">
+      <PUBLICID>4835076</PUBLICID>
+      <LONGNAME>COST - FACIT Version 1 FT5 How True Past Seven Days Frustrated Cannot Work or Contribute as Much as Usual Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they are frustrated that they cannot work or contribute as much as they usually do.</PREFERREDDEFINITION>
+
+   <DataElement num="43475">
+      <PUBLICID>2768136</PUBLICID>
+      <LONGNAME>Follow-up Form Disease Progression Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The process by which information about the health status of an individual is obtained after a study has officially closed; an activity that continues something that has already begun or that repeats something that has already been done.:A printed or electronic document with spaces to be filled out._The worsening of a disease over time.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43480">
+      <PUBLICID>3254097</PUBLICID>
+      <LONGNAME>Substance Abuse Prescription Illicit Substance Past Year Personal Medical History Count</LONGNAME>
+      <PREFERREDDEFINITION>the numeric count during the last 365 days of the instances of maladaptive use of prescription drugs (substances obtained only by the order of legal medical professional) or illegal drugs (substances deemed as harmful and usually subject to legal restriction), that may lead to social, occupational, psychological, or physical problems, as part of a person's medical background regarding health and the occurrence of disease events of the individual as part of the single-question screening test for drug use.</PREFERREDDEFINITION>
+
+   <DataElement num="43500">
+      <PUBLICID>2837793</PUBLICID>
+      <LONGNAME>Study Protocol Last Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The formal plan of an experiment or research activity, including the objective, rationale, design, materials and methods for the conduct of the study; intervention description, and method of data analysis._Coming after all others in time or space or degree or being the only one remaining.:The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43501">
+      <PUBLICID>4553752</PUBLICID>
+      <LONGNAME>FACT-BP Questionnaire BP1 How True Past Seven Days Have Bone Pain Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A persons stated observation of how true in the past 7 days they had bone pain, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43552">
+      <PUBLICID>4613651</PUBLICID>
+      <LONGNAME>FACT-L Questionnaire Version 4 L1 How True Past Seven Days Thinking Clear Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A persons' stated observation of how true in the past 7 days their thinking is clear, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43573">
+      <PUBLICID>3101604</PUBLICID>
+      <LONGNAME>Desiccation Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The act of removing moisture from something._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43588">
+      <PUBLICID>3101937</PUBLICID>
+      <LONGNAME>Generation Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A single step in the line of descent from a common ancestor._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43615">
+      <PUBLICID>4319845</PUBLICID>
+      <LONGNAME>FAACT Questionnaire Past Seven Days Worried About Weight How True Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how true in the past 7 days they are worried about their weight, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43620">
+      <PUBLICID>3718575</PUBLICID>
+      <LONGNAME>Breast Lymphedema Symptom Survey Last Seven Days How Much Breast Feels Heavy Score Likert Scale Text</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how often in the last seven days their breast feels or has felt heavy, using a Likert scale value captured as a non-enumerated text field.</PREFERREDDEFINITION>
+
+   <DataElement num="43621">
+      <PUBLICID>2539875</PUBLICID>
+      <LONGNAME>Data Element Relationship Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The affiliation between two occurrences of Data Elements. (NCICB)_The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43623">
+      <PUBLICID>2797546</PUBLICID>
+      <LONGNAME>Recipient Hospital First Discharge Post Hematopoietic Stem Cell Transplantation Occurrence Date</LONGNAME>
+      <PREFERREDDEFINITION>A person who gets something._An institution that provides medical, surgical, or psychiatric care and treatment for the sick or the injured._Preceding all others in time or space or degree._The release of a patient from a course of care._Happening at a time subsequent to a reference time; later in time or order._Primitive blood cells derived from embryonic mesenchyme capable of differentiating into any of the blood cell line progenitor cells (erythroblasts, young granulocytic series cells, megakaryocytes, etc.)_The replacement of tissue with tissue from the person's own body or from another person._An instance of something happening, such as an event or incident._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="43628">
+      <PUBLICID>3288196</PUBLICID>
+      <LONGNAME>Tumor Tissue Normal Control Collection Day Number</LONGNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the day on which the normal tissue specimen was obtained  from a patient with cancer.</PREFERREDDEFINITION>
+
+   <DataElement num="43648">
+      <PUBLICID>2752835</PUBLICID>
+      <LONGNAME>Assessment Physical Examination Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Examination of the body by auscultation, palpation, percussion, inspection, and olfaction.  (Taber's)_A systemic evaluation of the body and its functions using visual inspection, palpation, percussion, and auscultation, aimed to determine the presence or absence of physical signs of disease or abnormality for individual's health assessment.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43649">
+      <PUBLICID>2773351</PUBLICID>
+      <LONGNAME>Molecule Specimen Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>An aggregate of two or more atoms in a defined arrangement held together by chemical bonds.:A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43661">
+      <PUBLICID>4640915</PUBLICID>
+      <LONGNAME>FACT-CNS Questionnaire Version 4 CNS7 How True Past 7 Days Have Back Pain Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A persons' stated observation of how true in the past 7 days they have back pain, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43662">
+      <PUBLICID>2866525</PUBLICID>
+      <LONGNAME>Current  Chromosome Banding Fluorescence in situ Hybridization Disease or Disorder Status Assessment Date</LONGNAME>
+      <PREFERREDDEFINITION>Occurring in or belonging to the present time._The treatment of chromosomes to reveal characteristic patterns of horizontal bands.  The banding patterns lend each chromosome a distinctive appearance so the 22 pairs of human nonsex chromosomes and the X and Y chromosomes can be identified and distinguished without ambiguity. Banding also permits the recognition of chromosome deletions (lost segments), chromosome duplications (surplus segments) and other types of structural rearrangements of chromosomes. (MedicineNet.com)_A physical mapping approach that uses fluorescent tags to detect hybridization of probes within metaphase chromosomes or less condensed somatic interphase chromatin. This technique can be used for identification of chromosomal abnormalities and for gene mapping._Any abnormal condition of the body or mind that causes discomfort, dysfunction, or distress to the person affected or those in contact with the person. The term is often used broadly to include injuries, disabilities, syndromes, symptoms, deviant behaviors, and atypical variations of structure and function._A condition or state at a particular time._The act of judging the value, significance, or extent of something._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="43683">
+      <PUBLICID>3761132</PUBLICID>
+      <LONGNAME>Material Storage Administration Performed Study Activity Delay Duration ISO21090.PQ.TIME.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>The completed action of safekeeping harvested material in a depository. EXAMPLE(S): refrigeration, cryopreservation, dehydration, etc. NOTE(S): There is a difference between the act of changing the state of material, and the act of maintaining state of the material by storing it, which is represented here. The period of time that an action is delayed relative to an original schedule. EXAMPLE(S): If a substance administration is delayed 2 days as a result of an adverse event, then the delay duration is 2 days.</PREFERREDDEFINITION>
+
+   <DataElement num="43691">
+      <PUBLICID>2732817</PUBLICID>
+      <LONGNAME>Relative Value Recurrence Blackout Week Number java.lang.Integer</LONGNAME>
+      <PREFERREDDEFINITION>Considered in comparison with something else; dependent on or interconnected with something else; not absolute.:Happening again (especially at regular intervals).:A suspension of service (especially of radio or tv broadcasting)._Any period of seven consecutive days.:Number; a concept of quantity derived from zero and units; a numeral or string of numerals that is used for identification._Generic value domain for a primitive java dataype that is an Integer (32-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="43709">
+      <PUBLICID>3192886</PUBLICID>
+      <LONGNAME>Patient Reported Outcome Problem Cough Past Week Severity Score_11 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how bad, if at all, coughing has been a problem during the past week, including today, using an 11-point Likert scale where 0 is not a problem and 10 is as bad as possible.</PREFERREDDEFINITION>
+
+   <DataElement num="43733">
+      <PUBLICID>3219082</PUBLICID>
+      <LONGNAME>Patient Dentist Visit Day Count</LONGNAME>
+      <PREFERREDDEFINITION>the quantity related to days of the patient's dental visit.</PREFERREDDEFINITION>
+
+   <DataElement num="43736">
+      <PUBLICID>2775861</PUBLICID>
+      <LONGNAME>First Greater Than or Equal To Platelet Count 50000 Recovery Occurrence Date</LONGNAME>
+      <PREFERREDDEFINITION>Preceding all others in time or space or degree._A statement about the relative size or order of two objects specifying that either both objects are the same in quantity or measure or value or status or that the object of interest exceeds the other object in one of these ways._Indicates a platelet count of at least 50,000 per cubic millimeter._A healing process and/or an outcome implying relative health.  The term is typically used in the context of direct and indirect effects of sickness or injury._An instance of something happening, such as an event or incident._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="43751">
+      <PUBLICID>3285119</PUBLICID>
+      <LONGNAME>Cigarettes Smoked Average Daily Count</LONGNAME>
+      <PREFERREDDEFINITION>Number that represents the cigarettes smoked within a 24 hour day period.</PREFERREDDEFINITION>
+
+   <DataElement num="43755">
+      <PUBLICID>2739474</PUBLICID>
+      <LONGNAME>NonCigarette Tobacco Use Health Care Visit Type</LONGNAME>
+      <PREFERREDDEFINITION>Participant's reporting of  any use of nicotine or tobacco products, other than cigarettes, after midnight of the day of the visit; this information is meant to capture any tobacco consumption that could affect the participant's CO level; it is not meant as a quantification of the amount used. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="43779">
+      <PUBLICID>3376302</PUBLICID>
+      <LONGNAME>FAHI Questionnaire Hopeful About Future Past 7 Days How Important Score Five Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Numeric representation of an individual's response to a FAHI question about the importance of being hopeful in the past 7 days about the importance of the future.</PREFERREDDEFINITION>
+
+   <DataElement num="43805">
+      <PUBLICID>2771615</PUBLICID>
+      <LONGNAME>Scientific Publication Year java.lang.Integer</LONGNAME>
+      <PREFERREDDEFINITION>A class of publication in which original scientific work is described.  The format usually includes an introduction in which relevant concepts are identified and the experimental system under study is presented, a section describing the experiments that were performed to test a specific hypothesis and the results and observations that were obtained, a section in which the results are discussed relative to findings by other investigators and the current state of knowledge in the field, and a section describing the experimental methods and procedures in sufficient detail to enable the reproduction of the work by independent investigators._The period of time that it takes for Earth to make a complete revolution around the sun; a period of time containing 365 days._Generic value domain for a primitive java dataype that is an Integer (32-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="43831">
+      <PUBLICID>3761157</PUBLICID>
+      <LONGNAME>Adverse Event Outcome Assessment Observation Performed Study Activity Study Day Range ISO21090.IVL.INT.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>The completed action of evaluating the final state of a subject or study subject who experienced an adverse event, which takes place after the adverse event occurs. The relative timing for a performed activity expressed as the number of days offset from the study-defined reference activity (e.g., date of registration, start of treatment) for this particular experimental unit. EXAMPLE(S): Day 1, Days 10-20 OTHER NAME(S): Study Day NOTE(S): The study-defined reference activity can be different from study to study. The study day for a date after this reference activity is a positive integer calculated as the difference in the two dates + 1. The study day for dates before the reference activity is a negative integer calculated as the difference between the two dates. Note that this means there is no &quot;Day 0.&quot;</PREFERREDDEFINITION>
+
+   <DataElement num="43850">
+      <PUBLICID>3333727</PUBLICID>
+      <LONGNAME>Day Preoperative Prostate-Specific Antigen Result Number</LONGNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the day of obtaining the pre-operative prostate specific antigen testing.</PREFERREDDEFINITION>
+
+   <DataElement num="43857">
+      <PUBLICID>4821853</PUBLICID>
+      <LONGNAME>EORTC QLQ-BN20 44 Past Week Feel Drowsy During the Daytime Score 4 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated perception of how often in the past week they felt drowsy during the daytime, using a four point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43878">
+      <PUBLICID>2232729</PUBLICID>
+      <LONGNAME>Question Text End Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The actual text of the data element as specified on a Case Report Form of a Protocol. (NCICB)_The point or place at which something terminates in time, space, or extent.:The particular day, month and year an event will happen or has happened._Java Date Type</PREFERREDDEFINITION>
+
+   <DataElement num="43879">
+      <PUBLICID>2752773</PUBLICID>
+      <LONGNAME>On Study Informed Consent Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Actively participating in a study._Consent by a patient to a surgical or medical procedure or participation in a clinical study after achieving an understanding of the relevant medical facts and the risks involved.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43882">
+      <PUBLICID>3913277</PUBLICID>
+      <LONGNAME>FACT-Taxane Questionnaire Past Seven Days Have Pain in Fingertips How True Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how true in the past 7 days they pain in their fingertips, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43896">
+      <PUBLICID>2752692</PUBLICID>
+      <LONGNAME>Generalized Laboratory Procedure Date Date Hematology Test Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Widespread, broadly dispersed, common.:Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting._A string unique to a time duration of 24 hours between 2 successive midnights defined by the local time zone. The specific representation of a date will depend on which calendar convention is in force as well as local ordering conventions.:No value exists:A laboratory test that has blood as its specimen.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43969">
+      <PUBLICID>3102037</PUBLICID>
+      <LONGNAME>Neoplasm Size Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>An abnormal tissue growth resulted from uncontrolled cell proliferation.:The physical magnitude of something._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44015">
+      <PUBLICID>3187556</PUBLICID>
+      <LONGNAME>Diagnostic Electrocardiogram Performed Time</LONGNAME>
+      <PREFERREDDEFINITION>Time of day a diagnostic electrocardiogram performed.</PREFERREDDEFINITION>
+
+   <DataElement num="44027">
+      <PUBLICID>3101362</PUBLICID>
+      <LONGNAME>Missing Event Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Not existing; not able to be found.:Something that happens at a given place and time._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44062">
+      <PUBLICID>4321119</PUBLICID>
+      <LONGNAME>University of Washington Quality of Life Questionnaire Most Important Issues Past 7 Days Taste Food 4 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated perception of their ability to taste food in the past seven days, using a 4 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="44065">
+      <PUBLICID>2959993</PUBLICID>
+      <LONGNAME>Study Protocol Document Primary Complete Date Type Code PrimaryCompletionDateType</LONGNAME>
+      <PREFERREDDEFINITION>A detailed examination, analysis, or critical inspection of a subject designed to discover facts about it.:A rule which guides how an activity should be performed.:An organized collection of records that describe a particular body of data._Occurring first in time or sequence; original; of greatest rank or importance or value.:To possess every necessary or normal part or component or step; having come or been brought to a conclusion.:The particular day, month and year an event has happened or will happen.:Something distinguishable as an identifiable class based on common qualities.:A symbol or combination of symbols which is given an arbitrary meaning within a systematized collection of concepts used for data representation._The code that indicates whether the primary completion date is actual or anticipated.</PREFERREDDEFINITION>
+
+   <DataElement num="44079">
+      <PUBLICID>2998141</PUBLICID>
+      <LONGNAME>Adverse Event Reporting Clinical Trial Period Begin Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Any unfavorable or unintended symptom, sign, or disease including an abnormal laboratory finding) temporally associated with the use of a medical treatment or procedure that may or may not be considered related to the medical treatment or procedure.  Such events can be intervention related, dose related, route related, patient related, or caused by an interaction with another drug(s) or procedure(s).:The act of providing a short account.:A possibly-repeating collection of consecutive days that define the length of a Study Segment_Have a beginning, in a temporal, spatial, or evaluative sense.:a particular day specified as the time something has, or will, happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44087">
+      <PUBLICID>3101418</PUBLICID>
+      <LONGNAME>Metastasis Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Cancer that has spread from the organ in which it first appeared to another organ. For example, breast cancer cells may spread (metastasize) to the lungs and cause the growth of a new tumor. When this happens, the disease is called metastatic breast cancer._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44099">
+      <PUBLICID>2552760</PUBLICID>
+      <LONGNAME>Question Repeat Administered Item Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A sentence of inquiry that asks for a reply; a request for information (e.g., a formal request to a database or search engine).:Make or do or perform again.:A registry item for which administrative information is recorded in an Administration Record._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44129">
+      <PUBLICID>3613017</PUBLICID>
+      <LONGNAME>Acute Graft Versus Host Disease Therapeutic Procedure Finished Pharmaceutical Product Thalidomide Occurrence Indicator</LONGNAME>
+      <PREFERREDDEFINITION>The indicator that describes the absence or presence of whether or not thalidomide, a drug that belongs to the family of drugs called angiogenesis inhibitors that prevents the growth of new blood vessels into a solid tumor, as treatment for acute graft versus host disease, a syndrome of immologically mediated tissue damage occurring following allogeneic transplant usually affecting the skin, liver, and gi tract with an  onset that is usually within one hundred days of transplantation or immunologic manipulation.</PREFERREDDEFINITION>
+
+   <DataElement num="44151">
+      <PUBLICID>3176372</PUBLICID>
+      <LONGNAME>Administration, Management Performed Study Activity Delay Duration ISO21090.PQ.TIME.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>The completed activity within the context of a given study that is not directly related to the study's overarching hypothesis evaluation or testing, but is nonetheless essential to the efficient and/or effective coordination and execution of the study. EXAMPLE(S): assignment to a treatment arm, registration to a study, start of on-study period, end of on-study period, obtain informed consent, verify eligibility criteria, enroll, randomize, complete study visits, exit trial, break treatment blind, protocol violation, premature withdrawal. The period of time that an action is delayed relative to an original schedule. EXAMPLE(S): If a substance administration is delayed 2 days as a result of an adverse event, then the delayDuration is 2 days.</PREFERREDDEFINITION>
+
+   <DataElement num="44176">
+      <PUBLICID>2773183</PUBLICID>
+      <LONGNAME>Safety Warning Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The state of being certain that adverse effects will not be caused by some agent under defined conditions.:Cautionary advice about something._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44188">
+      <PUBLICID>3101668</PUBLICID>
+      <LONGNAME>Air Filtration Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A mixture of gases making up the earth's atmosphere, consisting mainly of nitrogen, oxygen, argon, and carbon dioxide.:The process of passing a liquid or gas through a filter._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44200">
+      <PUBLICID>3151128</PUBLICID>
+      <LONGNAME>Recurrent Disease Cancer Progression First Diagnosis Day Number</LONGNAME>
+      <PREFERREDDEFINITION>Numeric value that represents the day that disease recurrence was first diagnosed.</PREFERREDDEFINITION>
+
+   <DataElement num="44203">
+      <PUBLICID>3008726</PUBLICID>
+      <LONGNAME>Surgical Procedure Re-excision First Cancer Progression Day Date</LONGNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the day of surgical resection for initial disease recurrence.</PREFERREDDEFINITION>
+
+   <DataElement num="44204">
+      <PUBLICID>2848529</PUBLICID>
+      <LONGNAME>Tissue Donor Month Survival Quantity java.lang.Integer</LONGNAME>
+      <PREFERREDDEFINITION>Someone who gives blood or tissue or an organ to be used in another person._One of the 12 divisions of a year as determined by a calendar.  It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks.:Continuance of life or existence especially under adverse conditions; includes methods and philosophy of survival.:How much there is of something that you can measure; the total amount or number._Generic value domain for a primitive java dataype that is an Integer (32-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="44210">
+      <PUBLICID>3212385</PUBLICID>
+      <LONGNAME>Center for Epidemiologic Studies Depression Scale Time</LONGNAME>
+      <PREFERREDDEFINITION>Time of the day of self-reported center for epidemiologic studies depression scale evaluation.</PREFERREDDEFINITION>
+
+   <DataElement num="44224">
+      <PUBLICID>2752572</PUBLICID>
+      <LONGNAME>Special Laboratory Procedure Laboratory Procedure Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Surpassing what is common or usual or expected.:Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting._Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44232">
+      <PUBLICID>2968101</PUBLICID>
+      <LONGNAME>Repeat Object Form Element Administered Item Begin Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Something occurring more than once.:A printed or electronic document with spaces to be filled out.:An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system.:A registry item for which administrative information is recorded in an Administration Record._Have a beginning, in a temporal, spatial, or evaluative sense.:a particular day specified as the time something has, or will, happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44252">
+      <PUBLICID>2756758</PUBLICID>
+      <LONGNAME>Daily Menstrual Cycle Flow Description Code</LONGNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the amount of blood loss during one day of the menstrual cycle. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="44253">
+      <PUBLICID>2870095</PUBLICID>
+      <LONGNAME>Performed Study Activity Identifier ISO21090.II.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>An activity that is successfully or unsuccessfully completed. EXAMPLE(S): CBC performed on a specific study subject on a given day. A scheduled blood draw that is missed by a specific experimental unit on a given day. A unique symbol that establishes identity of an activity. EXAMPLE(S): 12345 is the identifier for a substance administration</PREFERREDDEFINITION>
+
+   <DataElement num="44265">
+      <PUBLICID>2960066</PUBLICID>
+      <LONGNAME>Observation Study Protocol Document Primary Complete Date Type Code PrimaryCompletionDateType</LONGNAME>
+      <PREFERREDDEFINITION>Watching something and taking note of what happens.:A detailed examination, analysis, or critical inspection of a subject designed to discover facts about it.:A rule which guides how an activity should be performed.:An organized collection of records that describe a particular body of data._Occurring first in time or sequence; original; of greatest rank or importance or value.:To possess every necessary or normal part or component or step; having come or been brought to a conclusion.:The particular day, month and year an event has happened or will happen.:Something distinguishable as an identifiable class based on common qualities.:A symbol or combination of symbols which is given an arbitrary meaning within a systematized collection of concepts used for data representation._The code that indicates whether the primary completion date is actual or anticipated.</PREFERREDDEFINITION>
+
+      <PUBLICID>4735951</PUBLICID>
+      <LONGNAME>Voice Handicap Index-10 4 Sound of Voice Varies Throughout Day Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how often the sound of their voice varies throughout the day, using a 5 point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="44333">
+
+      <PUBLICID>3912483</PUBLICID>
+      <LONGNAME>FACT-NP Questionnaire Past Seven Days Can Enjoy Taste of Food How True Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how true in the past 7 days they can enjoy the taste of food, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="44337">
+
+      <PUBLICID>4609737</PUBLICID>
+      <LONGNAME>FACT-Cog Questionnaire Version 3 CogPCH2 How True Past Seven Days Memory is as Good as it Always Has Been Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A persons' stated observation of how true in the past 7 days their memory is as good as it has always been, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="44347">
+
+      <PUBLICID>3101735</PUBLICID>
+      <LONGNAME>Therapeutic Procedure Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>An action or administration of therapeutic agents to produce an effect that is intended to alter the course of a pathologic process._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44348">
+
+      <PUBLICID>4561278</PUBLICID>
+      <LONGNAME>FACT-G Questionnaire Version 4 GS5 How True Past Seven Days Satisfied with Family Communication Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they were satisfied with family communication about their illness, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="44365">
+
+      <PUBLICID>2998094</PUBLICID>
+      <LONGNAME>Adverse Event Post Submission Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, syndrome, or disease, temporally associated with the use of a medical product or procedure, regardless of whether or not it is considered related to the product or procedure (attribution of unrelated, unlikely, possible, probable, or definite). The concept refers to events that could be medical product related, dose related, route related, patient related, caused by an interaction with another therapy or procedure, or caused by opioid initiation or dose escalation. The term also is referred to as an adverse experience. The old term Side Effect is retired and should not be used._Happening at a time subsequent to a reference time; later in time or order.:Referred for judgment or consideration; handed over.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44380">
+
+      <PUBLICID>3912405</PUBLICID>
+      <LONGNAME>Patient Last Attempt Contact Month Year Date</LONGNAME>
+      <PREFERREDDEFINITION>information related to the last attempt to contact a patient._the particular day specified as mm/yy that an event or action has, or will, happen.</PREFERREDDEFINITION>
+   <DataElement num="44387">
+
+      <PUBLICID>3173110</PUBLICID>
+      <LONGNAME>Therapeutic Procedure First Course Radiation Therapy Begin Date java.lang.String</LONGNAME>
+      <PREFERREDDEFINITION>An action or administration of therapeutic agents to produce an effect that is intended to alter the course of a pathologic process.:Preceding all others in time or space or degree.:A period of protocol-prescribed activity or intervention._Treatment of a disease by means of exposure of the target or the whole body to radiation. Radiation therapy is often used as part of curative therapy and occasionally as a component of palliative treatment for cancer. Other uses include total body irradiation prior to transplantation.:Have a beginning, in a temporal, spatial, or evaluative sense; the point in space or time where something begins.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+   <DataElement num="44406">
+
+      <PUBLICID>4573666</PUBLICID>
+      <LONGNAME>FACT-An Questionnaire Version 4 An5 How True Past Seven Days Have Energy Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they had energy, using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="44482">
+
+      <PUBLICID>3101371</PUBLICID>
+      <LONGNAME>Disease or Disorder Stage Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Any abnormal condition of the body or mind that causes discomfort, dysfunction, or distress to the person affected or those in contact with the person. The term is often used broadly to include injuries, disabilities, syndromes, symptoms, deviant behaviors, and atypical variations of structure and function.:Any distinct time period in a sequence of events._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44493">
+
+      <PUBLICID>3102047</PUBLICID>
+      <LONGNAME>Mating Event Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The act of pairing individuals for sexual reproduction.:Something that happens at a given place and time._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44525">
+
+      <PUBLICID>2773068</PUBLICID>
+      <LONGNAME>Role Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The usual or expected function of something; the part something plays in an action or event._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44540">
+
+      <PUBLICID>3101705</PUBLICID>
+      <LONGNAME>Death Event Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The cessation of life.:Something that happens at a given place and time._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44546">
+
+      <PUBLICID>3761475</PUBLICID>
+      <LONGNAME>Notification Administration Reuse Template Study Activity Repeat Frequency Code ISO21090.CD.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>An administrative activity defined at the global library level that represents the communication of a message to a recipient. EXAMPLE(S): An alert sent to a study PI that the study has reached 75% of target subject accrual. A coded value specifying the number of occurrences of an activity within a given time period. EXAMPLE(S): BID = Two times per day, at unspecified times (does not necessarily imply that these are 12 hours apart), Q12H = Every twelve hours.</PREFERREDDEFINITION>
+   <DataElement num="44568">
+
+      <PUBLICID>3192897</PUBLICID>
+      <LONGNAME>Patient Reported Outcome Problem Crying Past Week Severity Score_11 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how bad, if at all, crying/feeling like crying has been a problem during the past week, including today, using an 11-point Likert scale where 0 is not a problem and 10 is as bad as possible.</PREFERREDDEFINITION>
+   <DataElement num="44571">
+
+      <PUBLICID>4838227</PUBLICID>
+      <LONGNAME>FACIT-Dyspnea 10 Item Short Form Past Seven Days Short of Breath Severity Did Not Lift Something Weighing 10-20 Pounds Reason</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated indication of the reason why in the past 7 days they did not lift something weighing 10-20 lbs or about 4.5-9kg, like a large bag of groceries, using one of two text responses.</PREFERREDDEFINITION>
+   <DataElement num="44658">
+
+      <LONGNAME>Cancer Identification Multiple Tumor Date</LONGNAME>
+      <PREFERREDDEFINITION>The month, day and year the patient is diagnosed with multiple or subsequent reportable tumor(s) reported as a single primary using the SEER, IARC, or Canadian Cancer Registry multiple primary rules.</PREFERREDDEFINITION>
+   <DataElement num="44666">
+      <PUBLICID>2953635</PUBLICID>
+
+      <LONGNAME>Intervention Trial Study Protocol Document Begin Date Type Code StartDateType</LONGNAME>
+      <PREFERREDDEFINITION>A pre-clinical or clinical study in human beings in which individuals are assigned by an investigator based on a protocol to receive specific interventions. The individuals are then followed and biomedical and/or health outcomes are assessed.:A detailed examination, analysis, or critical inspection of a subject designed to discover facts about it.:A rule which guides how an activity should be performed.:An organized collection of records that describe a particular body of data._Have a beginning, in a temporal, spatial, or evaluative sense; the point in space or time where something begins.:The particular day, month and year an event has happened or will happen.:Something distinguishable as an identifiable class based on common qualities.:A symbol or combination of symbols which is given an arbitrary meaning within a systematized collection of concepts used for data representation._The code that indicates whether the start date is an actual date or an anticipated date.</PREFERREDDEFINITION>
+   <DataElement num="44668">
+      <PUBLICID>3237825</PUBLICID>
+
+      <LONGNAME>Clinical Study Site Research Personnel Staff Security Role Object Begin Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A healthcare organization, an institution, a facility, a healthcare provider, or a part or a constituent of any of the above entities directly involved in conducting a particular clinical study.:People engaged in research.:The employees of an organization; personnel who assist their superior in carrying out an assigned task.:This class defines the security role object in context of an application. The roles are collection of privileges._Have a beginning, in a temporal, spatial, or evaluative sense.:a particular day specified as the time something has, or will, happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44680">
+      <PUBLICID>2232693</PUBLICID>
+
+      <LONGNAME>Graft Versus Host Disease Therapeutic Procedure Or Preventive Intervention Immunosuppressant Final Administered End Date</LONGNAME>
+      <PREFERREDDEFINITION>An incompatibility reaction (which may be fatal) in a subject (host) of low immunological competence (deficient lymphoid tissue) who has been the recipient of immunologically competent lymphoid tissue from a donor who lacks at least one antigen possessed by the recipient host; the reaction, or disease, is the result of action of the transplanted cells against those host tissues that possess the antigen not possessed by the donor. Seen most commonly following bone marrow transplantation, acute disease is seen after 5-40 days and chronic disease weeks to months after transplantation, affecting, principally, the gastrointestinal tract, liver, and skin._An action or administration of therapeutic agents to produce an effect that is intended to alter or stop a pathologic process._An article used to connect words, phrases, or clauses representing alternatives; used to connect alternative terms for the same thing; used in correlation; used to correct or rephrase what was previously said; otherwise._Therapeutic, nutritional, environmental, social and or behavioral interventions at the societal, community, organizational or individual levels to reduce, modify or stop the course of a disease._Agents that suppress immune function by one of several mechanisms of action. Classical cytotoxic immunosuppressants act by inhibiting DNA synthesis. Others may act through activation of suppressor T-cell populations or by inhibiting the activation of helper cells. While immunosuppression has been brought about in the past primarily to prevent rejection of transplanted organs, new applications involving mediation of the effects of interleukins and other cytokines are emerging._The act of having given something (e.g., a medication or test)._The point or place at which something terminates in time, space, or extent._a particular day specified as the time something has, or will, happen.</PREFERREDDEFINITION>
+   <DataElement num="44689">
+      <PUBLICID>2773076</PUBLICID>
+
+      <LONGNAME>Quantity Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>How much there is of something that you can measure; the total amount or number._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44690">
+      <PUBLICID>2773536</PUBLICID>
+
+      <LONGNAME>Layout Change Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A plan or design of something that is laid out._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44722">
+      <PUBLICID>2968187</PUBLICID>
+
+      <LONGNAME>FACT-G Questionnaire Version 4 GF1 How True Past Seven Days Able to Work Score 5 Point Scale</LONGNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how true in the past 7 days they were able to work (including work at home), using a five-point Likert scale.</PREFERREDDEFINITION>
+   <DataElement num="44730">
+      <PUBLICID>2005468</PUBLICID>
+
+      <LONGNAME>Docetaxel Agent First Day Administered Dose</LONGNAME>
+      <PREFERREDDEFINITION>the dose of Docetaxel administered on the first day of the treatment cycle.</PREFERREDDEFINITION>
+   <DataElement num="44741">
+      <PUBLICID>2006910</PUBLICID>
+
+      <LONGNAME>Organism Additional Name Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>Any individual living thing.:Added; extra; further.:The words or language units by which a thing is known._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44755">
+      <PUBLICID>2773052</PUBLICID>
+
+      <LONGNAME>Conceptual Domain Administered Item End Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The set of all possible Valid Value meanings of a Data Element Concept expressed without representation. (NCICB)_The point or place at which something terminates in time, space, or extent.:The particular day, month and year an event will happen or has happened._Java Date Type</PREFERREDDEFINITION>
+   <DataElement num="44780">
+      <PUBLICID>2656738</PUBLICID>
+
+      <LONGNAME>Blackout Specified Date Year java.lang.Integer</LONGNAME>
+      <PREFERREDDEFINITION>A suspension of service (especially of radio or tv broadcasting).:Clearly and explicitly stated.:The particular day, month and year an event has happened or will happen._The period of time that it takes for Earth to make a complete revolution around the sun; a period of time containing 365 days._Generic value domain for a primitive java dataype that is an Integer (32-bit two's complement).</PREFERREDDEFINITION>
+   <DataElement num="44790">
+      <PUBLICID>2743696</PUBLICID>
+
+      <LONGNAME>Administration Reuse Template Study Activity Repeat Frequency Ratio ISO21090.RTO.INT.NONNEG,PQ.TIME.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>An activity defined at a global library level that is not directly related to hypothesis evaluation or testing, but is typically essential to the efficient and/or effective coordination and execution of a study. EXAMPLE(S): assignment to a treatment arm, registration to a study, start of on-study period, end of on-study period, obtain informed consent, verify eligibility criteria, enroll, randomize, complete study visits, exit trial, break treatment blind, protocol violation, premature withdrawal A ratio representing the number of occurrences of an activity within a given time period. EXAMPLE(S): Once per 12 hours, 2 times per day</PREFERREDDEFINITION>
+   <DataElement num="44794">
+      <PUBLICID>3175824</PUBLICID>
+
+      <LONGNAME>Reuse Template Study Activity Repeat Frequency Code ISO21090.CD.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>A coded value specifying the number of occurrences of an activity within a given time period. EXAMPLE(S): BID = Two times per day, at unspecified times (does not necessarily imply that these are 12 hours apart); Q12H = Every twelve hours</PREFERREDDEFINITION>
+   <DataElement num="44795">
+      <PUBLICID>3600425</PUBLICID>
+
+      <LONGNAME>Platelet Transfusion Requirement Day Count</LONGNAME>
+      <PREFERREDDEFINITION>the quantity of days related to requirement of the transfer of blood platelets from a donor to a recipient or reinfusion to the donor.</PREFERREDDEFINITION>
+   <DataElement num="44828">
+      <PUBLICID>3157575</PUBLICID>
+
+      <LONGNAME>Adverse Event Outcome Assessment Observation Performed Study Activity Delay Duration ISO21090.PQ.TIME.v1.0</LONGNAME>
+      <PREFERREDDEFINITION>A judgment of the final state of a person who experienced an adverse event, which takes place after the adverse event occurs. The period of time that an action is delayed relative to an original schedule. EXAMPLE(S): If a substance administration is delayed 2 days as a result of an adverse event, then the delayDuration is 2 days.</PREFERREDDEFINITION>
+   <DataElement num="44948">
+      <PUBLICID>2749826</PUBLICID>
+
+      <LONGNAME>Parameter Object Created Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>A Parameter is a replaceable value in a Parameterizable class.  Examples of Parameters include: scanning wavelength, laser power, centrifuge speed, multiplicative errors, the number of input nodes to a SOM, and PCR temperatures._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44950">
+      <PUBLICID>3101808</PUBLICID>
+
+      <LONGNAME>Pharmacokinetics One Hour Dose Post Specimen Collection Date java.util.Date</LONGNAME>
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._The smallest natural number and quantity it denotes: a single entity, unit, or object.:A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day.:A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.:Happening at a time subsequent to a reference time; later in time or order.:A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis.:The act of gathering things together; having been brought together in one place.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+   <DataElement num="44979">
+      <PUBLICID>2232310</PUBLICID>
+
