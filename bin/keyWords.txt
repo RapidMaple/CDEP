@@ -1,0 +1,38 @@
+before -> before,prior to,previous,sooner,earlier
+after -> after,post, subsequent,later
+during -> during, concurrent
+date -> date,january,february,march,april,june,july,august,september,october,november,december
+within
+duration
+time
+most recent
+latest
+earliest
+until
+between
+same day
+ now 
+since
+over the last
+at least
+completed
+ago
+today
+morning
+night
+lunch
+length
+in the last
+earlier than
+finished
+end
+when
+once
+while
+seconds
+minute
+hour
+day
+week
+month
+year
