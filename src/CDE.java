@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 public class CDE {
 	private List<String> elements;
 	private List<String> matched;
-	public static final File keyWords = new File("bin//keyWords.txt"); // list of key words to search for, formatted as "key word - key word, syn, syn,..."
+	public static final File keyWords = new File("bin//keyWordsCondensed.txt"); // list of key words to search for, formatted as "key word - key word, syn, syn,..."
 	public static Pattern searchPattern; // constructed from searchFields.txt
 	public static int full;
 	
@@ -49,7 +49,7 @@ public class CDE {
 					else
 						syns = sp[1].split("(,\\s+)|(,)");
 					for(String syn : syns){
-						if(temp.indexOf(syn) != -1){
+						if(temp.indexOf(syn) != -1 || temp.matches(syn)){
 							matched.add(main);
 							isValid = true;
 						}

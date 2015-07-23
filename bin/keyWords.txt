@@ -5,26 +5,26 @@ date -> date,january,february,march,april,june,july,august,september,october,nov
 within
 duration
 time
-most recent
-latest
-earliest
+most recent *
+latest *
+earliest *
 until
 between
-same day
- now 
-since
-over the last
+same day *
+ now  *
+since *
+over the last x
 at least
-completed
+completed *
 ago
 today
 morning
 night
-lunch
-length
+lunch *
+length ?
 in the last
-earlier than
-finished
+earlier than x
+finished x
 end
 when
 once
