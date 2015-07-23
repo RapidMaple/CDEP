@@ -1,0 +1,4 @@
+TimeInstant/TimeInterval/Date -> January,February,March,April,May,June,July,August,September,October,November,December,today,morning,night,.* ([0-3][0-9]/[0-3][0-9]/[0-9][0-9]) .*
+Granularity/Duration -> seconds , minute , hour , day , week, month, year
+TemporalRelation/TimeOffset -> before , while , prior to , ago , previous , post , sooner , earlier , subsequent , later , concurrent , meet , overlap , finish , start , during , after , within , until , when 
+Modality -> between , at least , about , around 
