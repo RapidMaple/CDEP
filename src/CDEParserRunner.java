@@ -24,6 +24,7 @@ public class CDEParserRunner {
 
 	private static BufferedReader in;
 	private static PrintWriter out;
+	private static PrintWriter otherout;
 	//private static StringTokenizer st;
 	private static List<CDE> cdeList;
 	private static boolean write;
@@ -45,6 +46,7 @@ public class CDEParserRunner {
 		pattern = buildPattern("bin//fields.txt");
 		CDE.searchPattern = Pattern.compile(searchPattern("bin//searchFields.txt").toString());
 		out = new PrintWriter(new BufferedWriter(new FileWriter("parsedCDEs.txt")));
+		otherout = new PrintWriter(new BufferedWriter(new FileWriter("cParsedCDEs.txt")));
 		write = false;
 		cdeList = new ArrayList<CDE>();
 		for(File f: new File("xml_files").listFiles()){
@@ -68,8 +70,13 @@ public class CDEParserRunner {
 						out.println(element.getMatched());
 						for(String outp : element.getElements())
 							out.println(outp);
-					out.println();
-					cdeList.add(element);
+						out.println();
+						cdeList.add(element);
+					}
+					else{
+						for(String outp : element.getElements())
+							otherout.println(outp);
+						otherout.println();	
 					}
 					//clear element
 					element = new CDE();
@@ -86,6 +93,7 @@ public class CDEParserRunner {
 		}
 		in.close();
 		out.close();
+		otherout.close();
 	}
 	
 	/**
