@@ -1,0 +1,1800 @@
+   <DataElement num="22104">
+      <PUBLICID>3108724</PUBLICID>
+      <LONGNAME>Internal Mammary Lymph Node Radiation Therapy Administration Indicator</LONGNAME>
+      <PREFERREDNAME>3108722v1.0:2181608v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Response to signify whether an internal mammary lymph node(s) was a site of radiation therapy.</PREFERREDDEFINITION>
+
+   <DataElement num="20767">
+      <PUBLICID>4400617</PUBLICID>
+      <LONGNAME>Submission Tracking Identifier</LONGNAME>
+      <PREFERREDNAME>4400616v1.0:2018694v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Something submitted for the judgment or consideration of others._The act or process of following a person, animal, or object through space or time._The procedure of having an identity established._Unique identifier for an object.</PREFERREDDEFINITION>
+
+   <DataElement num="22557">
+      <PUBLICID>2521385</PUBLICID>
+      <LONGNAME>Breast Cancer TNM Finding Category java.lang.String</LONGNAME>
+      <PREFERREDNAME>2431421v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>definition pending_definition pending_Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="27572">
+      <PUBLICID>2179646</PUBLICID>
+      <LONGNAME>Initial Reporter Indicator</LONGNAME>
+      <PREFERREDNAME>INITIAL_REPORTER_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes if this report is being prepared by the initial reporter of the event.</PREFERREDDEFINITION>
+
+   <DataElement num="25278">
+      <PUBLICID>2773484</PUBLICID>
+      <LONGNAME>Tissue Specimen Name java.lang.String</LONGNAME>
+      <PREFERREDNAME>2772827v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>is an organ part that consists of similarly specialized cells and intercellular matrix, aggregated according to specific spatial relationships; together with other tissues, it constitutes an organ component. Example(s): epithelium, muscle(tissue), connective tissue, neural tissue, lymphoid tissue.:Specimen; a bit of tissue or blood or urine that is taken or used for research purposes._The words or language units by which a thing is known._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="46244">
+      <PUBLICID>2232445</PUBLICID>
+      <LONGNAME>Derivation Type Description java.lang.String</LONGNAME>
+      <PREFERREDNAME>2231844v3.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The type of Derived Data Element that is being created. For example a Data Element that is derived/created by subtracting two dates represented by other data elements would be a Calculated Representation Type. Types include: Calculated, Complex Recode, Compound, Concatenation, Object Class, and Simple Recode (NCICB)_A statement or an account describing something._Value Domain for java language String datatype.</PREFERREDDEFINITION>
+
+   <DataElement num="33260">
+      <PUBLICID>3607915</PUBLICID>
+      <LONGNAME>Infectious Disorder Present Indicator</LONGNAME>
+      <PREFERREDNAME>2526458v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes the absence or presence of whether or not a disorder resulting from the presence and activity of a microbial, viral, or parasitic agent, that can be transmitted by direct or indirect contact, is found during indicated period.</PREFERREDDEFINITION>
+
+   <DataElement num="45169">
+      <PUBLICID>2998057</PUBLICID>
+      <LONGNAME>Pre-existing Condition Identifier java.lang.Integer</LONGNAME>
+      <PREFERREDNAME>2992740v1.0:2178537v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A health condition or medical problem that was diagnosed or treated before a specific date._One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is an Integer (32-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="29631">
+      <PUBLICID>2638695</PUBLICID>
+      <LONGNAME>Reference Object Ribonucleic Acid Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2638632v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Something referred to; the object of a reference.:A nucleic acid molecule similar to DNA but containing ribose rather than deoxyribose. RNA is formed upon a DNA template. There are several classes of RNA molecules. They play crucial roles in protein synthesis and other cell activities. (MedicineNet.com)_One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="2627">
+      <PUBLICID>2869885</PUBLICID>
+      <LONGNAME>Package Name ISO21090.EN.TN.v1.0</LONGNAME>
+      <PREFERREDNAME>2868212v1.0:2803192v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A non-unique textual identifier for the package.</PREFERREDDEFINITION>
+
+   <DataElement num="38064">
+      <PUBLICID>3124221</PUBLICID>
+      <LONGNAME>Patient Skin Rash Personal Medical History Indicator</LONGNAME>
+      <PREFERREDNAME>3124220v1.0:2584879v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person who receives medical attention, care, or treatment, or who is registered with medical professional or institution with the purpose to receive medical care when necessary. Any change in the skin which affects its appearance or texture. A rash may be localised to one part of the body, or affect all the skin. Rashes may cause the skin to change color, itch, become warm, bumpy, dry, cracked or blistered, swell and may be painful. An account of all medical events and problems a person has experienced. An event, entity or condition that typically characterizes a prescribed environment or situation and determines or aids in determining whether or not certain stated circumstances exist or criteria are satisfied.</PREFERREDDEFINITION>
+
+   <DataElement num="41911">
+      <PUBLICID>2591939</PUBLICID>
+      <LONGNAME>Standard Uptake Value Positron Emission Tomography Assessment Maximum Measurement</LONGNAME>
+      <PREFERREDNAME>SUV_PET_ASS_M_MSRMT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the measurement of the maximum standard uptake value (SUV) during a PET assessment.</PREFERREDDEFINITION>
+
+   <DataElement num="21433">
+      <PUBLICID>2345409</PUBLICID>
+      <LONGNAME>Address County/Parish Name</LONGNAME>
+      <PREFERREDNAME>ADDR_COUNTY_PAR_NM</PREFERREDNAME>
+      <PREFERREDDEFINITION>A component of an address that specifies a location by identification of a governmental administrative subdivision.</PREFERREDDEFINITION>
+
+   <DataElement num="23310">
+      <PUBLICID>3354867</PUBLICID>
+      <LONGNAME>Aspirate Slide Identifier</LONGNAME>
+      <PREFERREDNAME>3352367v1.0:3320280v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text and/or numeric identifier for tissue cells obtained by aspiration and preserved and mounted on a glass slide for microscopic study.</PREFERREDDEFINITION>
+
+   <DataElement num="555">
+      <PUBLICID>3446954</PUBLICID>
+      <LONGNAME>Leiomyosarcoma and Endometrial Stromal Sarcoma American Joint Committee on Cancer (AJCC) Edition 7 Pathologic Distant Metastasis M Stage</LONGNAME>
+      <PREFERREDNAME>3444910v1.0:3446162v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Extent of the distant metastasis for the leiomyosarcoma and endometrial stromal sarcoma based on evidence obtained from pathologic examination through completion of definitive surgery.</PREFERREDDEFINITION>
+
+   <DataElement num="21165">
+      <PUBLICID>2342538</PUBLICID>
+      <LONGNAME>Metal Binding Site Begin java.lang.Integer</LONGNAME>
+      <PREFERREDNAME>2342361v1.0:2178537v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The specific parts of a protein molecule that directly participate in its interactions with a metal ion._Have a beginning, in a temporal, spatial, or evaluative sense; the point in space or time where something begins._Value Domain for java language Integer datatype</PREFERREDDEFINITION>
+
+   <DataElement num="31846">
+      <PUBLICID>2187910</PUBLICID>
+      <LONGNAME>Common Toxicity Criteria Adverse Event Restrictive Cardiomyopathy Grade</LONGNAME>
+      <PREFERREDNAME>CTC_AE_RESTCARDMY_GD</PREFERREDNAME>
+      <PREFERREDDEFINITION>in CTC category Cardiac General, assessment of the severity of a restrictive cardiomyopathy adverse event using a graded scale.</PREFERREDDEFINITION>
+
+   <DataElement num="48210">
+      <PUBLICID>2007271</PUBLICID>
+      <LONGNAME>Peripheral Blood Stem Cell CD34+ Cell Harvest Performed Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>PBS_HARVEST_PER_IND-</PREFERREDNAME>
+      <PREFERREDDEFINITION>The yes/no indicator related to a peripheral blood stem CD34+ cell harvest performance.</PREFERREDDEFINITION>
+
+   <DataElement num="50146">
+      <PUBLICID>2900135</PUBLICID>
+      <LONGNAME>Slide Range Comment java.lang.String</LONGNAME>
+      <PREFERREDNAME>2899877v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A flat rectangular piece of glass on which specimens can be mounted for microscopic study.:The difference between the lowest and highest numerical values._A written explanation or criticism or illustration that is added to a book or other textual material._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="13466">
+      <PUBLICID>2645190</PUBLICID>
+      <LONGNAME>Laboratory Procedure Agent Lowest Blood Concentration Outcome Ind-2</LONGNAME>
+      <PREFERREDNAME>LAB_AGT_L_B_C_OC_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether a trough level (lowest blood level concentration) of an agent was obtained.</PREFERREDDEFINITION>
+
+   <DataElement num="29543">
+      <PUBLICID>2423044</PUBLICID>
+      <LONGNAME>Category Specimen Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2422843v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>This term is used informally to mean a class of things.:A sample or part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodil_One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Value Domain for java language Long datatype.</PREFERREDDEFINITION>
+
+   <DataElement num="25063">
+      <PUBLICID>4353818</PUBLICID>
+      <LONGNAME>Menstrual Cycle Not Stated Reason</LONGNAME>
+      <PREFERREDNAME>MENS_CYC_NOT_STA_RSN</PREFERREDNAME>
+      <PREFERREDDEFINITION>The response regarding the reason why the status of a patient's menstrual cycle was not reported.</PREFERREDDEFINITION>
+
+   <DataElement num="39704">
+      <PUBLICID>3134514</PUBLICID>
+      <LONGNAME>Number Operator ComparisonOperators</LONGNAME>
+      <PREFERREDNAME>3134455v1.0:3134506v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A numeral or string of numerals expressing value, quantity, or identification._A symbol used to perform an arithmetic or logical operation._Comparison operators compare one or two numerical values</PREFERREDDEFINITION>
+
+   <DataElement num="49776">
+      <PUBLICID>2436362</PUBLICID>
+      <LONGNAME>Southwest Oncology Group Patient Specimen Consent Ind-2</LONGNAME>
+      <PREFERREDNAME>SWOG_PT_SPE_CON_IND2</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks if the Southwest Oncology Group patient has agreed that his/her blood and tissue samples may be kept by the organization for use in future research to learn about, prevent, detect, or treat cancer.</PREFERREDDEFINITION>
+
+   <DataElement num="48308">
+      <PUBLICID>2444066</PUBLICID>
+      <LONGNAME>Incomplete Caries Removal Tooth 30 Treatment Transitory Postoperative Hypersensitivity Event Average Percentage Frequency</LONGNAME>
+      <PREFERREDNAME>ICR_T30_TX_TPOHE_APF</PREFERREDNAME>
+      <PREFERREDDEFINITION>the average percentage (fraction or ratio with 100 understood as the denominator) of the number of occurrences related to transient postoperative hypersensitivity (exaggerated response by the immune system) response in treatment of incomplete removal of decay from tooth number 30 (the first, permanent six-year molar of the lower right arch).</PREFERREDDEFINITION>
+
+   <DataElement num="49884">
+      <PUBLICID>2341954</PUBLICID>
+      <LONGNAME>Address Secondary Unit Indicator/Designator Type</LONGNAME>
+      <PREFERREDNAME>ADDR_SEC_U_DES_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>A component of an address that specifies a location by identification of an additional subdivision of the primary address by type.</PREFERREDDEFINITION>
+
+   <DataElement num="11725">
+      <PUBLICID>2716275</PUBLICID>
+      <LONGNAME>Nucleotide Sequence Description java.lang.String</LONGNAME>
+      <PREFERREDNAME>2716177v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The sequence of nucleotide residues along an RNA or DNA chain._A statement or an account describing something._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="33059">
+      <PUBLICID>2797520</PUBLICID>
+      <LONGNAME>Hepatic Veno-Occlusive Disease Therapeutic Procedure Occurrence Indicator</LONGNAME>
+      <PREFERREDNAME>HVOD_TP_OCUR_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>A condition in which some of the veins in the liver are blocked. It is sometimes a complication of high-dose chemotherapy given before a bone marrow transplant and is marked by increases in weight, liver size, and blood levels of bilirubin._An action or administration of therapeutic agents to produce an effect that is intended to alter or stop a pathologic process._An instance of something happening, such as an event or incident._Indicator of Yes, No, Unknown, Not Done, or Not Applicable to a question.[manually curated]</PREFERREDDEFINITION>
+
+   <DataElement num="25292">
+      <PUBLICID>2192804</PUBLICID>
+      <LONGNAME>Baseline Performance Status Eastern Cooperative Oncology Group Scale</LONGNAME>
+      <PREFERREDNAME>BSL_PERFS_ECOG_SCALE</PREFERREDNAME>
+      <PREFERREDDEFINITION>the baseline ECOG performance status.</PREFERREDDEFINITION>
+
+   <DataElement num="20644">
+      <PUBLICID>2520487</PUBLICID>
+      <LONGNAME>Caries Periodontal Probe Assessment Minimum Perpendicular Diameter Measurement</LONGNAME>
+      <PREFERREDNAME>C_PDP_AS_MIN_P_D_MEA</PREFERREDNAME>
+      <PREFERREDDEFINITION>the minimum perpendicular depth measurement of decay of a tooth, in which it becomes softened, discolored, and/or porous by a calibrated dental instrument used to measure periodontal pocket depth and/or clinical attachment level at various locations around the teeth.</PREFERREDDEFINITION>
+
+   <DataElement num="36598">
+      <PUBLICID>2529064</PUBLICID>
+      <LONGNAME>Pharmacologic Substance Description java.lang.String</LONGNAME>
+      <PREFERREDNAME>2528773v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A natural, synthetic or semi-synthetic substance including endogenous body substance used to diagnose, prevent, maintain, treat or analyze abnormal and normal biological functions in vivo or in vitro._A statement or an account describing something._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="28224">
+      <PUBLICID>4242259</PUBLICID>
+      <LONGNAME>Neoplasm Cellular Differentiation Assessment Score</LONGNAME>
+      <PREFERREDNAME>NplsmCellDfnAssmntScr</PREFERREDNAME>
+      <PREFERREDDEFINITION>A numeric value related to the final result of how mature (developed) the cancer cells are in a tissue growth resulting from uncontrolled cell proliferation.</PREFERREDDEFINITION>
+
+   <DataElement num="27097">
+      <PUBLICID>3110185</PUBLICID>
+      <LONGNAME>Jaw Patient Self-Report Pain Yes or No Response</LONGNAME>
+      <PREFERREDNAME>3110183v1.0:3108967v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth. Subjective reports made by the patient The sensation of discomfort, distress, or agony, resulting from the stimulation of specialized nerve endings. A caDSR representation term that is used to indicate a question with permissible values of yes/no</PREFERREDDEFINITION>
+
+   <DataElement num="2917">
+      <PUBLICID>2838551</PUBLICID>
+      <LONGNAME>Clinical Trial Screening Failure Reason</LONGNAME>
+      <PREFERREDNAME>CLIN_TRL_SC_FAIL_RSN</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text explanations the failure of an individual to meet screen requirements for a clinical trial.</PREFERREDDEFINITION>
+
+   <DataElement num="38717">
+      <PUBLICID>2954687</PUBLICID>
+      <LONGNAME>Systemic Symptom Occurrence Category</LONGNAME>
+      <PREFERREDNAME>2953786v1.0:2954680v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Affecting an entire system._Subjective evidence of disease perceived by the patient._An instance of something happening, such as an event or incident._Category; used informally to mean a class of things.</PREFERREDDEFINITION>
+
+   <DataElement num="48329">
+      <PUBLICID>2223891</PUBLICID>
+      <LONGNAME>Homologous Gene Sequence Similarity java.lang.Float</LONGNAME>
+      <PREFERREDNAME>2223735v3.0:2178535v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A gene from one species which corresponds to a gene in another species and that is related via a common ancestral species.  These genes retain a similar sequence and function. (from http://biotech.icmb.utexas.edu)_The degree of similarity between the primary sequence of two biological macromolecules._Value Domain for java language Float datatype</PREFERREDDEFINITION>
+
+   <DataElement num="14250">
+      <PUBLICID>3162935</PUBLICID>
+      <LONGNAME>Adult Crime And Delinquency Assessment Score</LONGNAME>
+      <PREFERREDNAME>3162932v1.0:3076086v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A human who has reached reproductive age._An act that is punishable by law._An article which expresses the relation of connection or addition. It is used to conjoin a word with a word, a clause with a clause, or a sentence with a sentence._An act by a minor that is punishable by law._The final result of a determination of the value, significance, or extent of._A number or range of numeric values measuring performance, function, quality, or ability.</PREFERREDDEFINITION>
+
+   <DataElement num="10787">
+      <PUBLICID>3811044</PUBLICID>
+      <LONGNAME>HLA-DR51 Antigen Present Indicator</LONGNAME>
+      <PREFERREDNAME>2704133v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes whether or not the HLA-DR51 antigen was present.</PREFERREDDEFINITION>
+
+   <DataElement num="48267">
+      <PUBLICID>2711607</PUBLICID>
+      <LONGNAME>List Processing Peak List Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2710850v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A series of names, words, or other items written, printed, or imagined one after the other.:The act of preparing or putting through a prescribed procedure._The most extreme possible amount or value; the highest point.:A series of names, words, or other items written, printed, or imagined one after the other.:One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="13761">
+      <PUBLICID>3124025</PUBLICID>
+      <LONGNAME>Surgical Resection Performed Anatomic Site</LONGNAME>
+      <PREFERREDNAME>3124018v1.0:3124020v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the anatomic site as related to the removal or excision by surgical measures.</PREFERREDDEFINITION>
+
+   <DataElement num="39763">
+      <PUBLICID>2852185</PUBLICID>
+      <LONGNAME>Patient Fatigue Most Assessment Scale</LONGNAME>
+      <PREFERREDNAME>PT_FAT_M_ASESS_SCALE</PREFERREDNAME>
+      <PREFERREDDEFINITION>the scale to determine the patient's fatigue on the day they felt most fatigued during the past week.</PREFERREDDEFINITION>
+
+   <DataElement num="22760">
+      <PUBLICID>2006152</PUBLICID>
+      <LONGNAME>Patient Required Characteristics COG Ind-2</LONGNAME>
+      <PREFERREDNAME>PT_REQ_CHAR_COG_IND-2</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no question that asks whether the patient has a set of characterstics specific to a COG study.</PREFERREDDEFINITION>
+
+   <DataElement num="26152">
+      <PUBLICID>3834356</PUBLICID>
+      <LONGNAME>Participant Death Cause Rank Type</LONGNAME>
+      <PREFERREDNAME>PT_DEATH_CAUSE_RNK_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>The text response referring to the establishment of rank of a condition/cause that permits the occurence of death or results in death.</PREFERREDDEFINITION>
+
+   <DataElement num="20491">
+      <PUBLICID>3176960</PUBLICID>
+      <LONGNAME>Book Randomization Allocation Plan Study Activity Reason Code ISO21090.DSET.CD.v1.0</LONGNAME>
+      <PREFERREDNAME>3175457v1.0:2803321v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An activity that is intended to occur at some point in the course of a particular study and that is the assignment of an experimental unit to a portion of the study, such as an arm or a portion of an arm (when secondary allocations may occur) based on a randomization book. NOTE(S): A randomization book is a predefined set of assignments to portions of a study based on criteria, such as stratum group for example, that ensures a desired distribution of subjects across those portions of the study. For example, the book entries indicate which arm a given subject, Joe, is assigned to based on the fact that he's the 5th person in stratum group #2. A coded value specifying the motivation, cause, or rationale of an activity. EXAMPLE(S): routine requirement, drug reaction, infectious disease reporting requirement, on patient request</PREFERREDDEFINITION>
+
+   <DataElement num="8170">
+      <PUBLICID>2724865</PUBLICID>
+      <LONGNAME>Participant Education Level HL7.ConceptDescriptor</LONGNAME>
+      <PREFERREDNAME>2724763v1.0:2668466v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Someone who takes part in an activity._A demographic parameter indicating the number of years of schooling or the highest level of achievement at school._Generic value domain for HL7 concept descriptors that represent any kind of concept usually by giving a code defined in a code system.</PREFERREDDEFINITION>
+
+   <DataElement num="9685">
+      <PUBLICID>4340449</PUBLICID>
+      <LONGNAME>Left Undescended Testis Correction Method Type</LONGNAME>
+      <PREFERREDNAME>4339268v1.0:4340413v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text term to describe the method by which the left undescended testis was corrected.</PREFERREDDEFINITION>
+
+   <DataElement num="44120">
+      <PUBLICID>2222910</PUBLICID>
+      <LONGNAME>Semantic Type Name java.lang.String</LONGNAME>
+      <PREFERREDNAME>2222877v3.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The Semantic Type is the basic category or categories that describe a Concept.  In general, applying semantic types aids in allowing users (or computer programs) to draw conclusions about concepts by virtue of the categories to which they have been assigned.  We use a set of Semantic types developed for the UMLS Metathesaurus. There are currently 134 Semantic types in the UMLS._The words or language units by which a thing is known._Value Domain for java language String datatype.</PREFERREDDEFINITION>
+
+   <DataElement num="37394">
+      <PUBLICID>3211801</PUBLICID>
+      <LONGNAME>Pain Medication Tooth Second Oral Cavity Quadrant Anatomic Site</LONGNAME>
+      <PREFERREDNAME>3211796v1.0:2520423v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the division of the mouth into quadrants for the second tooth in need of drug treatment due to the sensation of discomfort, distress, or agony, resulting from the stimulation of specialized nerve endings in the tooth.</PREFERREDDEFINITION>
+
+   <DataElement num="22294">
+      <PUBLICID>3894916</PUBLICID>
+      <LONGNAME>Ipsilateral Breast Malignant Neoplasm Histologic Assessment Type</LONGNAME>
+      <PREFERREDNAME>IBREASTHIST</PREFERREDNAME>
+      <PREFERREDDEFINITION>The type related to the histologic assessment of a malignant neoplasm in the ipsilateral breast.</PREFERREDDEFINITION>
+
+   <DataElement num="1975">
+      <PUBLICID>3175925</PUBLICID>
+      <LONGNAME>Intervention Trial Study Protocol Version Control Group Temporal Type Code ISO21090.CD.v1.0</LONGNAME>
+      <PREFERREDNAME>3174814v1.0:2803170v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A coded value specifying the temporal relationships of the control to the study intervention. EXAMPLE(S): concurrent, historical, pre/post (patient owned control).</PREFERREDDEFINITION>
+
+   <DataElement num="44222">
+      <PUBLICID>2793347</PUBLICID>
+      <LONGNAME>Person Record Birth Weight Value</LONGNAME>
+      <PREFERREDNAME>PERS_REC_BIRT_WT_VAL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Value of a person's weight at birth abstracted from Medical or Vital Records. [Manally curated]</PREFERREDDEFINITION>
+
+   <DataElement num="914">
+      <PUBLICID>2780893</PUBLICID>
+      <LONGNAME>Cart Object Extensible Markup Language Data java.lang.String</LONGNAME>
+      <PREFERREDNAME>2780879v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A uniquely identified, typed representation of textual data._A general-purpose markup language for creating special-purpose markup languages. It is capable of describing many different kinds of data. Its primary purpose is to facilitate the sharing of data across different systems, particularly systems connected via the Internet.:A collection or single item of factual information, derived from measurement or research, from which conclusions may be drawn._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="49957">
+      <PUBLICID>2429486</PUBLICID>
+      <LONGNAME>Symptom Prior Surgery Pain Present Ind-3</LONGNAME>
+      <PREFERREDNAME>SM_PR_SX_PN_PRE_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no/unknown indicator related to the sensation of discomfort, distress, or agony, resulting from the stimulation of specialized nerve endings before an operative procedure.</PREFERREDDEFINITION>
+
+   <DataElement num="11314">
+      <PUBLICID>2969350</PUBLICID>
+      <LONGNAME>Calculation Coding Scheme Version java.lang.String</LONGNAME>
+      <PREFERREDNAME>2969270v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The procedure or activity of determining something by mathematical or logical methods._The activity of implementing rules that are used to map the elements of one set onto the elements of another set, usually on a one-to-one basis.:An elaborate and systematic plan of action.:A form or variant of a type or original; one of a sequence of copies of a program, each incorporating new modifications._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="24170">
+      <PUBLICID>2449298</PUBLICID>
+      <LONGNAME>Caries Tooth Remineralization Program Therapy Indicator</LONGNAME>
+      <PREFERREDNAME>CARIES_T_RM_P_TX_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>an indicator of the program to restore lost mineral constituents to the enamel, dentin, or cementum as treatment for the decay of a tooth, in which it becomes softened, discolored, and/or porous.</PREFERREDDEFINITION>
+
+   <DataElement num="27470">
+      <PUBLICID>2753013</PUBLICID>
+      <LONGNAME>Therapeutic Procedure Extranodal Anatomic Site Involvement java.lang.Boolean</LONGNAME>
+      <PREFERREDNAME>2752496v1.0:2178538v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An action or administration of therapeutic agents to produce an effect that is intended to alter the course of a pathologic process._Situated outside of a node.:Named locations of or within the body.:To have a connection by participation or association or use; sharing in an activity or process._Generic value domain for a primitive java datatype that is a Boolean value (true or false).</PREFERREDDEFINITION>
+
+   <DataElement num="37882">
+      <PUBLICID>3102089</PUBLICID>
+      <LONGNAME>Apgar Score Display Name java.lang.String</LONGNAME>
+      <PREFERREDNAME>3100848v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An assessment of the physical condition of an infant at the time birth; involves heart rate, muscle tone, respiratory effort,  color, and reflex responsiveness. _Exhibit, present, or demonstrate for viewing.:The words or language units by which a thing is known._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="4233">
+      <PUBLICID>3681397</PUBLICID>
+      <LONGNAME>Body Weight Greater Than CT Scanner Acceptable No Yes Coded Indicator</LONGNAME>
+      <PREFERREDNAME>3681396v1.0:2598021v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A coded numeric response for No (1) or Yes (2) as to whether or not the patient's body weight exceeds the weight limit capacity of the CT scanner.</PREFERREDDEFINITION>
+
+   <DataElement num="11607">
+      <PUBLICID>2185477</PUBLICID>
+      <LONGNAME>Adverse Event Course Assessment Status</LONGNAME>
+      <PREFERREDNAME>AE_CRSE_ASSESS_STAT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the status of an adverse event relative to baseline or previous course of treatment.</PREFERREDDEFINITION>
+
+   <DataElement num="12164">
+      <PUBLICID>2413209</PUBLICID>
+      <LONGNAME>Clinical Trial Site Name 64 Character Text</LONGNAME>
+      <PREFERREDNAME>CLIN_TRL_SITE_NM_TXT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The words which describe the surroundings in which a type of research study that tests how well new medical treatments or other interventions work in people.  [Manually-curated]_LO: A 64-character string with leading or trailing spaces being non-significant; NO CONTROL characters. [Standard-based]</PREFERREDDEFINITION>
+
+   <DataElement num="16296">
+      <PUBLICID>2860841</PUBLICID>
+      <LONGNAME>Laboratory Procedure Platelet Result Status Indicator</LONGNAME>
+      <PREFERREDNAME>2188766v1.0:3436461v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Information related to the status of the laboratory results for platelets.</PREFERREDDEFINITION>
+
+   <DataElement num="23691">
+      <PUBLICID>3608125</PUBLICID>
+      <LONGNAME>Hypothyroidism Disease Present Indicator</LONGNAME>
+      <PREFERREDNAME>2527956v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes the absence or presence of whether or not hypothyroidism, a condition in which the production of thyroid hormone by the thyroid gland is diminished, that causes discomfort, dysfunction, or distress to the person affected or those in contact with the person is present during the indicated period.</PREFERREDDEFINITION>
+
+   <DataElement num="42545">
+      <PUBLICID>2629817</PUBLICID>
+      <LONGNAME>Annotation Secondary Type java.lang.String</LONGNAME>
+      <PREFERREDNAME>2629704v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An explanatory or critical comment that has been added to a text._Derived as a result of a primary condition; not direct or immediate; of second rank or importance or value.:Something distinguishable as an identifiable class based on common qualities._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="9892">
+      <PUBLICID>3368987</PUBLICID>
+      <LONGNAME>Residual Disease Anatomic Site Indicator</LONGNAME>
+      <PREFERREDNAME>2239886v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>description of the organ, anatomic structure or coordinates indicating the site where cancer cells remain after an attempt has been completed to remove cancer._Indicator of Yes, No, Unknown, Not Done, or Not Applicable to a question.[manually curated]</PREFERREDDEFINITION>
+
+   <DataElement num="17016">
+      <PUBLICID>3600262</PUBLICID>
+      <LONGNAME>Internet Medical Image Reference Object Uniform Resource Identifier ISO21090.ST.v1.0</LONGNAME>
+      <PREFERREDNAME>2750231v1.0:2803207v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A worldwide, decentralized network of computer networks connecting individuals and organizations to information and electronic mail services.:Any record of a medical imaging event whether physical or electronic.:Something referred to; the object of a reference._A Uniform Resource Identifier is a character string that can identify any kind of resource on the Internet, including images, text, video, audio and programs.  The most commom type of a URI is a URL. (from http://www.computeruser.com)_Character string datatype stands for text data.</PREFERREDDEFINITION>
+
+   <DataElement num="23711">
+      <PUBLICID>3101836</PUBLICID>
+      <LONGNAME>Minimum Reservation Quantity Value java.lang.String</LONGNAME>
+      <PREFERREDNAME>3100596v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The smallest possible quantity.:The act of keeping back or setting aside for some future occasion.:How much there is of something that you can measure; the total amount or number._A numerical quantity measured or assigned or computed._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="25616">
+      <PUBLICID>2708053</PUBLICID>
+      <LONGNAME>Gene Expression Reporter Technology Platform java.lang.String</LONGNAME>
+      <PREFERREDNAME>2707975v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Typically involves transcription of genetically encoded information into an intermediary message (messenger RNA) and subsequent translation into a functional protein.:A biological material (clone, oligo, etc.) on an array which will report on some biosequence or biosequences. Also refers to any substance that is identifiable by virtue of its radioactive signature, color, or other distinguishing physical property, such as a dye, radioactive isotope, or inert chemical, that is introduced into a biological or mechanical system and can be followed through the course of a process, providing information on the pattern of events in the process or on the redistribution of the parts, elements, or events involved._The specific version (manufacturer, model, etc.) of a technology that is used to carry out a laboratory or computational experiment._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="12404">
+      <PUBLICID>3078871</PUBLICID>
+      <LONGNAME>Dental Implant Patient Daily Routine Dissatisfaction Oral Health Impact Profile Physical Examination Oral Health Impact Profile Scale</LONGNAME>
+      <PREFERREDNAME>3078869v1.0:2504090v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>a scaled index related to the Oral Health Impact Profile assessment, a measure of a person's perceptions of the social impact of oral disorders on their well-being, of a patient's lack of satisfaction with daily (occurring each day) habitual method or procedure from materials placed into (endosseous) or onto (subperiosteal) the jawbone.</PREFERREDDEFINITION>
+
+   <DataElement num="36350">
+      <PUBLICID>3007076</PUBLICID>
+      <LONGNAME>Person Prior Therapeutic Procedure Malignant Neoplasm Pregnancy Text</LONGNAME>
+      <PREFERREDNAME>3007074v1.0:2180739v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free-text field to specify the an action or administration of therapeutic agents to produce an effect that is intended to alter the course of cancer, a tumor composed of atypical neoplastic and often pleomorphic cells that invade other tissues, prior to a person becoming pregnant, the condition of having a developing embryo or fetus in the body, after union of an ovum and spermatozoon.</PREFERREDDEFINITION>
+
+   <DataElement num="30940">
+      <PUBLICID>2900221</PUBLICID>
+      <LONGNAME>Image Processing Algorithm Source java.lang.String</LONGNAME>
+      <PREFERREDNAME>2899963v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The use of data processing systems to analyze, enhance, interpret or display digital images.:A defined procedure for solving a problem.  Applied to a problem-solving procedure implemented in software to be executed by a computer._Where something is available._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="7578">
+      <PUBLICID>2554091</PUBLICID>
+      <LONGNAME>Accession Identifier Surgical Pathology Report Accession Number java.lang.String</LONGNAME>
+      <PREFERREDNAME>2554007v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A process of increasing by addition (as to a collection or group).:One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._A pathology report based upon samples obtained by or during surgery.:A control number unique to an object, used to identify it among the other objects in a collection._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="37805">
+      <PUBLICID>2199889</PUBLICID>
+      <LONGNAME>Adjacent Organ Involved Resected Ind-2</LONGNAME>
+      <PREFERREDNAME>ADJ_ORG_INV_RES_IND2</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether adjacent organs were involved and resected.</PREFERREDDEFINITION>
+
+   <DataElement num="43970">
+      <PUBLICID>3991423</PUBLICID>
+      <LONGNAME>RT Structure ROI Volume Interpretation Type</LONGNAME>
+      <PREFERREDNAME>3940881v1.0:3983292v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>RT ROI Interpreted Type (3006,00A4) shall describe the class of ROI (e.g. CTV, PTV).</PREFERREDDEFINITION>
+
+   <DataElement num="43098">
+      <PUBLICID>3589795</PUBLICID>
+      <LONGNAME>List of Threatening Experiences Questionnaire Death Friend Assessment Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>3589793v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A yes/no indicator designed to assess weather stressful life eventsof a friend dying occurred.</PREFERREDDEFINITION>
+
+   <DataElement num="33702">
+      <PUBLICID>3682486</PUBLICID>
+      <LONGNAME>Malignant Neoplasm Peritoneal Evaluation Yes No Not Evaluable Indicator</LONGNAME>
+      <PREFERREDNAME>3682485v1.0:3682480v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no/not evaluable indicator related to an evaluation of a malignant neoplasm of or pertaining to the peritoneum.</PREFERREDDEFINITION>
+
+   <DataElement num="13814">
+      <PUBLICID>2946963</PUBLICID>
+      <LONGNAME>Sorafenib Agent Course Total Dose</LONGNAME>
+      <PREFERREDNAME>SOR_AGT_C_TTL_DOSE</PREFERREDNAME>
+      <PREFERREDDEFINITION>the total dose of the course or cycle of sorafenib (a synthetic compound targeting growth signaling and angiogenesis).</PREFERREDDEFINITION>
+
+   <DataElement num="3440">
+      <PUBLICID>2724800</PUBLICID>
+      <LONGNAME>Clinical Data Assessment Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2724680v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Data obtained through patient examination or treatment.:The act of judging the value, significance, or extent of something._One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="24533">
+      <PUBLICID>2182276</PUBLICID>
+      <LONGNAME>Disease Primary Relapse Ind-2</LONGNAME>
+      <PREFERREDNAME>DZ_PRIM_REL_IND2</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether the patient has had a relapse at the primary site of disease.</PREFERREDDEFINITION>
+
+   <DataElement num="47541">
+      <PUBLICID>2678419</PUBLICID>
+      <LONGNAME>Recurrent Disease Second Recurrent Disease Interval java.lang.String</LONGNAME>
+      <PREFERREDNAME>2678183v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The return of a disease after a period of remission._Coming next after the first in position in space or time or degree or magnitude.:The return of a disease after a period of remission.:The period of time or the distance separating two instances, events, or occurrences._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="33679">
+      <PUBLICID>3160706</PUBLICID>
+      <LONGNAME>Clinical Study Therapy Source Other Specify Text</LONGNAME>
+      <PREFERREDNAME>STDY_THRPY_SOURC_OTH</PREFERREDNAME>
+      <PREFERREDDEFINITION>Study therapy source other specify text</PREFERREDDEFINITION>
+
+   <DataElement num="8308">
+      <PUBLICID>4745464</PUBLICID>
+      <LONGNAME>Patient Right Bundle Branch Block Exclusion Criteria Yes No Unknown Not Applicable Indicator</LONGNAME>
+      <PREFERREDNAME>RtBunBchBlkEC</PREFERREDNAME>
+      <PREFERREDDEFINITION>a yes/no/unknown/not applicable indicator related to patient has a wide QRS complex with evidence of delayed conduction to the right ventricle prevent a subject from being allowed to participate in a clinical study.</PREFERREDDEFINITION>
+
+   <DataElement num="17106">
+      <PUBLICID>3629909</PUBLICID>
+      <LONGNAME>MBSRQ Appearance Orientation Check My Appearance In Mirror Whenever I Can Agreement Score Likert Scale Text</LONGNAME>
+      <PREFERREDNAME>3628877v1.0:3626258v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of their agreement to a statement about checking their appearance using a mirror whenever they can, using a five point Likert scale value captured as a non-enumerated text field.</PREFERREDDEFINITION>
+
+   <DataElement num="23085">
+      <PUBLICID>2201188</PUBLICID>
+      <LONGNAME>Common Toxicity Criteria Adverse Event Reporting Grade</LONGNAME>
+      <PREFERREDNAME>CTC_AE_REP_GD</PREFERREDNAME>
+      <PREFERREDDEFINITION>a numeric code to describe the severity of an adverse event using the protocol-specified version defined for the Common Terminology Criteria for Adverse Events.</PREFERREDDEFINITION>
+
+   <DataElement num="1352">
+      <PUBLICID>2180601</PUBLICID>
+      <LONGNAME>Death Contributing Symptom Type</LONGNAME>
+      <PREFERREDNAME>DEATH_CONTRIBU_SM_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>the medical condition or other symptom present at the time of death which may have contributed to the patient's death.</PREFERREDDEFINITION>
+
+   <DataElement num="49907">
+      <PUBLICID>3176413</PUBLICID>
+      <LONGNAME>Notification Reuse Template Study Activity Repeat Duration ISO21090.PQ.TIME.v1.0</LONGNAME>
+      <PREFERREDNAME>3175241v1.0:2848092v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An administrative activity defined at the global library level that represents the communication of a message to a recipient. EXAMPLE(S): An alert sent to a study PI that the study has reached 75% of target subject accrual. The period of time over which the activity is repeated.</PREFERREDDEFINITION>
+
+   <DataElement num="24064">
+      <PUBLICID>3005061</PUBLICID>
+      <LONGNAME>Renal Neoplasm Histologic Grade Clinical Trials Eligibility Criteria Type</LONGNAME>
+      <PREFERREDNAME>RENLNEO_HG_CTEC_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>the type or extent of the histologic grade of a renal neoplasm, used to determine whether an individual can participate in a specific clinical trial.</PREFERREDDEFINITION>
+
+   <DataElement num="3751">
+      <PUBLICID>2608600</PUBLICID>
+      <LONGNAME>Evaluation Not Done Reason Specify</LONGNAME>
+      <PREFERREDNAME>EVAL_NOTDON_RSN_SPEC</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free text field to specify the reason for not having performed the evaluation.</PREFERREDDEFINITION>
+
+   <DataElement num="36673">
+      <PUBLICID>3852906</PUBLICID>
+      <LONGNAME>Fractionation Radiation Therapy Administered Per Fraction Planned Occurrence Dose</LONGNAME>
+      <PREFERREDNAME>2635419v1.0:3852892v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The total dose per fraction of prescribed radiation that was admisinstered.</PREFERREDDEFINITION>
+
+   <DataElement num="36144">
+      <PUBLICID>3397333</PUBLICID>
+      <LONGNAME>Agent Clinical Study Protocol Preventive Intervention Administered Ind-2</LONGNAME>
+      <PREFERREDNAME>RcvPrxAgtDurIPrdIND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator related to the adminstration of an agent to prevent disease, symptoms, as part of an action plan for a clinical trial.</PREFERREDDEFINITION>
+
+   <DataElement num="41350">
+      <PUBLICID>62638</PUBLICID>
+      <LONGNAME>Tumor Histologic Assessment Ind-3</LONGNAME>
+      <PREFERREDNAME>TUM_HIS_ASSESS_IND-3</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator to identify whether a histologic assessment was conducted for this follow-up reporting period to confirm disease status.</PREFERREDDEFINITION>
+
+   <DataElement num="7206">
+      <PUBLICID>2677712</PUBLICID>
+      <LONGNAME>Object Class Relationship Administered Item Dimensionality java.lang.Integer</LONGNAME>
+      <PREFERREDNAME>2677459v1.0:2178537v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A set of ideas, abstractions, or things in the real world that can be identified with explicit boundaries and meaning and whose properties and behavior follow the same rules.:A state of connectedness between people, objects, or events; to be associated or connected with something.:A registry item for which administrative information is recorded in an Administration Record._The state of having dimensions; an indication of the dimensions associated with an object._Generic value domain for a primitive java dataype that is an Integer (32-bit two&quot;s complement).</PREFERREDDEFINITION>
+
+   <DataElement num="7483">
+      <PUBLICID>4566694</PUBLICID>
+      <LONGNAME>Other Mutation Abnormality Allele Burden Percentage Value</LONGNAME>
+      <PREFERREDNAME>OT_MU_AL_BUR_PER_VAL</PREFERREDNAME>
+      <PREFERREDDEFINITION>The numeric response regarding the measurement of the percentage ratio between mutant and wild type genes, other than those previously specified, in hematopoietic cells.</PREFERREDDEFINITION>
+
+   <DataElement num="21043">
+      <PUBLICID>2754697</PUBLICID>
+      <LONGNAME>Infusion Procedure Catheter Insertion Computed Tomography Use Indicator</LONGNAME>
+      <PREFERREDNAME>INFUS_CATH_CT_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text term to signify whether or not a computerized planning tool was used for infusion catheter placement. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="21555">
+      <PUBLICID>3860544</PUBLICID>
+      <LONGNAME>Eovist Clinical Trial Consent Ind</LONGNAME>
+      <PREFERREDNAME>3860543v1.0:3506035v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A response as to whether the participant agreed to participate in the Eovist trial.</PREFERREDDEFINITION>
+
+   <DataElement num="45478">
+      <PUBLICID>3134239</PUBLICID>
+      <LONGNAME>Storage Unit Type Hold Specimen Type Item Collection Specimen Type Collection Text Type</LONGNAME>
+      <PREFERREDNAME>3134219v1.0:2624019v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A physical structure or device capable of holding objects or samples.:A subdivision of a particular kind of thing._Contain; have within.:A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis.:Something distinguishable as an identifiable class based on common qualities.:A group of items of the same type, gathered for display or study._Specimen; a bit of tissue or blood or urine that is taken or used for research purposes.:Type; a subdivision of a particular kind of thing:several things grouped together.__Text; the words of something written._Type; a subdivision of a particular kind of thing.</PREFERREDDEFINITION>
+
+   <DataElement num="45032">
+      <PUBLICID>2783970</PUBLICID>
+      <LONGNAME>New Specimen Array Order Object Description java.lang.String</LONGNAME>
+      <PREFERREDNAME>2783202v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Having no previous example or precedent or parallel; of a kind not seen before.:A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis.:An orderly arrangement.:The act of requesting that person, business, or organization supply something in return for payment.:Something perceptible by one or more of the senses, especially by vision or touch; a material thing. (dictionary.com)_A statement or an account describing something._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="4914">
+      <PUBLICID>3243579</PUBLICID>
+      <LONGNAME>Diffuse Large B-Cell Lymphoma Positron Emission Tomography R-CHOP Regimen Diagnosis Code</LONGNAME>
+      <PREFERREDNAME>3243578v1.0:2861243v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the coded yes/no indicator whether Dffuse Large B-Cell Lymphoma, a lymphoma characterized by a diffuse proliferation of predominantly large neoplastic B lymphocytes, has been identified by Positron Emission Tomography, a technique for measuring the gamma radiation produced by collisions of electrons and positrons (anti-electrons) within living tissue,  following administration of R-CHOP, an immunochemotherapy regimen consisting of rituximab, cyclophosphamide, hydroxydaunorubicin hydrochloride (doxorubicin hydrochloride), vincristine (Oncovin) and prednisone used to treat both indolent and aggressive forms of non-Hodgkin lymphoma.</PREFERREDDEFINITION>
+
+   <DataElement num="19215">
+      <PUBLICID>2475543</PUBLICID>
+      <LONGNAME>Report Section Universally Unique Identifier java.lang.String</LONGNAME>
+      <PREFERREDNAME>2475352v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A short textual account.:One of several parts or pieces that fit with others to constitute a whole object; a self-contained part of a larger composition (written or musical)._A 128 bit identifier. Depending on the mechanism used to generate it, it is either guaranteed to be different from all other UUIDs/GUIDs generated until 3400 AD or extremely likely to be different. Its relatively small size lends itself well to sorting, ordering, and hashing of all sorts, storing in databases, simple allocation, and ease of programming in general._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="2000">
+      <PUBLICID>2707817</PUBLICID>
+      <LONGNAME>Anesthetic Agent Administered Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>ANESAG_ADMIN_IND2</PREFERREDNAME>
+      <PREFERREDDEFINITION>A yes/no indicator related use of anesthetic agent which causes loss of feeling.</PREFERREDDEFINITION>
+
+   <DataElement num="30701">
+      <PUBLICID>2724847</PUBLICID>
+      <LONGNAME>Biospecimen Collection Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2724741v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The act or process of gathering biospecimens for testing, diagnostic, propagation, treatment or research purposes._One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="12292">
+      <PUBLICID>2552709</PUBLICID>
+      <LONGNAME>Property Administered Item Current Version Indicator Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>2552523v1.0:2015869v2.31</PREFERREDNAME>
+      <PREFERREDDEFINITION>A characteristic or attribute common to all members of a group or class. (ISO 11179):A registry item for which administrative information is recorded in an Administration Record. (ISO 11179)_Occurring in or belonging to the present time.:Version; something a little different from others of the same type; one of a sequence of copies of a program, each incorporating new modifications.:An event, entity or condition that typically characterizes a prescribed environment or situation. Indicators determine or aid in determining whether or not certain stated circumstances exist or criteria are satisfied. (On-line Medical Dictionary)_Response of Yes or No to a question.</PREFERREDDEFINITION>
+
+   <DataElement num="47104">
+      <PUBLICID>2959970</PUBLICID>
+      <LONGNAME>Procedure Status Code InterventionStatus</LONGNAME>
+      <PREFERREDNAME>2959258v1.0:2959552v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A particular course of action intended to achieve a result._A condition or state at a particular time.:A system, often of numbered categories, for representation of data._The code that describes the state of this intervention.</PREFERREDDEFINITION>
+
+   <DataElement num="34660">
+      <PUBLICID>2262043</PUBLICID>
+      <LONGNAME>Laboratory Procedure Magnesium Result Status</LONGNAME>
+      <PREFERREDNAME>LAB_MAGNES_RSL_STAT</PREFERREDNAME>
+      <PREFERREDDEFINITION>a qualitative result of the laboratory test for magnesium.</PREFERREDDEFINITION>
+
+   <DataElement num="35071">
+      <PUBLICID>2866645</PUBLICID>
+      <LONGNAME>Biomarker Item Collection Description java.lang.String</LONGNAME>
+      <PREFERREDNAME>2866613v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A variation in cellular or biochemical components or processes, structures, or functions that is objectively measurable in a biological system and that characterizes normal biologic processes, pathogenic processes, an organism&amp;apos;s state of health or disease, likelihood of developing a disease, prognosis, or response to a particular therapeutic intervention. Biomarkers include but not limited to such phenotypic parameters as specific enzyme or hormone concentration, specific gene phenotype, presence or absence of biological substances.:A group of items of the same type, gathered for display or study._A statement or an account describing something._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="26260">
+      <PUBLICID>3461164</PUBLICID>
+      <LONGNAME>Acetylsalicylic Acid Administered Medication Use Dose</LONGNAME>
+      <PREFERREDNAME>2199727v1.0:3379352v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A quantity of acetylsalicylic acid (aspirin) administered, taken, or absorbed at one time.</PREFERREDDEFINITION>
+
+   <DataElement num="46743">
+      <PUBLICID>3123223</PUBLICID>
+      <LONGNAME>Surgical Procedure Required Total Number</LONGNAME>
+      <PREFERREDNAME>SURG_PRO_REQ_TTL_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Total number of surgeries needed for a given intervention.</PREFERREDDEFINITION>
+
+   <DataElement num="18400">
+      <PUBLICID>4798916</PUBLICID>
+      <LONGNAME>Patient Thoracic Cavity Or Abdomen Radiation Therapy Clinical Trial Eligibility Criteria Code Indicator</LONGNAME>
+      <PREFERREDNAME>THO_ABD_RX_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>The coded response indicating whether a patient meets the criteria to participate in a clinical trial with regards to prior radiation therapy to the thoracic cavity or abdomen.</PREFERREDDEFINITION>
+
+   <DataElement num="47563">
+      <PUBLICID>3809572</PUBLICID>
+      <LONGNAME>Magnetic Resonance Imaging Image Study Lesion Detection Measurements Performed Indicator</LONGNAME>
+      <PREFERREDNAME>LESVISMRI</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator related to measurements being performed and lesions being visible with imaging that uses radiofrequency waves and a strong magnetic field to provide clear and detailed pictures of internal organs and tissues.</PREFERREDDEFINITION>
+
+   <DataElement num="17306">
+      <PUBLICID>2180352</PUBLICID>
+      <LONGNAME>Transplant Child Donor Ind-3</LONGNAME>
+      <PREFERREDNAME>TSPL_CHILD_DON_IND3</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator to ask if the person chosen to donate cells for transplant has any children.</PREFERREDDEFINITION>
+
+   <DataElement num="14784">
+      <PUBLICID>2181</PUBLICID>
+      <LONGNAME>Lung Tumor Pathologic N Stage</LONGNAME>
+      <PREFERREDNAME>LUNG_TUMOR_P_N_ST</PREFERREDNAME>
+      <PREFERREDDEFINITION>the pathologic N stage for a lung tumor.</PREFERREDDEFINITION>
+
+   <DataElement num="14691">
+      <PUBLICID>3294227</PUBLICID>
+      <LONGNAME>Prior Non-cytotoxic Agent Chemotherapy Administered Count</LONGNAME>
+      <PREFERREDNAME>3294204v1.0:2018392v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the quantity related to being given prior pharmacologic substance that does not directly kill cells, but instead affects cellular transport and metabolic functions to ultimately produce cell death.</PREFERREDDEFINITION>
+
+   <DataElement num="8007">
+      <PUBLICID>3234557</PUBLICID>
+      <LONGNAME>Implantable Access Port Type</LONGNAME>
+      <PREFERREDNAME>PORT_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>Name of an implantable access port used agent administration or blood sampling in an individual.</PREFERREDDEFINITION>
+
+   <DataElement num="30865">
+      <PUBLICID>2006123</PUBLICID>
+      <LONGNAME>Bone Marrow Evaluation Ind-3</LONGNAME>
+      <PREFERREDNAME>BM_EVAL_IND3</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no/unknown indicator that asks whether a bone marrow evaluation was performed during the reporting period.</PREFERREDDEFINITION>
+
+   <DataElement num="2161">
+      <PUBLICID>2666706</PUBLICID>
+      <LONGNAME>Chronic Graft Versus Host Disease Eye Involvement Occurrence Score</LONGNAME>
+      <PREFERREDNAME>CGVHD_EYE_IVL_OC_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>the standardize score to diagnosis chronic graft versus host disease, a syndrome of immologically mediated tissue damage occurring following allogeneic transplant and may affect multiple organs with manifestations similar to autoimmune diseases with an onset usually within three years of transplantation or immunologic manipulation, involving the eye.</PREFERREDDEFINITION>
+
+   <DataElement num="1600">
+      <PUBLICID>2953828</PUBLICID>
+      <LONGNAME>Other Immunotherapy Administered Specify Text</LONGNAME>
+      <PREFERREDNAME>2953824v1.0:2799057v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Different than the one(s) previously specified or mentioned._Therapy designed to induce changes in a patient's immune status in order to treat disease._The act of having given something (e.g., a medication or test)._Be specific about something; define clearly._Text; the words of something written.</PREFERREDDEFINITION>
+
+   <DataElement num="13562">
+      <PUBLICID>3647993</PUBLICID>
+      <LONGNAME>Neoadjuvant Chemotherapy Dose Dense Doxorubicin Hydrochloride Cyclophosphamide Administered Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>3647989v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator related to whether a dose-dense neoadjuvant chemotherapy regimen consisting of AC (or CA): adriamycin (doxorubicin) and cyclophosphamide was administered.</PREFERREDDEFINITION>
+
+   <DataElement num="35218">
+      <PUBLICID>2180206</PUBLICID>
+      <LONGNAME>HLA-B Antigen Transplant Compatible Ind-3</LONGNAME>
+      <PREFERREDNAME>HLAB_TSPL_COMP_IND3</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether a patient and a transplant donor were compatible at the HLA-B cell site.</PREFERREDDEFINITION>
+
+   <DataElement num="40021">
+      <PUBLICID>3613803</PUBLICID>
+      <LONGNAME>Dimension Polygon Include Flag ISO21090.BL.v1.0</LONGNAME>
+      <PREFERREDNAME>3613749v1.0:2803169v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The spatial outline of an object as described by the configuration of straight or curved lines.:A closed plane figure bounded by straight sides._Add as part of something else; put in as part of a set, group, or category.:An indicator that can be set or unset in order to signal whether a particular condition is true._Values of two-valued logic.</PREFERREDDEFINITION>
+
+   <DataElement num="39894">
+      <PUBLICID>2716635</PUBLICID>
+      <LONGNAME>Transmembrane Protein Extramembrane Domain End java.lang.Integer</LONGNAME>
+      <PREFERREDNAME>2716618v1.0:2178537v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A protein that is an integral membrane protein with a transmembrane region.:Any part of a transmembrane protein that is not embedded within the membrane._The point or place at which something terminates in time or space._Generic value domain for a primitive java dataype that is an Integer (32-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="21648">
+      <PUBLICID>3655991</PUBLICID>
+      <LONGNAME>Dimension Point Comment ISO21090.ST.v1.0</LONGNAME>
+      <PREFERREDNAME>3655957v1.0:2803207v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The spatial outline of an object as described by the configuration of straight or curved lines.:The precise location of something; a spatially limited location._A written explanation or criticism or illustration that is added to a book or other textual material._Character string datatype stands for text data.</PREFERREDDEFINITION>
+
+   <DataElement num="26118">
+      <PUBLICID>2646525</PUBLICID>
+      <LONGNAME>Kaposi Sarcoma Related Limb Edema Circumference Assessment Measurement</LONGNAME>
+      <PREFERREDNAME>KS_R/T_L_ED_C_A_MSRM</PREFERREDNAME>
+      <PREFERREDDEFINITION>the measurement of the circumference or girth of Kaposi Sarcoma related limb (extremity) edema.</PREFERREDDEFINITION>
+
+   <DataElement num="10054">
+      <PUBLICID>4811693</PUBLICID>
+      <LONGNAME>Study Site Clinical Data For Payment Submission Indicator</LONGNAME>
+      <PREFERREDNAME>SIT_DATA_PAY_SUB_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>The response indicating whether a study site submitted all requested data necessary to receive payment for data submission.</PREFERREDDEFINITION>
+
+   <DataElement num="13523">
+      <PUBLICID>2468921</PUBLICID>
+      <LONGNAME>Protocol Activity Surveillance Discontinued Reason</LONGNAME>
+      <PREFERREDNAME>PRO_ACT_SUR_DXD_RSN</PREFERREDNAME>
+      <PREFERREDDEFINITION>an explanation for a permanent or temporary stop in systematic collection of health data on an ongoing basis as stipulated in the action plan for a clinical trial. </PREFERREDDEFINITION>
+
+   <DataElement num="33518">
+      <PUBLICID>3757095</PUBLICID>
+      <LONGNAME>Quality of Life European Organization for Research and Treatment of Cancer Cancer Patient Assessment Function Score</LONGNAME>
+      <PREFERREDNAME>QLQC30FUNCTIONAL</PREFERREDNAME>
+      <PREFERREDDEFINITION>the functional score in the subjective measurement of an individual's sense of well-being and ability to enjoy life using the European Organization for Research and Treatment of Cancer (EORTC) instrument.</PREFERREDDEFINITION>
+
+   <DataElement num="10462">
+      <PUBLICID>3170383</PUBLICID>
+      <LONGNAME>Quantitative Result Method Performance Text</LONGNAME>
+      <PREFERREDNAME>QNT_RS_MTH_PRF_TXT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The words that describe the performance of the method used to obtain quantitative results.</PREFERREDDEFINITION>
+
+   <DataElement num="21237">
+      <PUBLICID>3254072</PUBLICID>
+      <LONGNAME>Substance Abuse Prescription Illicit Substance Over the Counter Product Associated Disease or Disorder Personal Medical History Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>3253969v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether there has been any abnormal condition of the body or mind that causes discomfort, dysfunction, or distress to the person affected or those in contact with the person, that is associated with the maladaptive use of prescription drugs (substances obtained only by the order of legal medical professional), illegal drugs (substances deemed as harmful and usually subject to legal restriction), or over-the-counter drugs (medicine that can be bought without a prescription), that may lead to social, occupational, psychological, or physical problems as part of a person's medical background regarding health and the occurrence of disease events of the individual as part of the Drug Abuse Screening Test (DAST-10), an assessment tool for the systematic examination of the maladaptive use of prescription drugs (substances obtained only by the order of a legal medical professional), illegal drugs (substances deemed as harmful and usually subject to legal restriction), or over-the-counter drugs (medicine that can be bought without a prescription), that may lead to social, occupational, psychological, or physical problems for the individual.</PREFERREDDEFINITION>
+
+   <DataElement num="3249">
+      <PUBLICID>2732799</PUBLICID>
+      <LONGNAME>Study Subject Person Identifier java.lang.String</LONGNAME>
+      <PREFERREDNAME>2732764v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A matter or person that is analyzed, examined, investigated, experimented upon, or treated in the course of particular study._A single human being.:One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="7325">
+      <PUBLICID>2939290</PUBLICID>
+      <LONGNAME>Gene Disease Ontology Object Relationship Source java.lang.String</LONGNAME>
+      <PREFERREDNAME>2939244v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A functional unit of heredity which occupies a specific position (locus) on a particular chromosome, is capable of reproducing itself exactly at each cell division, and directs the formation of a protein or other product.:Disease objects specify a disease name and ID; disease objects also provide access to: ontological relations to other diseases; clinical trial protocols treating the disease; and specific histologies associated with instances of the disease.:A particular type of connection or association between objects, events, activities, or people._Where something is available._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="778">
+      <PUBLICID>3192213</PUBLICID>
+      <LONGNAME>Umbilical Cord Blood Storage Temperature Indicator</LONGNAME>
+      <PREFERREDNAME>3192200v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Blood from the umbilical cord of a newborn baby. This blood contains high concentrations of stem cells (cells from which all blood cells develop)._The act of safekeeping goods in a depository._A measure of the average kinetic energy of a system of particles. Temperature may be quantified, in the context of thermodynamics, as the potential of one system to transfer thermal energy to another system until both systems reach a state of thermal equilibrium._Indicator of Yes, No, Unknown, Not Done, or Not Applicable to a question.[manually curated]</PREFERREDDEFINITION>
+
+   <DataElement num="12600">
+      <PUBLICID>3539614</PUBLICID>
+      <LONGNAME>Patient Neuroblastoma  Documented Biopsy Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>PT_NEUR_DOCU_BX_IND2</PREFERREDNAME>
+      <PREFERREDDEFINITION>a yes/no indicator related to a person who receives medical attention with the removal of tissue specimens performed to establish a diagnosis in immature nerve cells, supported by documents.</PREFERREDDEFINITION>
+
+   <DataElement num="3108">
+      <PUBLICID>3760935</PUBLICID>
+      <LONGNAME>Substance Administration Schedule Study Activity Active Ingredient Dose ISO21090.PQ.v1.0</LONGNAME>
+      <PREFERREDNAME>3760159v1.0:2803200v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The quantity of active ingredient anticipated to be administered. EXAMPLE(S): 5 mg NOTE(S): This is intended to be a subject-specific quantity. The scheduled substance administration's active ingredient dose must contain a dose expressed in absolute terms (e.g., mg).</PREFERREDDEFINITION>
+
+   <DataElement num="30003">
+      <PUBLICID>3288319</PUBLICID>
+      <LONGNAME>Person Malignant Neoplasm Mesorectal Clinical Trial Eligibility Criteria Ind-2</LONGNAME>
+      <PREFERREDNAME>3288318v1.0:2018257v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator related to a person having a tumor composed of atypical neoplastic which are relating to the fold of peritoneum, or mesentery, attached to the rectum.</PREFERREDDEFINITION>
+
+   <DataElement num="2640">
+      <PUBLICID>64198</PUBLICID>
+      <LONGNAME>Surgical Margin Distal Positive Ind-3</LONGNAME>
+      <PREFERREDNAME>SUR_MAR_DIS_POS_IND-</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator to ask if primary tumor cells or tissue were found at the distal margin of tissue resection.</PREFERREDDEFINITION>
+
+   <DataElement num="36401">
+      <PUBLICID>3293717</PUBLICID>
+      <LONGNAME>Breast Cancer Cell Diagnosis Histology Type</LONGNAME>
+      <PREFERREDNAME>BRST_CA_DX_HIST_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text term for the structural pattern of breast cancer cells used to define a microscopic diagnosis.</PREFERREDDEFINITION>
+
+   <DataElement num="27352">
+      <PUBLICID>2816855</PUBLICID>
+      <LONGNAME>Patient Interstitial Disease Lung Personal Medical History Ind-3</LONGNAME>
+      <PREFERREDNAME>PT_INDZ_LNG_PMH_IND3</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no/unknown indicator that asks whether the patient/participant has interstitial lung disease.</PREFERREDDEFINITION>
+
+   <DataElement num="16407">
+      <PUBLICID>3197062</PUBLICID>
+      <LONGNAME>Breast Malignant Neoplasm No Hormone Sensitivity Ind-2</LONGNAME>
+      <PREFERREDNAME>3197061v1.0:2018320v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator related to presence of tumor cells in the breast that are non-hormone sensitive.</PREFERREDDEFINITION>
+
+   <DataElement num="46663">
+      <PUBLICID>2178447</PUBLICID>
+      <LONGNAME>Family Assessment Development Response Type</LONGNAME>
+      <PREFERREDNAME>FAM_ASSE_DEV_RESP_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>the assessment response regarding the concern a patient has for development of disease in a family member.</PREFERREDDEFINITION>
+
+   <DataElement num="42456">
+      <PUBLICID>4779593</PUBLICID>
+      <LONGNAME>Pediatric Quality of Life Inventory Version 4 Child Self-Report Total Scaled Score Value</LONGNAME>
+      <PREFERREDNAME>PEDSQL4_SR_TOTL_SSCR</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric representation of the sum of all the items over the number of items answered on all the scales in the Pediatric Quality of Life Inventory Version 4, Child Self-Report form.</PREFERREDDEFINITION>
+
+   <DataElement num="16967">
+      <PUBLICID>2672215</PUBLICID>
+      <LONGNAME>Mascot Scoring Engine Score Group PeptideProphet Discriminant Function Analysis Value java.lang.Float</LONGNAME>
+      <PREFERREDNAME>2671856v1.0:2178535v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A proprietary scoring engine from Matrix Science that can match tandem mass spectra with peptide sequences.:A number or range of numeric values measuring performance, function, quality, or ability.:Any number of entities (members) considered as a unit._A software package for the statistical validation of peptide identifications made by tandem mass spectrometry (MS/MS) and database searching.:A statistical technique used to determine which variables discriminate between two or more naturally groups and to determine whether groups differ with regard to the mean of a variable.:A numerical quantity measured or assigned or computed._Generic value domain for a primitive java datatype that is Single-precision floating point number (32-bit IEEE 754).</PREFERREDDEFINITION>
+
+   <DataElement num="40438">
+      <PUBLICID>2183716</PUBLICID>
+      <LONGNAME>Gynecologic Examined Site</LONGNAME>
+      <PREFERREDNAME>GYN_EXM_SITE</PREFERREDNAME>
+      <PREFERREDDEFINITION>the examined gynecologic site.</PREFERREDDEFINITION>
+
+   <DataElement num="12717">
+      <PUBLICID>2195681</PUBLICID>
+      <LONGNAME>Common Toxicity Criteria Adverse Event Genitourinary Stomal Prolapse Grade</LONGNAME>
+      <PREFERREDNAME>CTC_AE_GU_STMPRLP_GD</PREFERREDNAME>
+      <PREFERREDDEFINITION>in CTC category Renal/Genitourinary, assessment of the severity of a prolapse of stoma adverse event using a graded scale.</PREFERREDDEFINITION>
+
+   <DataElement num="20480">
+      <PUBLICID>2006132</PUBLICID>
+      <LONGNAME>Disease Histologic Diagnosis Ind</LONGNAME>
+      <PREFERREDNAME>DZ_HIST_DX_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether the patient's malignancy was histologically verified at diagnosis.</PREFERREDDEFINITION>
+
+   <DataElement num="42047">
+      <PUBLICID>3158227</PUBLICID>
+      <LONGNAME>Bone Dual X-ray Absorptometry Femur Bone Density Assessment Score</LONGNAME>
+      <PREFERREDNAME>3158226v1.0:3076086v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Bone; a rigid connective tissue that makes up the skeleton of vertebrates._A technique for scanning bone and measuring bone mineral density (BMD). A DXA scanner produces 2 X-ray beams, each with different energy levels. One beam is high energy while the other is low energy. The amount of x-rays that pass through the bone is measured for each beam. This will vary depending on the thickness of the bone. Based on the difference between the 2 beams, the bone density can be measured. (MedicineNet.com)_The longest and largest bone of the skeleton, it is situated between the hip and the knee._Bone; a rigid connective tissue that makes up the skeleton of vertebrates._The amount of something per unit size._The final result of a determination of the value, significance, or extent of._A number or range of numeric values measuring performance, function, quality, or ability.</PREFERREDDEFINITION>
+
+   <DataElement num="23628">
+      <PUBLICID>4168179</PUBLICID>
+      <LONGNAME>Measurement Third Dimension Millimeter Float</LONGNAME>
+      <PREFERREDNAME>4321819v1.0:4282731v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A response for questions capturing the &quot;Z&quot; or third measurement (diameter or size) or location in millimeters.</PREFERREDDEFINITION>
+
+   <DataElement num="20136">
+      <PUBLICID>2904293</PUBLICID>
+      <LONGNAME>Corticosteroid Dose Disease Progression Modification Ind-2</LONGNAME>
+      <PREFERREDNAME>CRT_DOSE_DP_MOD_IND2</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether the corticosteroid dose was increased due to suspected progressive disease.</PREFERREDDEFINITION>
+
+   <DataElement num="19077">
+      <PUBLICID>3761096</PUBLICID>
+      <LONGNAME>Clinical Trial Eligibility Criteria Plan Study Activity Comment ISO21090.ST.v1.0</LONGNAME>
+      <PREFERREDNAME>3760313v1.0:2803207v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An activity that is intended to occur at some point in the context of a particular study that represents a characteristic or requirement intended to be applied to a potential study subject to determine whether or not they may participate in a study. NOTE(S): This allows questions defined as agnostic criteria in defined eligibility criterion (that is, they could be used either as inclusion or exclusion criteria) to be referenced in specific study protocols and allows the inclusion/exclusion distinction to be determined for that study specifically. Additional description of the activity. EXAMPLE(S): Guidance on how to perform the observation. (for a defined observation comment).</PREFERREDDEFINITION>
+
+   <DataElement num="36953">
+      <PUBLICID>2538813</PUBLICID>
+      <LONGNAME>Lung Cancer TNM Finding Generic_Distant_Metastasis_TNM_Finding InvasiveLungCarcinomaTNMFindingDistantMetastasisFindingValueDomain</LONGNAME>
+      <PREFERREDNAME>2534440v1.0:2544821v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Classification of distant metastases based on AJCC Staging guidelines</PREFERREDDEFINITION>
+
+   <DataElement num="7514">
+      <PUBLICID>2711921</PUBLICID>
+      <LONGNAME>Analysis Programming Parameter Peak Detection Programming Parameter Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2711166v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Examination and interpretation; the process of identifying an issue to be understood and addressed, modelling the issue, investigating the model results, interpreting the results, and possibly making a recommendation. The concept also refers to the examination and study of a whole in terms of the parts composing it.:A value that is passed to a routine._The most extreme possible amount or value; the highest point.:The activity of perceiving, discerning, discovering or identifying.:A value that is passed to a routine.:One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="41988">
+      <PUBLICID>2183395</PUBLICID>
+      <LONGNAME>Patient Study Requirement Ind-2</LONGNAME>
+      <PREFERREDNAME>PT_STUDY_REQ_IND2</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator on whether the patient has any psychiatric or addictive disorders that would preclude a patient from meeting study requirements.</PREFERREDDEFINITION>
+
+   <DataElement num="42694">
+      <PUBLICID>3380099</PUBLICID>
+      <LONGNAME>Investigational Study Disease Term Accession Number</LONGNAME>
+      <PREFERREDNAME>3380062v1.0:3377626v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Identification number of a term selected from an ontology or a controlled vocabulary for investigation disease.</PREFERREDDEFINITION>
+
+   <DataElement num="45316">
+      <PUBLICID>2870871</PUBLICID>
+      <LONGNAME>Study Subject Milestone Administration, Management Performed Study Activity Status Code ISO21090.CD.v1.0</LONGNAME>
+      <PREFERREDNAME>2869196v1.0:2803170v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The completed activity which marks a study subject-specific, protocol-defined point in the course of a study. EXAMPLE(S): obtain informed consent, verify eligibility criteria, enroll, registration to a study, randomize, assignment to a treatment arm, start of on-study period, complete study visits, end of on-study period, exit trial, break treatment blind, protocol violation, premature withdrawal A coded value specifying the phase in the lifecycle of a performed activity. EXAMPLE(S): For a lab test, this would be the condition or stage in the lifecycle of the test (e.g., &quot;completed&quot;, &quot;canceled&quot;, etc.).</PREFERREDDEFINITION>
+
+   <DataElement num="44695">
+      <PUBLICID>2665198</PUBLICID>
+      <LONGNAME>Demographic Tobacco Smoking History Code</LONGNAME>
+      <PREFERREDNAME>2665187v1.0:2665196v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Statistical characterization of human populations using an examination of a patient's medical history in relation to smoking tobacco.</PREFERREDDEFINITION>
+
+   <DataElement num="10330">
+      <PUBLICID>3761433</PUBLICID>
+      <LONGNAME>Substance Extraction Intervention or Procedure Performed Study Activity Method Code ISO21090.CD.v1.0</LONGNAME>
+      <PREFERREDNAME>3760629v1.0:2803170v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The completed action of extracting something from an associated study subject for the purpose of the extracted product to be administered to a study subject. EXAMPLE(S): A donor giving Bone Marrow Stem Cells for a Stem Cell Transplant NOTE(S): The study subject could be the same for the extraction and the intended administration. This is different than a performed specimen collection, in that the intent is different: This is a donation. A coded value specifying the technique that is used to perform the procedure. EXAMPLE(S): (1) Finger stick, veni puncture, Abdominal/ ascites effusion, Biopsy, Bronchial alveolar lavage (BAL) (for specimen collection); (2) Open, laparoscopic (for cholecystectomy).</PREFERREDDEFINITION>
+
+   <DataElement num="45444">
+      <PUBLICID>2923486</PUBLICID>
+      <LONGNAME>Adolescent Tobacco Smoking History Indicator</LONGNAME>
+      <PREFERREDNAME>TOBA_SMOK_HX_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>A juvenile between the onset of puberty and maturity; in the state of development between puberty and maturity._The dried cured leaves of the tobacco plant, Nicotiana tabacum, used for smoking, chewing, or snuff.  Tobacco contains nicotine, a stimulant, and other biologically active ingredients having carcinogenic properties._The act of puffing and/or inhaling smoke from a lit cigarette, cigar, or pipe._The aggregate of past events; the continuum of events occurring in succession leading from the past to the present; a record or narrative description of past events._Indicator of Yes or No to a question.</PREFERREDDEFINITION>
+
+   <DataElement num="15436">
+      <PUBLICID>3600319</PUBLICID>
+      <LONGNAME>2-Dimensional Coordinate X-Coordinate ISO21090.REAL.v1.0</LONGNAME>
+      <PREFERREDNAME>2750287v1.0:2803201v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The property of being measured and described using two orthogonal directions.:A number or other designation that identifies a position relative to an axis or grid._A horizontal coordinate that is used together with a vertical coordinate to specify an exact point in space._Fractional numbers represented by decimals.</PREFERREDDEFINITION>
+
+   <DataElement num="42448">
+      <PUBLICID>4262191</PUBLICID>
+      <LONGNAME>Greater Than Integer::1.0 Multiply Billion per Liter Value Absolute Neutrophil Count Occurrence Indicator</LONGNAME>
+      <PREFERREDNAME>4262180v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes whether or not absolute neutrophil count (ANC) &gt;1.0 x 10E9/L occurred.</PREFERREDDEFINITION>
+
+   <DataElement num="17018">
+      <PUBLICID>2963898</PUBLICID>
+      <LONGNAME>Patient BMTCTN Subgroup Race Category Type</LONGNAME>
+      <PREFERREDNAME>2009937v2.31:2963893v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>a subdivision of a race according to BMT CTN.</PREFERREDDEFINITION>
+
+   <DataElement num="20476">
+      <PUBLICID>4806694</PUBLICID>
+      <LONGNAME>Liver Enlargement Present Indicator</LONGNAME>
+      <PREFERREDNAME>4806693v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes whether or not the liver was enlarged.</PREFERREDDEFINITION>
+
+   <DataElement num="30686">
+      <PUBLICID>3204238</PUBLICID>
+      <LONGNAME>Tobacco Use Cessation Dental Professional Practice Problem Approach Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>3204237v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A yes/no indicator related to problem in approach by dental practice of stopping use of tobacco (the leaves of the tobacco plant, Nicotiana tabacum, dried and prepared for smoking or ingestion).</PREFERREDDEFINITION>
+
+   <DataElement num="21385">
+      <PUBLICID>2534584</PUBLICID>
+      <LONGNAME>Neoplasm by Morphology Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2534340v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>definition pending_One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="5079">
+      <PUBLICID>64404</PUBLICID>
+      <LONGNAME>Tumor Extension Gyencologic Type</LONGNAME>
+      <PREFERREDNAME>TUMOR_EX_GYN_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>the location of an organ and/or structure to which a tumor is adhering or invading.</PREFERREDDEFINITION>
+
+   <DataElement num="37062">
+      <PUBLICID>2688573</PUBLICID>
+      <LONGNAME>Stage Prognostic Factor Collaborative Staging Extent Code</LONGNAME>
+      <PREFERREDNAME>2688570v1.0:2647254v1.1</PREFERREDNAME>
+      <PREFERREDDEFINITION>Identifies contiguous growth (extension) of the primary tumor within the organ of origin or its direct extension into neighboring organs.</PREFERREDDEFINITION>
+
+   <DataElement num="15943">
+      <PUBLICID>3369270</PUBLICID>
+      <LONGNAME>Specimen Penis Scrotum Negation Collected Specify</LONGNAME>
+      <PREFERREDNAME>3369262v1.0:2180669v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free-text field related to not having sample collected from the patient for analysis or examination from the male organ of urination and copulation or from the musculocutaneous pouch that encloses the testicles.</PREFERREDDEFINITION>
+
+   <DataElement num="12723">
+      <PUBLICID>2414826</PUBLICID>
+      <LONGNAME>Opiate Agent Administered Text</LONGNAME>
+      <PREFERREDNAME>OPIATE_AGT_ADM_TXT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free-text field to specify the opiate agent administered.</PREFERREDDEFINITION>
+
+   <DataElement num="38167">
+      <PUBLICID>2521653</PUBLICID>
+      <LONGNAME>Mapping Table Source Data Identifier java.lang.String</LONGNAME>
+      <PREFERREDNAME>2521584v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A function, represented as a table, such that for every element of one set there is a unique element of another set._Where something is available or from where it originates.:A collection or single item of factual information, derived from measurement or research, from which conclusions may be drawn.:One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="2814">
+      <PUBLICID>3595612</PUBLICID>
+      <LONGNAME>Rapid Breathing Symptom Present Indicator</LONGNAME>
+      <PREFERREDNAME>3594816v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Indicator to signify the presence of the symptom of Rapid breathing (Tachypnea)</PREFERREDDEFINITION>
+
+   <DataElement num="19322">
+      <PUBLICID>2534568</PUBLICID>
+      <LONGNAME>Enucleation Invasive Prostate Carcinoma Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2534324v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>definition pending:definition pending_One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="42251">
+      <PUBLICID>2784179</PUBLICID>
+      <LONGNAME>Tissue Specimen Collection Status SpecimenCollectionStatus</LONGNAME>
+      <PREFERREDNAME>2783410v1.0:2783615v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>is an organ part that consists of similarly specialized cells and intercellular matrix, aggregated according to specific spatial relationships; together with other tissues, it constitutes an organ component. Example(s): epithelium, muscle(tissue), connective tissue, neural tissue, lymphoid tissue.:Specimen; a bit of tissue or blood or urine that is taken or used for research purposes._The act of gathering things together; having been brought together in one place.:A condition or state at a particular time._Status of collection of specimen</PREFERREDDEFINITION>
+
+   <DataElement num="19299">
+      <PUBLICID>61466</PUBLICID>
+      <LONGNAME>RT Total Fraction Boost Count</LONGNAME>
+      <PREFERREDNAME>RT_TTL_FRA_BOOST_CT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the total number of radiation therapy sessions (fractions) which the patient completed to receive the required radiation dose to boost field(s).</PREFERREDDEFINITION>
+
+   <DataElement num="34414">
+      <PUBLICID>2960095</PUBLICID>
+      <LONGNAME>Clinical Research Personnel Identifier ISO21090.II.v1.0</LONGNAME>
+      <PREFERREDNAME>2959345v1.0:2803193v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A unique symbol that establishes identity of the research staff.</PREFERREDDEFINITION>
+
+   <DataElement num="33350">
+      <PUBLICID>3287324</PUBLICID>
+      <LONGNAME>Immediate Family History Kidney Cancer Relative Count Type</LONGNAME>
+      <PREFERREDNAME>3286924v1.0:3285523v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text that describes which and how many of the patient's first degree relatives have been diagnosed with kidney cancer.</PREFERREDDEFINITION>
+
+   <DataElement num="42681">
+      <PUBLICID>2968067</PUBLICID>
+      <LONGNAME>Object Class Administered Item Metadata Version java.lang.Float</LONGNAME>
+      <PREFERREDNAME>2967585v1.0:2178535v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A set of ideas, abstractions, or things in the real world that can be identified with explicit boundaries and meaning and whose properties and behavior follow the same rules.:A registry item for which administrative information is recorded in an Administration Record.:Data about data; information that describes another set of data._A form or variant of a type or original._Generic value domain for a primitive java datatype that is Single-precision floating point number (32-bit IEEE 754).</PREFERREDDEFINITION>
+
+   <DataElement num="28478">
+      <PUBLICID>3101014</PUBLICID>
+      <LONGNAME>Postal Address Description java.lang.String</LONGNAME>
+      <PREFERREDNAME>3099788v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A physical location used by a person or organization for the purpose of receiving postal mail deliveries._A statement or an account describing something._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="11910">
+      <PUBLICID>2195732</PUBLICID>
+      <LONGNAME>Common Toxicity Criteria Adverse Event Vaginal Discharge Grade</LONGNAME>
+      <PREFERREDNAME>CTC_AE_VAGDISCHRG_GD</PREFERREDNAME>
+      <PREFERREDDEFINITION>in CTC category Sexual/Reproductive Function, assessment of the severity of a non-infectious vaginal discharge adverse event using a graded scale.</PREFERREDDEFINITION>
+
+   <DataElement num="27394">
+      <PUBLICID>2438146</PUBLICID>
+      <LONGNAME>Pathology Microscopic Pathology Description java.lang.String</LONGNAME>
+      <PREFERREDNAME>2437942v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The medical science, and specialty practice, concerned with all aspects of disease, but with special reference to the essential nature, causes, and development of abnormal conditions, as well as the structural and functional changes that result from the disease processes. Informally used to mean the result of such an examination._Too small to be seen except under a microscope.:The medical science, and specialty practice, concerned with all aspects of disease, but with special reference to the essential nature, causes, and development of abnormal conditions, as well as the structural and functional changes that result from the disease processes. Informally used to mean the result of such an examination.:A statement or an account describing something._Value Domain for java language String datatype.</PREFERREDDEFINITION>
+
+   <DataElement num="29418">
+      <PUBLICID>3600313</PUBLICID>
+      <LONGNAME>Diagnostic, Therapeutic, and Research Equipment Device Serial Number ISO21090.ST.v1.0</LONGNAME>
+      <PREFERREDNAME>3599768v1.0:2803207v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An object needed to perform a diagnostic, therapeutic or research activity._An object contrived for a specific purpose.:A unique identifier assigned to a member of a series of similar items._Character string datatype stands for text data.</PREFERREDDEFINITION>
+
+   <DataElement num="40137">
+      <PUBLICID>2969365</PUBLICID>
+      <LONGNAME>Inference Image Evidence Flag java.lang.Boolean</LONGNAME>
+      <PREFERREDNAME>2969285v1.0:2178538v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The process by which conclusions are derived from stated facts by the application of logical rules._Any record of an imaging event whether physical or electronic.:Knowledge on which to base belief.:An indicator that can be set or unset in order to signal whether a particular condition is true._Generic value domain for a primitive java datatype that is a Boolean value (true or false).</PREFERREDDEFINITION>
+
+   <DataElement num="6821">
+      <PUBLICID>2180748</PUBLICID>
+      <LONGNAME>Hematopoietic Lymphoma International Classification Type</LONGNAME>
+      <PREFERREDNAME>HEM_LYMP_INT_CLAS_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>the REAL classification of lymphoma disease in a patient using standard criteria from the Revised European and Amercian Classification system.</PREFERREDDEFINITION>
+
+   <DataElement num="14425">
+      <PUBLICID>2211678</PUBLICID>
+      <LONGNAME>Reduced Work Quality Health Assessment Ind-2</LONGNAME>
+      <PREFERREDNAME>R_WRKQL_HLT_ASE_IND2</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether the patient did work or other activities less carefully than usual.</PREFERREDDEFINITION>
+
+   <DataElement num="47095">
+      <PUBLICID>2764465</PUBLICID>
+      <LONGNAME>Dental Professional Practice Discussion Use Status</LONGNAME>
+      <PREFERREDNAME>DENT_PP_DISC_U_STA</PREFERREDNAME>
+      <PREFERREDDEFINITION>the state of use as related to information from conversation with colleagues being used in business directed towards treatment and care of patients pertaining to a tooth or teeth, or to odontology.</PREFERREDDEFINITION>
+
+   <DataElement num="5698">
+      <PUBLICID>3182806</PUBLICID>
+      <LONGNAME>Caries Occlusal Surface Dental Pulp Length Maximum Measurement</LONGNAME>
+      <PREFERREDNAME>3182803v1.0:3182805v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the largest possible measurement related to length of the biting surfaces of the premolar and molar teeth to the pulp (a richly vascularized and innervated connective tissue of mesodermal origin contained in the central cavity of a tooth and delimited by the dentin) that has the decay of a tooth, in which it becomes softened, discolored, and/or porous.</PREFERREDDEFINITION>
+
+   <DataElement num="16322">
+      <PUBLICID>2181965</PUBLICID>
+      <LONGNAME>Brain Tumor Response Response Status</LONGNAME>
+      <PREFERREDNAME>BRAIN_TUMO_RESP_STAT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the status of the response of a brain tumor.</PREFERREDDEFINITION>
+
+   <DataElement num="28123">
+      <PUBLICID>3915854</PUBLICID>
+      <LONGNAME>Bone Scan Medical Imaging Confirmed Assessment Treatment Course Number</LONGNAME>
+      <PREFERREDNAME>BONESCANCONFCYCLE</PREFERREDNAME>
+      <PREFERREDDEFINITION>The identifier used to indicate the treatment course or cycle relating to a confirmatory (establishing or verifying) medical imaging assessment (the determination of the value, significance, or extent of) to create images of bones on a computer screen or on film.</PREFERREDDEFINITION>
+
+   <DataElement num="20322">
+      <PUBLICID>4514695</PUBLICID>
+      <LONGNAME>Metastatic Disease Timing Type</LONGNAME>
+      <PREFERREDNAME>4514692v1.0:3895687v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text term to describe the timing of metastatic disease relative to diagnosis of primary.</PREFERREDDEFINITION>
+
+   <DataElement num="36357">
+      <PUBLICID>3760771</PUBLICID>
+      <LONGNAME>Product Relationship Identifier ISO21090.II.v1.0</LONGNAME>
+      <PREFERREDNAME>3759997v1.0:2803193v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A unique symbol that establishes identity of the product within the context of another product. NOTE(S): There are multiple ways in which an identifier can be associated to a product: inherited association to a material identifier, the association to a processed product identifier, and the association to product relationship identifier. If there is no context associated with the identifier, then the material identifier should be used. However, if the identifier for a product would be different in different context, one of the other identifiers should be used. If a kind of product is produced by different processors, and each processor assigns the product a different identifier, then the processed product identifier should be used. If the product is used in multiple assemblies, and in each assembly it would be assigned a different identifier, then product relationship identifier should be used.</PREFERREDDEFINITION>
+
+   <DataElement num="34337">
+      <PUBLICID>2713439</PUBLICID>
+      <LONGNAME>Diagnosis Text Laboratory Finding Diagnostic Procedure Text</LONGNAME>
+      <PREFERREDNAME>2713431v1.0:2644975v1.1</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text area for manual documentation of information from laboratory examinations other than cytology or histopathology.</PREFERREDDEFINITION>
+
+   <DataElement num="14363">
+      <PUBLICID>3193378</PUBLICID>
+      <LONGNAME>Breast Focal Positive Surgical Margin Present Ind-2</LONGNAME>
+      <PREFERREDNAME>3193377v1.0:2018320v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator related to presence of tumor cells at the edge of a surgically excised specimen limited to the breast.</PREFERREDDEFINITION>
+
+   <DataElement num="9720">
+      <PUBLICID>3853039</PUBLICID>
+      <LONGNAME>Stress Echocardiogram Heart Wall Motion Abnormality Indicator</LONGNAME>
+      <PREFERREDNAME>3853026v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The yes/no response regarding the presence of unusual physical characteristics of the movement (change in position) of the layer of tissue that encloses the heart observed during a stress echocardiogram.  This unusual characteristic may be suggestive of ischemia.</PREFERREDDEFINITION>
+
+   <DataElement num="17967">
+      <PUBLICID>2987793</PUBLICID>
+      <LONGNAME>Cytogenetic Abnormality Monosomy Chromosome 20 Present Indicator</LONGNAME>
+      <PREFERREDNAME>2987774v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes the absence or presence of an irregularity in the number or structure of chromosomes consisting of the absence of one of the copies of chromosome 20.</PREFERREDDEFINITION>
+
+   <DataElement num="48219">
+      <PUBLICID>2220120</PUBLICID>
+      <LONGNAME>Protocol Enrollment Sequence Number</LONGNAME>
+      <PREFERREDNAME>PROT_ENRLL_SEQ_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Number to represent a participant's position or identifer within a protocol.</PREFERREDDEFINITION>
+
+   <DataElement num="47751">
+      <PUBLICID>2685338</PUBLICID>
+      <LONGNAME>Serum Albumin Measurement Diagnosis Timepoint Hematology Lab Albumin Value</LONGNAME>
+      <PREFERREDNAME>SRM_ALBMN_DX_TM_VAL</PREFERREDNAME>
+      <PREFERREDDEFINITION>The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins._A quantitative measurement of albumin present in a sample._The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation._A specific point in the time continuum, including those established relative to an event._a hematology laboratory value for albumin.</PREFERREDDEFINITION>
+
+   <DataElement num="25876">
+      <PUBLICID>2684770</PUBLICID>
+      <LONGNAME>Patient Medical Record Finding Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>PT_MR_FNG</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text indication that a patient has a specific finding documented in his/her medical record. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="17079">
+      <PUBLICID>3188498</PUBLICID>
+      <LONGNAME>Quality of Life Diarrhea Evaluation Frequency</LONGNAME>
+      <PREFERREDNAME>2786950v1.0:2452760v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the frequency related to the condition of frequent and watery bowel movements difficult as a subjective measurement of an individual's sense of well-being and ability to enjoy life.</PREFERREDDEFINITION>
+
+   <DataElement num="18791">
+      <PUBLICID>2798736</PUBLICID>
+      <LONGNAME>Database Disease Screening Modality Code ScreeningModalityCode</LONGNAME>
+      <PREFERREDNAME>2798706v1.0:2798719v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A database is an information set with a regular structure.  Although it can be applied to any set of information the term was invented to refer to computerised data, and is used almost exclusively in computing. (from Wikipedia)_The use of any device, marker, or other means for the purpose of detecting the presence of disease, usually in asymptomatic individuals.:A specific manner, characteristic, pattern of application or the employment of, any therapeutic agent or method of treatment, especially involving the physical treatment of a condition.:A symbol or combination of symbols which is given an arbitrary meaning within a systematized collection of concepts used for data representation._Code that represents the screening modality</PREFERREDDEFINITION>
+
+   <DataElement num="21167">
+      <PUBLICID>2223875</PUBLICID>
+      <LONGNAME>Population Frequency Allele Value java.lang.Double</LONGNAME>
+      <PREFERREDNAME>2223717v3.0:2200948v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A description of the relative rate of occurrence of specific alleles, traits, or other factors within a population of organisms._one of a series of possible alternative forms of a given gene, differing in DNA sequence, and affecting the functioning of a single product.:A numerical quantity measured or assigned or computed._Java Double Wrapper for primitive type double</PREFERREDDEFINITION>
+
+   <DataElement num="7666">
+      <PUBLICID>1235</PUBLICID>
+      <LONGNAME>Patient Eligibility Indicator</LONGNAME>
+      <PREFERREDNAME>PT_ELIG_IND-3</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no/unknown indicator that asks the investigator to stipulate whether the patient is eligible for inclusion on this protocol.</PREFERREDDEFINITION>
+
+   <DataElement num="8123">
+      <PUBLICID>2968119</PUBLICID>
+      <LONGNAME>Repeat Object Form Element Administered Item Workflow Status Description  java.lang.String</LONGNAME>
+      <PREFERREDNAME>2967637v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Something occurring more than once.:A printed or electronic document with spaces to be filled out.:An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system.:A registry item for which administrative information is recorded in an Administration Record._Workflow is the operational aspect of a work procedure: how tasks are structured, who performs them, what their relative order is, how they are synchronized, how information flows to support the tasks and how tasks are being tracked. (from Wikipedia):A condition or state at a particular time.:Description; a statement that represents something in words._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="40122">
+      <PUBLICID>2483528</PUBLICID>
+      <LONGNAME>Prior Antigen gp100 Personal Medical History Indicator</LONGNAME>
+      <PREFERREDNAME>PRIOR_GP100_HX_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text indicator to represent a person's record of an earlier in time history of Melanocyte Lineage-Specific Antigen Glycoprotein 100 (gp100).</PREFERREDDEFINITION>
+
+   <DataElement num="31610">
+      <PUBLICID>4722531</PUBLICID>
+      <LONGNAME>Laboratory Procedure Serum Glutamic Pyruvic Transaminase Performed Upper Limit of Normal Unit of Measure</LONGNAME>
+      <PREFERREDNAME>3157901v1.0:2937130v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The unit of measure that represents a determinate amount or quantity of the upper level of the normal range of values of serum glutamic pyruvic transaminase in a laboratory specimen.</PREFERREDDEFINITION>
+
+   <DataElement num="43225">
+      <PUBLICID>3196300</PUBLICID>
+      <LONGNAME>Breast Reconstruction Other Assessment Specify</LONGNAME>
+      <PREFERREDNAME>3196285v1.0:2018806v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free text field related to assessment of other issue in the surgical restoration of breast.</PREFERREDDEFINITION>
+
+   <DataElement num="10913">
+      <PUBLICID>4182226</PUBLICID>
+      <LONGNAME>Person Adult Home Environmental Tobacco Smoke Exposure Yes No Unknown Indicator</LONGNAME>
+      <PREFERREDNAME>SMKADULTHOME</PREFERREDNAME>
+      <PREFERREDDEFINITION>The yes/no/unknown indicator for information related to second hand smoke exposure in the person's adulthood home.</PREFERREDDEFINITION>
+
+   <DataElement num="28944">
+      <PUBLICID>2181388</PUBLICID>
+      <LONGNAME>Myeloma Progression Site</LONGNAME>
+      <PREFERREDNAME>MYE_PROG_SITE</PREFERREDNAME>
+      <PREFERREDDEFINITION>the anatomic location or a test result indicating that multiple myeloma disease has spread or increased in severity.</PREFERREDDEFINITION>
+
+   <DataElement num="38799">
+      <PUBLICID>2590557</PUBLICID>
+      <LONGNAME>Hospital Unspecified Discharge Diagnosis Status</LONGNAME>
+      <PREFERREDNAME>HOSP_UNS_DIS_DX_STAT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the status whether an unspecified reason for hospitalization was idenitified at the time of discharge, the end point of an inpatient hospital contact which consists of one or several days of care.</PREFERREDDEFINITION>
+
+   <DataElement num="39448">
+      <PUBLICID>2939279</PUBLICID>
+      <LONGNAME>Gene Function Relationship Source java.lang.String</LONGNAME>
+      <PREFERREDNAME>2939233v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A functional unit of heredity which occupies a specific position (locus) on a particular chromosome, is capable of reproducing itself exactly at each cell division, and directs the formation of a protein or other product.:The normal action performed by a structure or device.:A state of connectedness between people, objects, or events; to be associated or connected with something._Where something is available._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="48344">
+      <PUBLICID>4395825</PUBLICID>
+      <LONGNAME>Adverse Event Or Product Device Event Problem Name</LONGNAME>
+      <PREFERREDNAME>4394153v1.0:4395822v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any unfavorable or unintended symptom, sign, or disease including an abnormal laboratory finding) temporally associated with the use of a medical treatment or procedure that may or may not be considered related to the medical treatment or procedure.  Such events can be intervention related, dose related, route related, patient related, or caused by an interaction with another drug(s) or procedure(s).:An article used to connect words, phrases, or clauses representing alternatives; used to connect alternative terms for the same thing; used in correlation_A difficulty, disorder, or condition needing resolution_A person who receives medical attention, care, or treatment, or who is registered with medical professional or institution with the purpose to receive medical care when necessary._A difficulty, disorder, or condition needing resolution._The words or language units by which a thing is known.</PREFERREDDEFINITION>
+
+   <DataElement num="23500">
+      <PUBLICID>2985977</PUBLICID>
+      <LONGNAME>Mouse Sex Person Gender Text Type</LONGNAME>
+      <PREFERREDNAME>2619730v1.0:2222445v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any of numerous species of small rodents belonging to the genus Mus and various related genera of the family Muridae._The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female. (from On-line Medical Dictionary)_Text designations that identify gender.   Gender is described as the assemblage of properties that distinguish people on the basis of their societal roles.</PREFERREDDEFINITION>
+
+   <DataElement num="2343">
+      <PUBLICID>3727186</PUBLICID>
+      <LONGNAME>FACT-BMT Questionnaire Past Seven Days Have Tremor How True Score 5 Point Scale</LONGNAME>
+      <PREFERREDNAME>3727103v1.0:3144287v1.1</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how true in the past 7 days they have tremors, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="27638">
+      <PUBLICID>2529132</PUBLICID>
+      <LONGNAME>GenBank Accession Number Human Genome Organisation Gene Symbol java.lang.String</LONGNAME>
+      <PREFERREDNAME>2528839v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. GenBank records are annotated using a standard set of biological terms and show these annotations in a Feature Table. A new release is made every two months. GenBank is part of the International Nucleotide Sequence Database Collaboration, which comprises the DNA DataBank of Japan (DDBJ), the European Molecular Biology Laboratory (EMBL), and GenBank at NCBI. These three organizations exchange data on a daily basis. The GenBank database is designed to provide and encourage access within the scientific community to the most up to date and comprehensive DNA sequence information. Therefore, NCBI places no restrictions on the use or distribution of the GenBank data. GenBank is available for searching at NCBI via several methods.:A control number unique to an object, used to identify it among the other objects in a collection._An international organization of scientists involved in human genetics. Established in 1989 by a collection of the world's leading human geneticists, the primary ethos of the Human Genome Organisation is to promote and sustain international collaboration in the field of human genetics.:A unique gene name approved by an organism specific nomenclature committee._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="19373">
+      <PUBLICID>2968113</PUBLICID>
+      <LONGNAME>Repeat Object Form Element Administered Item Preferred Definition java.lang.String</LONGNAME>
+      <PREFERREDNAME>2967631v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Something occurring more than once.:A printed or electronic document with spaces to be filled out.:An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system.:A registry item for which administrative information is recorded in an Administration Record._Designated as more desirable.:A concise explanation of the meaning of a word or phrase or symbol._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="28991">
+      <PUBLICID>3109654</PUBLICID>
+      <LONGNAME>Agent Patient Self-Report Hypersensitivity Type</LONGNAME>
+      <PREFERREDNAME>3109634v1.0:3109651v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect. Subjective reports made by a patient. A local or general reaction of an organism following contact with a specific allergen to which it has been previously exposed and to which it has become sensitized._Something distinguishable as an identifiable class based on common qualities.</PREFERREDDEFINITION>
+
+   <DataElement num="14051">
+      <PUBLICID>2671940</PUBLICID>
+      <LONGNAME>Protein Sequence Description java.lang.String</LONGNAME>
+      <PREFERREDNAME>2671650v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The arrangement of amino acids in a protein.  Proteins can be made from 20 different kinds of amino acids, and the structure and function of each type of protein are determined by the kinds of amino acids used to make it and how they are arranged._A statement or an account describing something._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="19509">
+      <PUBLICID>4746871</PUBLICID>
+      <LONGNAME>Intravenous Route of Administration Pentetate Calcium Trisodium Administered Indicator</LONGNAME>
+      <PREFERREDNAME>4746862v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes whether or not IV pentetate calcium trisodium was administered.</PREFERREDDEFINITION>
+
+   <DataElement num="31584">
+      <PUBLICID>3110218</PUBLICID>
+      <LONGNAME>Patient Periodontal Disorder Personal Medical History Yes or No Response</LONGNAME>
+      <PREFERREDNAME>3110216v1.0:3108967v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person who receives medical attention, care, or treatment, or who is registered with medical professional or institution with the purpose to receive medical care when necessary. An inflammatory process of the gingival tissues and/or periodontal membrane of the teeth, resulting in an abnormally deep gingival sulcus, possibly producing periodontal pockets and loss of alveolar bone support. An account of all medical events and problems a person has experienced. A caDSR representation term that is used to indicate a question with permissible values of yes/no</PREFERREDDEFINITION>
+
+   <DataElement num="41050">
+      <PUBLICID>2180635</PUBLICID>
+      <LONGNAME>Transplant Lymphocyte Infusion Count</LONGNAME>
+      <PREFERREDNAME>TSPL_LYMPH_INF_CT</PREFERREDNAME>
+      <PREFERREDDEFINITION>when more than one donor lymphocyte infusion is given, a number used to identify a single infusion treatment in the sequence in which the treatment is given.</PREFERREDDEFINITION>
+
+   <DataElement num="29697">
+      <PUBLICID>2585028</PUBLICID>
+      <LONGNAME>Other Neoplasm Excision Specify</LONGNAME>
+      <PREFERREDNAME>O_NEO_EX_SPEC</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free-text field to specify other tumor removal by sugery.</PREFERREDDEFINITION>
+
+   <DataElement num="20724">
+      <PUBLICID>2851902</PUBLICID>
+      <LONGNAME>Reduced Productivity Health Assessment Scale</LONGNAME>
+      <PREFERREDNAME>R_PR_HLTH_ASES_SCALE</PREFERREDNAME>
+      <PREFERREDDEFINITION>the scale to determine whether the patient accomplished less than they would like.</PREFERREDDEFINITION>
+
+   <DataElement num="16127">
+      <PUBLICID>2768146</PUBLICID>
+      <LONGNAME>Pharmacokinetics Taxane Compound Dose Schedule java.lang.String</LONGNAME>
+      <PREFERREDNAME>2767925v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._Anticancer drugs that inhibit cancer cell growth by stopping cell division. Also called antimitotic or antimicrotubule agents or mitotic inhibitors.:A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.:An ordered list of times at which things are planned to occur._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="5436">
+      <PUBLICID>2853904</PUBLICID>
+      <LONGNAME>Chemotherapy Toxicity Resolution Event Ind-2</LONGNAME>
+      <PREFERREDNAME>CT_TOX_RES_EVNT_IND2</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether the chemotherapy-related toxicities have resolved to &lt;= grade 1.</PREFERREDDEFINITION>
+
+   <DataElement num="18480">
+      <PUBLICID>2819682</PUBLICID>
+      <LONGNAME>Surgical Procedure Laparoscopic Retractors Use Specify</LONGNAME>
+      <PREFERREDNAME>2819645v1.0:2018810v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free text field to specify the surgical instrument used in laparoscopic procedures to manually maneuver tissue which would otherwise obstract the view from the operative site.</PREFERREDDEFINITION>
+
+   <DataElement num="30085">
+      <PUBLICID>3176843</PUBLICID>
+      <LONGNAME>Study Subject Protocol Milestone Administration Reuse Template Study Activity Description ISO21090.ST.v1.0</LONGNAME>
+      <PREFERREDNAME>3175346v1.0:2803207v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An administrative activity defined at a global library level that represents a common administrative landmark for a study subject in the course of a study. EXAMPLE(S): obtain informed consent, verify eligibility criteria, enroll, registration to a study, randomize, assignment to a treatment arm, start of on-study period, complete study visits, end of on-study period, exit trial, break treatment blind, protocol violation, premature withdrawal The textual representation of the activity.</PREFERREDDEFINITION>
+
+   <DataElement num="27418">
+      <PUBLICID>2773409</PUBLICID>
+      <LONGNAME>Availability Quantity Status java.lang.String</LONGNAME>
+      <PREFERREDNAME>2772755v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The quality of being obtainable or accessible and ready for use or service.:How much there is of something that you can measure; the total amount or number._A condition or state at a particular time._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="21037">
+      <PUBLICID>3245828</PUBLICID>
+      <LONGNAME>Mental Process Impairment Adult Patient Dental Treatment Frequency</LONGNAME>
+      <PREFERREDNAME>3245826v1.0:3245862v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Conceptual functions or thinking in all its forms. (NCI)_Loss or abnormality of psychological, physiological, or anatomic structure or function._A human who has reached reproductive age._A person who receives medical attention, care, or treatment, or who is registered with medical professional or institution with the purpose to receive medical care when necessary._Pertaining to a tooth or teeth, or to odontology._An action or administration of therapeutic agents to produce an effect that is intended to alter the course of a pathologic process._The number of occurrences of something within a given time period. (NCI)</PREFERREDDEFINITION>
+
+   <DataElement num="50074">
+      <PUBLICID>3014271</PUBLICID>
+      <LONGNAME>Block Walking Activity Assessment Scale</LONGNAME>
+      <PREFERREDNAME>3014261v1.0:3014236v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Response to an inquiry about a person's level of activity on a typical day and health limits on walking one block.</PREFERREDDEFINITION>
+
+   <DataElement num="28616">
+      <PUBLICID>2798689</PUBLICID>
+      <LONGNAME>Smoking Duration Missing Value Reason Indicator</LONGNAME>
+      <PREFERREDNAME>2182164v1.0:2756825v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>information related to a person's smoking duration._A specific reason explaining why a meaningful value is not available.  A meaningful value answers the question posed by a Data Element Concept.  In contrast, a Missing Value Reason answers the implicit question &quot;Why is there no 'meaningful' value?&quot;, when there is none._An event, entity or condition that typically characterizes a prescribed environment or situation and determines or aids in determining whether certain stated circumstances exist or criteria are satisfied.</PREFERREDDEFINITION>
+
+   <DataElement num="35667">
+      <PUBLICID>4732009</PUBLICID>
+      <LONGNAME>Child Language Home Use Type</LONGNAME>
+      <PREFERREDNAME>ChLangHomeTp</PREFERREDNAME>
+      <PREFERREDDEFINITION>the type of language which child speaks at home.</PREFERREDDEFINITION>
+
+   <DataElement num="8143">
+      <PUBLICID>3761409</PUBLICID>
+      <LONGNAME>Material Process Step Intervention or Procedure Performed Study Activity Target Anatomic Site Code ISO21090.CD.v1.0</LONGNAME>
+      <PREFERREDNAME>3760606v1.0:2803170v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The completed act of processing a material. EXAMPLE(S): freezing, thawing, spinning, embedding, dividing, aliquot, adding additives or growth factors OTHER NAME(S): product manipulation NOTE(S): Material process may be performed on any kind of material, such as specimen, nanomaterial, or biologic. The result of the process may be similar or different kind of material, e.g. specimen may be result of specimen processing step (aliquot or division of a specimen), or alternatively blood product has anticoagulants added to it to preserve product. Other processing steps, e.g. adding growth factor to induce cell growth, may be performed on blood product. A coded value specifying the anatomic location that is the focus of a procedure. EXAMPLE(S): Kidney (or a nephrectomy) NOTE(S): (1) Multiple contiguous sites within the same organ system may be referenced. (2) Anatomic site and laterality both are included in this concept.</PREFERREDDEFINITION>
+
+   <DataElement num="27304">
+      <PUBLICID>2608256</PUBLICID>
+      <LONGNAME>Activity Relationship Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2607879v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An action taken in pursuit of an objective; the state of being active.:A state of connectedness between people, objects, or events; to be associated or connected with something._One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="39690">
+      <PUBLICID>2802995</PUBLICID>
+      <LONGNAME>Neurologic Cognitive Assessment Number Negation Second Complete Status</LONGNAME>
+      <PREFERREDNAME>N_C_ASS_N_N_S_C_STAT</PREFERREDNAME>
+      <PREFERREDDEFINITION>a condition or state at a particular time as related to neurocognitive evaluation second Trail Making Test not being done.</PREFERREDDEFINITION>
+
+   <DataElement num="21494">
+      <PUBLICID>2637455</PUBLICID>
+      <LONGNAME>Person Body Surface Area Method Text Type</LONGNAME>
+      <PREFERREDNAME>PRSN_BSA_METH_TXT_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>The words that describe the means by which a result is obtained for a measure of the 2-dimensional extent of the body surface.</PREFERREDDEFINITION>
+
+   <DataElement num="44289">
+      <PUBLICID>2452430</PUBLICID>
+      <LONGNAME>Pain Assessment Response Ind-2</LONGNAME>
+      <PREFERREDNAME>PN_ASSESS_RESP_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator whether the patient/participant experienced pain.</PREFERREDDEFINITION>
+
+   <DataElement num="49396">
+      <PUBLICID>2828245</PUBLICID>
+      <LONGNAME>MRI MRSI Left Apex Maximum Choline Creatine Ratio Value</LONGNAME>
+      <PREFERREDNAME>2828243v1.0:2823267v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Imaging that uses radiofrequency waves and a strong magnetic field rather than x-rays to provide amazingly clear and detailed pictures of internal organs and tissues. The technique is valuable for the diagnosis of many pathologic conditions, including cancer, heart and vascular disease, stroke, and joint and musculoskeletal disorders. _Magnetic resonance spectroscopy is a noninvasive imaging technique that acts as a complement to conventional imaging of brain tumors in order to improve the sensitivity and specificity of the diagnostic process. This technique operates by exciting and recording signals from a range of magnetic resonance frequencies, allowing the identification and quantification of several biologically significant molecules containing proton groups that resonate in the appropriate frequency range. The technique facilitates observation of the spatial distribution of metabolic patterns over a region of interest and surrounding tissue at a high spatial resolution._Left; being or located on or directed toward the side of the body to the west when facing north._Uppermost part of the prostate gland._the largest possible quantity or degree._Water-soluble vitamin that is a precursor for acetylcholine, phospholipids, and the methyl donor betaine. (DRI)_An endogenous amino acid derivative produced by vertebrate animals and occurring primarily in muscle cells.  Creatine is important for energy storage; it is phosphorylated to creatine phosphate, which serves as a phosphate donor in the conversion of ADP to ATP and supplies energy necessary for muscle contraction.  Dietary supplementation with creatine may improve muscle wasting associated with cancer and other chronic diseases._Quotient of quantities of the same kind for different components within the same system._A numerical quantity measured or assigned or computed.</PREFERREDDEFINITION>
+
+   <DataElement num="31828">
+      <PUBLICID>2639106</PUBLICID>
+      <LONGNAME>Surgical Margin Frozen Section Positive Finding Ind-2</LONGNAME>
+      <PREFERREDNAME>SXMARG_FRZN_POS_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator whether a thin slice of frozen tissue specimen cut from the edge or border of the tissue removed in cancer surgery has cancer cells at the edge of the tissue.</PREFERREDDEFINITION>
+
+   <DataElement num="48797">
+      <PUBLICID>2415459</PUBLICID>
+      <LONGNAME>Breast Carcinoma Recurrent Disease Specify</LONGNAME>
+      <PREFERREDNAME>BRSTCA_RECURDZ_SPEC</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free-text field to specify the site of breast cancer recurrence.</PREFERREDDEFINITION>
+
+   <DataElement num="7117">
+      <PUBLICID>3413799</PUBLICID>
+      <LONGNAME>Laboratory Procedure Cerebrospinal Fluid Alpha-Fetoprotein Outcome Estimate ng/mL Value</LONGNAME>
+      <PREFERREDNAME>Labo_Cere_Alph_Outc_Valu</PREFERREDNAME>
+      <PREFERREDDEFINITION>An estimated numerical quantity measured for laboratory result for alpha fetoprotein, a protein normally produced by a developing fetus, from the fluid flowing around the brain and spinal cord.</PREFERREDDEFINITION>
+
+   <DataElement num="7559">
+      <PUBLICID>2859986</PUBLICID>
+      <LONGNAME>Analysis of Variance Outcome Biomarker Group Mean Item Collection float One Dimensional Array</LONGNAME>
+      <PREFERREDNAME>2859981v1.0:2615769v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A statistical technique which helps in making inference whether three or more samples might come from populations having the same mean; specifically, whether the differences among the samples might be caused by chance variation.:The result of an action._A xenobiotically-induced variation in cellular or biochemical components or processes, structures, or functions that is objectively measurable in a biological system and characterizes normal biologic processes, pathogenic processes, an organism's state of health or disease, likelihood of developing a disease, prognosis, or response to a particular therapeutic intervention. Biomarkers include but not limited to such phenotypic parameters as specific enzyme or hormone concentration, specific gene phenotype, presence or absence of biological substances.:Any number of entities (members) considered as a unit.:The sum of a set of values divided by the number of values in the set.:A group of items of the same type, gathered for display or study._Generic value domain for a single dimensional array with floating numbers as elements._An orderly arrangement. (from the American Heritage Dictionary)</PREFERREDDEFINITION>
+
+   <DataElement num="1703">
+      <PUBLICID>3285718</PUBLICID>
+      <LONGNAME>Stage Prognostic Factor Derived American Joint Committee on Cancer Neoplasm Derived American Joint Committee on Cancer Integer::7 Edition Neoplasm Code</LONGNAME>
+      <PREFERREDNAME>2688909v1.0:3285243v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>This item is the derived AJCC &quot;T&quot; staging element from coded fields using the CS algorithm.  Effective for cases diagnosed 2010+.</PREFERREDDEFINITION>
+
+   <DataElement num="23855">
+      <PUBLICID>835</PUBLICID>
+      <LONGNAME>Affiliated Institution Name</LONGNAME>
+      <PREFERREDNAME>AFF_INST_NAME</PREFERREDNAME>
+      <PREFERREDDEFINITION>the name of the clinical center or other organization that is affiliated with the central Cooperative Group institution.</PREFERREDDEFINITION>
+
+   <DataElement num="27435">
+      <PUBLICID>2182924</PUBLICID>
+      <LONGNAME>Agent Stopped Reason Text</LONGNAME>
+      <PREFERREDNAME>AGT_STOPPED_RSN_TXT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The text that describes the reason the agent was stopped.</PREFERREDDEFINITION>
+
+   <DataElement num="47172">
+      <PUBLICID>3419386</PUBLICID>
+      <LONGNAME>Tooth Brushing  Excessive  Evidence Indicator</LONGNAME>
+      <PREFERREDNAME>3419323v1.0:2015869v3.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The Yes or no indication of whether there is evidence of aggressive tooth brushing habits</PREFERREDDEFINITION>
+
+   <DataElement num="41505">
+      <PUBLICID>3761094</PUBLICID>
+      <LONGNAME>Clinical Trial Eligibility Criteria Plan Study Activity Repeat Quantity Range ISO21090.URG.INT.NONNEG.v1.0</LONGNAME>
+      <PREFERREDNAME>3760311v1.0:3152485v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An activity that is intended to occur at some point in the context of a particular study that represents a characteristic or requirement intended to be applied to a potential study subject to determine whether or not they may participate in a study. NOTE(S): This allows questions defined as agnostic criteria in defined eligibility criterion (that is, they could be used either as inclusion or exclusion criteria) to be referenced in specific study protocols and allows the inclusion/exclusion distinction to be determined for that study specifically. An integer falling within minimum and maximum bounds that specifies how many times the planned activity occurs. NOTE(S): If the frequency is more than once a day, this is still interpreted per time, e.g. BID for 5 days is 10 repeats.</PREFERREDDEFINITION>
+
+   <DataElement num="50127">
+      <PUBLICID>2783744</PUBLICID>
+      <LONGNAME>Extraprostatic Extension Anatomic Site Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2782979v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Situated outside of the prostate.:An addition to the length of something; the spreading of something into new regions.:Named locations of or within the body._One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="32499">
+      <PUBLICID>2784147</PUBLICID>
+      <LONGNAME>Excision Colorectal Pathology Other Neoplasm Characteristic java.lang.String</LONGNAME>
+      <PREFERREDNAME>2783378v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The act of cutting out; the surgical removal of part or all of a structure or organ.:Relating to the colon and rectum, or to the entire large bowel.:The medical science, and specialty practice, concerned with all aspects of disease, but with special reference to the essential nature, causes, and development of abnormal conditions, as well as the structural and functional changes that result from the disease processes. Informally used to mean the result of such an examination._Different than the one(s) previously specified or mentioned.:An abnormal tissue growth resulted from uncontrolled cell proliferation.  Benign neoplastic cells resemble normal cells without exhibiting significant cytologic atypia, while malignant ones exhibit overt signs such as dysplastic features, atypical mitotic figures, necrosis, nuclear pleomorphism, and anaplasia.  Representative examples of benign neoplasms include papillomas, cystadenomas, and lipomas; malignant neoplasms include carcinomas, sarcomas, lymphomas, and leukemias. -- 2004:The distinguishing qualities or prominent aspect of a person, object, action, process, or substance._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="43062">
+      <PUBLICID>2752604</PUBLICID>
+      <LONGNAME>Longterm Follow-up Cerebrospinal Fluid Cancer Progression java.lang.Integer</LONGNAME>
+      <PREFERREDNAME>2752088v1.0:2178537v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The follow-up activities that take place following the end of the active intervention period._The fluid that is contained within the brain ventricles, the subarachnoid space and the central canal of the spinal cord.:The worsening of a cancer over time._Generic value domain for a primitive java dataype that is an Integer (32-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="9802">
+      <PUBLICID>3113183</PUBLICID>
+      <LONGNAME>Image Plane Slice Location Float or Fixed-point Millimeter Number</LONGNAME>
+      <PREFERREDNAME>IMG_SLICE_LOCATION</PREFERREDNAME>
+      <PREFERREDDEFINITION>A string of characters representing either a fixed point number or a floating point number capturing the relative position and orientation of the image slice relative to the patient-based coordinate system expressed in number of millimeters.</PREFERREDDEFINITION>
+
+   <DataElement num="7894">
+      <PUBLICID>2900070</PUBLICID>
+      <LONGNAME>Imaging Technology System Unique Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2899812v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any of a number of technologies that permits the visualization and acquisition of images into a physical or electronic record.:A group of independent but interrelated elements comprising a unified whole._A set of characters used as a code that is unique in the context or the system for which it is created. It serves as a means of identification and reference (often instead of a name) for an entity, person, thing, function, procedure, activity, variable, or a body of data._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="46916">
+      <PUBLICID>3101223</PUBLICID>
+      <LONGNAME>Processed Data Modified By java.lang.String</LONGNAME>
+      <PREFERREDNAME>3099990v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Data derived from other data._Indicates the person or authoritative body who changed an item._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="23796">
+      <PUBLICID>4736038</PUBLICID>
+      <LONGNAME>Voice Handicap Index-10 9 People Irritated with My Voice Score 5 Point Scale</LONGNAME>
+      <PREFERREDNAME>VHI10_IRRITATE_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how often people seem irritated with their voice, using a 5 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="29034">
+      <PUBLICID>3625018</PUBLICID>
+      <LONGNAME>Fetal Demise History Pregnancy Count</LONGNAME>
+      <PREFERREDNAME>3624320v1.0:2180636v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Count of the iIncidence of fetal death (miscarriage or stillbirth), ectopic pregnancy, and induced abortion as part of a woman's pregnancy history,</PREFERREDDEFINITION>
+
+   <DataElement num="43263">
+      <PUBLICID>2827583</PUBLICID>
+      <LONGNAME>Blood Oxygen Level Dependent Arterial Spin Labeling Cerebral Metabolic Oxygen Rate</LONGNAME>
+      <PREFERREDNAME>BOLD_ASL_CMRO2_RATE</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value for the rate of oxygen metabolism or consumption in the brain as measured by BOLD-ASL imaging. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="35046">
+      <PUBLICID>2190282</PUBLICID>
+      <LONGNAME>Primary Tumor Lymphoid Infiltration Type</LONGNAME>
+      <PREFERREDNAME>PRM_TUM_LYM_INFIL_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>the type of lyphoid infiltrate of the primary tumor.</PREFERREDDEFINITION>
+
+   <DataElement num="38490">
+      <PUBLICID>2342543</PUBLICID>
+      <LONGNAME>Post-Translational Modification Site End java.lang.Integer</LONGNAME>
+      <PREFERREDNAME>2342366v1.0:2178537v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A post-translational modification site refers to amino acid residues within a peptide that act as acceptors for any modifications that do not happen concurrent with translation._The point or place at which something terminates in time or space._Value Domain for java language Integer datatype</PREFERREDDEFINITION>
+
+   <DataElement num="31735">
+      <PUBLICID>3144919</PUBLICID>
+      <LONGNAME>Speech Student Grammatical Impairment Assessment Score</LONGNAME>
+      <PREFERREDNAME>3144918v1.0:3076086v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Speech; the exchange of spoken words._A person who is enrolled in an educational institution._A test that assesses a respondent's knowledge of grammar. It identifies respondents with specific language impairment (SLI) or other categories of language impairment._The final result of a determination of the value, significance, or extent of._A number or range of numeric values measuring performance, function, quality, or ability.</PREFERREDDEFINITION>
+
+   <DataElement num="32337">
+      <PUBLICID>2442349</PUBLICID>
+      <LONGNAME>Laboratory Procedure Urine Creatinine Result Value</LONGNAME>
+      <PREFERREDNAME>LAB_URN_CREA_RSL_VAL</PREFERREDNAME>
+      <PREFERREDDEFINITION>A numerical quantity measured or assigned or computed for creatinine urine concentration (mg/dL).</PREFERREDDEFINITION>
+
+   <DataElement num="33710">
+      <PUBLICID>3371936</PUBLICID>
+      <LONGNAME>Substance use School Risk Factor Questionnaire Assessment Score</LONGNAME>
+      <PREFERREDNAME>Subs_Scho_Risk_Ques_ASSES_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>Consumption of medicine, drugs, or other materials including prescription, over-the-counter, or street drugs; alcohol; and tobacco._An educational institution._Anything that increases a person's chance of developing a disease. Some examples of risk factors for cancer include a family history of cancer, use of tobacco products, certain foods, exposure to radiation or cancer-causing agents, and certain genetic alterations._Predetermined sets of questions used to collect data - clinical data, social status, occupational group, etc. The term is often applied to a self-completed survey instrument._The final result of a determination of the value, significance, or extent of._A number or range of numeric values measuring performance, function, quality, or ability.</PREFERREDDEFINITION>
+
+   <DataElement num="17960">
+      <PUBLICID>2916088</PUBLICID>
+      <LONGNAME>Function Entity Biopolymer Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2915966v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The normal action performed by a structure or device.:An independently existing thing (living or nonliving).:A type of polymer produced by living organisms._One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="6703">
+      <PUBLICID>2773544</PUBLICID>
+      <LONGNAME>Antibody Condition java.lang.String</LONGNAME>
+      <PREFERREDNAME>2772883v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An antibody is a type of protein made by B lymphocytes in response to a foreign substance (antigen). Each antibody only binds to a specific antigen, helping to destroy the antigen directly or by assisting white blood cells to destroy the antigen._A state of being, such as a state of health or physical being._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="27555">
+      <PUBLICID>3008730</PUBLICID>
+      <LONGNAME>First Disease Recurrence CA-125 Antigen Result Value</LONGNAME>
+      <PREFERREDNAME>INT_REC_CA125_VAL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent tumor marker CA- 125 at date of initial disease recurrence.</PREFERREDDEFINITION>
+
+   <DataElement num="37141">
+      <PUBLICID>2780200</PUBLICID>
+      <LONGNAME>Hematopoietic Cell Graft  Infusion Procedure Other Route of Administration Therapies Specify</LONGNAME>
+      <PREFERREDNAME>HC_INF_OTH_ROU_SPE</PREFERREDNAME>
+      <PREFERREDDEFINITION>The free-text field to describe an other route by which the hematopoietic cell product (graft) was infused.</PREFERREDDEFINITION>
+
+   <DataElement num="20751">
+      <PUBLICID>2475573</PUBLICID>
+      <LONGNAME>Concept Reference Object NCI Thesaurus Concept Classification Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2475381v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A unit of knowledge created by a unique combination of characteristics. (ISO 1087):Something referred to; the object of a reference._A concept is the basic unit of information contained in the Thesaurus. They describe sets of individuals in a given domain. A concept has a name, belongs to a Namespace and exists in relation to other concepts. The vertical relationships consist of &quot;isa&quot; statements that form a logical hierarchy (taxonomy or subsumption graph). In general, concepts above a given concept are referred to as superconcepts or parents and those below as subconcepts or children. In addition, there are horizontal named realationships between concepts called Roles, binary relations between concepts that provide a machine-interpretable definition of a concept and the means for discrimination of sibling concepts. A concept may also include Properties, named slots that allow attachment of external information to concepts.:A method of generalization, the systematic arrangement of entities into classes or groups based on mutual similarity and certain differing characteristics.:One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="44620">
+      <PUBLICID>2760372</PUBLICID>
+      <LONGNAME>CD4 Antigen Present Cell Laboratory Procedure Cell Total Integer::2 Decimal Place Count</LONGNAME>
+      <PREFERREDNAME>CD4_CEL_TOT_CNT</PREFERREDNAME>
+      <PREFERREDDEFINITION>CD4 Antigen, encoded by the CD4 gene, is a T-cell surface glycoprotein. CD4 has a role in cell-cell interactions and may act in signal transduction. CD4 is a accessory protein for MHC class-II antigen/T-cell receptor interaction and functions to initiate or augment the early phase of T-cell activation. CD4 enhances T-cell sensitivity to antigen and binds to LCK, which phosphorylates CD3-zeta. CD4 Antigen also serves as an HIV receptor, binding directly to the envelope protein gp120 on HIV. (From LocusLink, OMIM and NCI)_Being or existing in a specified place or at the specified time._The smallest units of living structure capable of independent existence, composed of a membrane-enclosed mass of protoplasm and containing a nucleus or nucleoid._Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting._The smallest units of living structure capable of independent existence, composed of a membrane-enclosed mass of protoplasm and containing a nucleus or nucleoid._Pertaining to an entirety or whole, also constituting the full quantity or extent; complete; derived by addition._A number with no fractional part, including the negative and positive numbers as well as zero.::2_An indication of the specific number of digits to be expected to the right of the decimal point in a line of numbers._To determine the number or amount of something; the result of this activity.</PREFERREDDEFINITION>
+
+   <DataElement num="21276">
+      <PUBLICID>2261870</PUBLICID>
+      <LONGNAME>Cancer Therapy Evaluation Program Correlative Study Identifier</LONGNAME>
+      <PREFERREDNAME>CTEP_CORR_STDY_ID</PREFERREDNAME>
+      <PREFERREDDEFINITION>Unique identifier for a correlative study designed to translate basic science findings into clinically useful tools, as assigned by the Cancer Therapy Evaluation Program (CTEP) sponor.</PREFERREDDEFINITION>
+
+   <DataElement num="12339">
+      <PUBLICID>2747959</PUBLICID>
+      <LONGNAME>Investigator Email Address java.lang.String</LONGNAME>
+      <PREFERREDNAME>2517555v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The electronic mail address of a researcher in a clinical trial or clinical study._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="7354">
+      <PUBLICID>2497164</PUBLICID>
+      <LONGNAME>Surgical Margin Surgical Stapling Length Measurement</LONGNAME>
+      <PREFERREDNAME>SURGMA_SURG_L_MSRT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the length or measurement of the edge or border of an surgical incision closed by metal staples.</PREFERREDDEFINITION>
+
+   <DataElement num="35298">
+      <PUBLICID>2533256</PUBLICID>
+      <LONGNAME>California Verbal Learning Test, Children's Version Recall Error Name</LONGNAME>
+      <PREFERREDNAME>CVLTC_RECALL_ERR_NM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text terms for recall errors made during testing with the California Verbal Learning Test Children's Version (CVLT-C). CVLT-C provides a short, individually administered assessment of the strategies and processes involved in learning and recall of  verbal material;  assessment is made in the context of an everyday event,  measuring both recall and recognition of words over a number of trials  and has been found to be sensitive to memory deficits resulting from a  variety of neurological conditions. It is designed for ages 5 through  16.</PREFERREDDEFINITION>
+
+   <DataElement num="30558">
+      <PUBLICID>2180037</PUBLICID>
+      <LONGNAME>Patient Relative Adopted Ind-3</LONGNAME>
+      <PREFERREDNAME>PT_RELTV_ADPT_IND-3</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator to ask if the relative of a patient is adopted (not biologically related).</PREFERREDDEFINITION>
+
+   <DataElement num="25072">
+      <PUBLICID>4719162</PUBLICID>
+      <LONGNAME>Tobacco Use Cessation Reason Questionnaire Assessment Score</LONGNAME>
+      <PREFERREDNAME>Toba_Cess_Reas_Ques_ASSES_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>Use of tobacco in any form i.e. smoking, chewing or sniffing._A stopping._An explanation of the cause of some phenomenon or action._Predetermined sets of questions used to collect data - clinical data, social status, occupational group, etc. The term is often applied to a self-completed survey instrument._The final result of a determination of the value, significance, or extent of._A number or range of numeric values measuring performance, function, quality, or ability.</PREFERREDDEFINITION>
+
+   <DataElement num="624">
+      <PUBLICID>3175716</PUBLICID>
+      <LONGNAME>Biological Entity Group Actual Flag ISO21090.BL.v1.0</LONGNAME>
+      <PREFERREDNAME>3174617v1.0:2803169v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Specifies whether the biologic entity group is real (actual) vs. placeholder (kind of).</PREFERREDDEFINITION>
+
+   <DataElement num="14684">
+      <PUBLICID>2552739</PUBLICID>
+      <LONGNAME>Clinical Trial Protocol Administered Item Unique Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2552546v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An action plan for a clinical trial.  The plan states what the study will do, how, and why.  It explains how many people will be in it, who is eligible to participate, what study agents or other interventions they will be given, what tests they will recei:A registry item for which administrative information is recorded in an Administration Record._The single one of its kind.:One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two&quot;s complement).</PREFERREDDEFINITION>
+
+   <DataElement num="4961">
+      <PUBLICID>3812915</PUBLICID>
+      <LONGNAME>Surgical Procedure Breast Reconstruction Other Tissue Flap Performed Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>OTHFLAP</PREFERREDNAME>
+      <PREFERREDDEFINITION>The yes/no indicator of information related to a surgical procedure in which a flap of tissue is surgically moved from another area of the body to the chest, and formed into a new breast mound, other than those previously mentioned.</PREFERREDDEFINITION>
+
+   <DataElement num="37332">
+      <PUBLICID>3788091</PUBLICID>
+      <LONGNAME>Laboratory Procedure TGF-Beta Receptor Type-1 Signal Transduction Neoplastic Cell Assessment Cell Percentage Value</LONGNAME>
+      <PREFERREDNAME>3788077v1.0:2181247v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The percentage value related to testing a sample for the laboratory assessment of ALK-5 tumor cell signal transduction.</PREFERREDDEFINITION>
+
+   <DataElement num="9994">
+      <PUBLICID>2740616</PUBLICID>
+      <LONGNAME>Patient Self-Report Skin Etiology Performance Activity Self Pattern Five Point Likert Scale Score</LONGNAME>
+      <PREFERREDNAME>PT_SR_SKN_ETI_ALN_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>Self-reported response to a Skindex-29 question asking about a subject's tendency to do things alone because of a skin condition. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="13527">
+      <PUBLICID>2201844</PUBLICID>
+      <LONGNAME>Smoked Regularly Past History</LONGNAME>
+      <PREFERREDNAME>SMK_REG_PAST_HX</PREFERREDNAME>
+      <PREFERREDDEFINITION>For the participant who is no longer smoking, the time frame when last quit smoking regularly.</PREFERREDDEFINITION>
+
+   <DataElement num="33609">
+      <PUBLICID>3622684</PUBLICID>
+      <LONGNAME>Therapeutic Procedure Induction And/Or Maintenance Therapy Reason Indicator</LONGNAME>
+      <PREFERREDNAME>3622683v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes whether or not therapy was administered for induction and/or maintenance.</PREFERREDDEFINITION>
+
+   <DataElement num="29780">
+      <PUBLICID>61248</PUBLICID>
+      <LONGNAME>Adverse Event Report Ind-3</LONGNAME>
+      <PREFERREDNAME>AE_REP_IND-3</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no/unknown indicator to determine whether an adverse event expedited report (AdEERS) has been submitted.</PREFERREDDEFINITION>
+
+   <DataElement num="37204">
+      <PUBLICID>2596737</PUBLICID>
+      <LONGNAME>Patient Snuff Tobacco Cessation Age Value</LONGNAME>
+      <PREFERREDNAME>PT_SNUF_T_CE_A_VAL</PREFERREDNAME>
+      <PREFERREDDEFINITION>the patient's age when stopped use of a fine-grain tobacco that that users hold between their lower lip and gum.</PREFERREDDEFINITION>
+
+   <DataElement num="37616">
+      <PUBLICID>3176150</PUBLICID>
+      <LONGNAME>Stratification Criterion Observation Reuse Template Study Activity Repeat Duration ISO21090.PQ.TIME.v1.0</LONGNAME>
+      <PREFERREDNAME>3174999v1.0:2848092v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An activity defined at a global library level that identifies pre-treatment factors by which study subjects are segregated to assure balance of these factors before randomization to a study arm or some smaller segment of a study. The decisive factor used to help segregate the study subject into a stratum group. The period of time over which the activity is repeated.</PREFERREDDEFINITION>
+
+   <DataElement num="8107">
+      <PUBLICID>2711715</PUBLICID>
+      <LONGNAME>Electrophoresis Gel Original Image java.lang.String</LONGNAME>
+      <PREFERREDNAME>2710958v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A gel matrix through which molecules are separated, usually by size or charge, under the influence of an electrical field._Preceding all others in time or being as first made or performed.:Any record of an imaging event whether physical or electronic._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="36334">
+      <PUBLICID>4792338</PUBLICID>
+      <LONGNAME>Breast Cancer Surgery Margin Status</LONGNAME>
+      <PREFERREDNAME>BRCA_SURG_MARG_STAT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text term to describe the pathologic findings of a patient's margins following a breast carcinoma surgical procedure.</PREFERREDDEFINITION>
+
+   <DataElement num="47866">
+      <PUBLICID>2783686</PUBLICID>
+      <LONGNAME>Nephrectomy Surgical Margin Surgical Margin Status KidneyMarginStatus</LONGNAME>
+      <PREFERREDNAME>2782923v1.0:2783552v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>(nef-REK-toe-mee) Surgery to remove a kidney. Radical nephrectomy removes the kidney, the adrenal gland, nearby lymph nodes, and other surrounding tissue. Simple nephrectomy removes only the kidney. Partial nephrectomy removes the tumor but not the entire kidney.:One of the criteria for assessment of the effectiveness of given surgical procedure in achieving the local control of a neoplasm and the adequacy of tumor removal. It is defined by the tissue plane through which the dissection has been done and the actual or potential neoplastic tissue which has been left outside the boundary of a resected specimen within the patient. There are four types of surgical margins: intracapsular or intralesional, marginal, wide, and radical._One of the criteria for assessment of the effectiveness of given surgical procedure in achieving the local control of a neoplasm and the adequacy of tumor removal. It is defined by the tissue plane through which the dissection has been done and the actual or potential neoplastic tissue which has been left outside the boundary of a resected specimen within the patient. There are four types of surgical margins: intracapsular or intralesional, marginal, wide, and radical.:A condition or state at a particular time._Margin information about its involvement or non-involvement by tumor</PREFERREDDEFINITION>
+
+   <DataElement num="43432">
+      <PUBLICID>2448294</PUBLICID>
+      <LONGNAME>Dental Professional Practice African American Patient Demographics Percentage Value</LONGNAME>
+      <PREFERREDNAME>DENT_PP_AA_PT_D_P_VL</PREFERREDNAME>
+      <PREFERREDDEFINITION>the percentage value (a numerical quantity that is a fraction or ratio with 100 understood as the denominator) of the statistical characterization of black/African American, persons having origins in any of the black racial groups of Africa, patients of a health care professional business directed towards treatment and care of patients pertaining to a tooth or teeth, or to odontology.</PREFERREDDEFINITION>
+
+   <DataElement num="27402">
+      <PUBLICID>2004082</PUBLICID>
+      <LONGNAME>Smoking Use Ind-3</LONGNAME>
+      <PREFERREDNAME>SMK_USE_IND-3</PREFERREDNAME>
+      <PREFERREDDEFINITION>a yes/no indicator to ask if a patient had a smoking habit in the past.</PREFERREDDEFINITION>
+
+   <DataElement num="26567">
+      <PUBLICID>2965219</PUBLICID>
+      <LONGNAME>Graft Versus Host Disease Present Indicator</LONGNAME>
+      <PREFERREDNAME>GRT_VS_HST_DIS_PR_IN</PREFERREDNAME>
+      <PREFERREDDEFINITION>An incompatibility reaction (which may be fatal) in a subject (host) of low immunological competence (deficient lymphoid tissue) who has been the recipient of immunologically competent lymphoid tissue from a donor who lacks at least one antigen possessed by the recipient host; the reaction, or disease, is the result of action of the transplanted cells against those host tissues that possess the antigen not possessed by the donor. Seen most commonly following bone marrow transplantation, acute disease is seen after 5-40 days and chronic disease weeks to months after transplantation, affecting, principally, the gastrointestinal tract, liver, and skin._Being or existing in a specified place or at the specified time._Indicator of Yes, No, Unknown, Not Done, or Not Applicable to a question.[manually curated]</PREFERREDDEFINITION>
+
+   <DataElement num="34192">
+      <PUBLICID>2195591</PUBLICID>
+      <LONGNAME>Scan Type</LONGNAME>
+      <PREFERREDNAME>SCAN_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>Pictures of structures inside the body. Scans often used in diagnosing, staging, and monitoring disease include liver scans, bone scans, and computed tomography (CT) or computerized axial tomography (CAT) scans and magnetic resonance imaging (MRI) scans.</PREFERREDDEFINITION>
+
+   <DataElement num="37331">
+      <PUBLICID>2677624</PUBLICID>
+      <LONGNAME>Organ Ontology Concept Relationship CaGrid Computer Programming Object Uniform Resource Identifier java.lang.String</LONGNAME>
+      <PREFERREDNAME>2677400v1.0:2178533v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A unique macroscopic (gross) anatomic structure that performs specific functions.  It is composed of various tissues.  An organ is part of an anatomic system or a body region.  Representative examples include the heart, lung, liver, spleen, and uterus.:The word ontology has a long history in philosophy, in which it refers to the study of being as such. In information science, an ontology is an explicit formal specification of how to represent the objects, concepts and other entities that are assumed to exist in some area of interest and the relationships among them.:The hierarchical relationship between concepts. This may be expressed as Parent, Child, Broader, Narrower, isa, inverse-isa, Super Concept, etc._The underlying services oriented architecture that supports caBIG.:In object-oriented programming, an object is a self-contained entity that consists of both data and procedures to manipulate the data. (pcwebopaedia.com):A character string that can identify any kind of resource on the Internet, including images, text, video, audio and programs.  The most commom type of a URI is a URL._Generic value domain for a java datatype that is a class that represents character strings.</PREFERREDDEFINITION>
+
+   <DataElement num="32080">
+      <PUBLICID>2435455</PUBLICID>
+      <LONGNAME>Smoking Use Cigarette Filter Type</LONGNAME>
+      <PREFERREDNAME>SMK_USE_CIG_FLTR_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>The description of a smoker's preference for the absence or presence of a filter on a cigarette.</PREFERREDDEFINITION>
+
+   <DataElement num="11318">
+      <PUBLICID>2404655</PUBLICID>
+      <LONGNAME>Cancer Progression First Local-Regional Diagnosis Duration</LONGNAME>
+      <PREFERREDNAME>CAPRO_F_LO_DX_DUR</PREFERREDNAME>
+      <PREFERREDDEFINITION>the duration or time since diagnosis of a first local-regional disease progression.</PREFERREDDEFINITION>
+
+   <DataElement num="26785">
+      <PUBLICID>2658382</PUBLICID>
+      <LONGNAME>Adjacency Matrix Second Gene List java.lang.StringArray</LONGNAME>
+      <PREFERREDNAME>2557789v1.0:2425588v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A matrix with rows and columns labeled by graph vertices, with a 1 or 0 in position (vi,vj) according to whether vi and vj are adjacent or not._Coming next after the first in position in space or time or degree or magnitude.:A functional unit of heredity which occupies a specific position (locus) on a particular chromosome, is capable of reproducing itself exactly at each cell division, and directs the formation of a protein or other product. The gene as a functional unit consists of a discrete segment of a giant DNA molecule containing the purine (adenine and guanine) and pyrimidine (cytosine and thymine) bases in the ordered and correct sequence that encodes a specific functional product (i.e., a protein or RNA molecule).:A series of names, words, or other items written, printed, or imagined one after the other._Generic value domain for a java datatype that is an array of strings.</PREFERREDDEFINITION>
+
+   <DataElement num="6346">
+      <PUBLICID>2721588</PUBLICID>
+      <LONGNAME>Primary Neoplasm Pathology Complete Remission Ind-2</LONGNAME>
+      <PREFERREDNAME>PRINEO_PATH_CR_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator whether there was disappearance of all signs of a tumor at the original site of origin based on microscopic structural and functional changes in the tumor cells as a result from treatment.</PREFERREDDEFINITION>
+
+   <DataElement num="32919">
+      <PUBLICID>3153626</PUBLICID>
+      <LONGNAME>Patient Strong Cytochrome P450 3A4 Induction Medication Eligibility Determination Ind-2</LONGNAME>
+      <PREFERREDNAME>3153625v1.0:2018257v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator related to criteria to determine eligibility of patients for medical care programs and services based on strongly human CYP3A4 Gene inducing medication.</PREFERREDDEFINITION>
+
+   <DataElement num="24182">
+      <PUBLICID>3761238</PUBLICID>
+      <LONGNAME>Subject Activity Group Plan Study Activity Name ISO21090.ST.v1.0</LONGNAME>
+      <PREFERREDNAME>3760444v1.0:2803207v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A collection of activities that are intended to occur or start for the same study subject at a specific point in the context of a particular study. EXAMPLE(S): (1) Clinic visit during which a physical exam, a blood test, and a substance administration occur (2) Telephone contact during which temperature, blood pressure and adverse events are reported (3) Recording multiple observation results in a diary (4) A treatment strategy that consists of drug administrations with rules for modifying doses OTHER NAME(S): visit, time point, study segment, course, treatment strategy, period, cycle A non-unique textual identifier for the planned activity.</PREFERREDDEFINITION>
+
+   <DataElement num="29524">
+      <PUBLICID>2757008</PUBLICID>
+      <LONGNAME>Breast Carcinoma Tumor Marker Positive Finding Estrogen Receptor Status Ind-3</LONGNAME>
+      <PREFERREDNAME>BRS_TMMK_POS_REC_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no/unknown indicator whether there is the positive presence of estrogen receptor level as a tumor marker, a substance present in or produced by a breast tumor that can be used for differentiating neoplastic from normal tissue.</PREFERREDDEFINITION>
+
+   <DataElement num="18770">
+      <PUBLICID>2670712</PUBLICID>
+      <LONGNAME>Person Shared Residence Specify</LONGNAME>
+      <PREFERREDNAME>PERS_SHARED_RES_SPEC</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free text field to specify the other person who shares a residence with a participant/patient.</PREFERREDDEFINITION>
+
+   <DataElement num="21230">
+      <PUBLICID>3902039</PUBLICID>
+      <LONGNAME>Infection Assessment Diagnosis Specify</LONGNAME>
+      <PREFERREDNAME>IfcDxSpf</PREFERREDNAME>
+      <PREFERREDDEFINITION>the specified free-text field related to the assessment or evaluation of an individual for past/present infections.</PREFERREDDEFINITION>
+
+   <DataElement num="22329">
+      <PUBLICID>3176039</PUBLICID>
+      <LONGNAME>Reference Object Outcome Data ISO21090.ANY.v1.0</LONGNAME>
+      <PREFERREDNAME>3174911v1.0:2846959v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Data or information that is determined by an act of observation. EXAMPLE(S): The result of a lab test, physical finding, self-reported symptom. The adverse event term code.</PREFERREDDEFINITION>
+
+   <DataElement num="43783">
+      <PUBLICID>2974926</PUBLICID>
+      <LONGNAME>Dental Professional Practice Periodontist Bone Regeneration Referral Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>2974905v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A yes/no indicator related to the dental practice referral to a dentist who specializes in the prevention, diagnosis and treatment of the hard and soft tissue supporting the teeth for bone and/or guided tissue regeneration.</PREFERREDDEFINITION>
+
+   <DataElement num="27118">
+      <PUBLICID>3101513</PUBLICID>
+      <LONGNAME>Animal Birth Weight Identifier java.lang.Long</LONGNAME>
+      <PREFERREDNAME>3100270v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A living organism that has membranous cell walls, requires oxygen and organic foods, and is capable of voluntary movement, as distinguished from a plant or mineral.:The event of being born.:The vertical force exerted by a mass as a result of gravity._One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="37103">
+      <PUBLICID>3761293</PUBLICID>
+      <LONGNAME>Imaging Technique Observation Reuse Template Study Activity Approach Anatomic Site Code ISO21090.CD.v1.0</LONGNAME>
+      <PREFERREDNAME>3760498v1.0:2803170v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An activity defined at the global library level whose intention is to obtain pictures of the interior or exterior of the body usually for diagnostic reasons. EXAMPLE(S): X-ray, MRI A coded value specifying the anatomic location or access point for an observation. EXAMPLE(S): Anus for a colonoscopy observation NOTE(S): (1) Neither target anatomic site nor approach anatomic site is necessarily required or relevant for certain observations, however if either or both are present then the distinction between them is that the approach site is the access point for the measurement or observation and the target site is what is ultimately being evaluated. (2) Anatomic site and laterality both are included in this concept.</PREFERREDDEFINITION>
+
+   <DataElement num="12622">
+      <PUBLICID>2787462</PUBLICID>
+      <LONGNAME>Project Keyword string Collection</LONGNAME>
+      <PREFERREDNAME>2787040v1.0:2787445v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any piece of work that is undertaken or attempted._A small set of words designed to convey the subject of a technical article._Generic value domain for sting Collection.</PREFERREDDEFINITION>
+
+   <DataElement num="5309">
+      <PUBLICID>2986478</PUBLICID>
+      <LONGNAME>Testicular Non-Seminomatous Germ Cell Tumor Present Prognosis Type</LONGNAME>
+      <PREFERREDNAME>2986438v1.0:2986473v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A testicular germ cell tumor characterized by the absence of a seminomatous component. It includes embryonal carcinoma, yolk sac tumor, choriocarcinoma, teratoma, and mixed forms._Being or existing in a specified place or at the specified time._(prog-NO-sis) The likely outcome or course of a disease; the chance of recovery or recurrence._Something distinguishable as an identifiable class based on common qualities.</PREFERREDDEFINITION>
+
+   <DataElement num="12824">
+      <PUBLICID>2261665</PUBLICID>
+      <LONGNAME>Second Ankle Systolic Pressure Oscillometric Result Number</LONGNAME>
+      <PREFERREDNAME>SEC_ANKL_SYS_BP_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the result of a second ankle systolic blood pressure measurement using an oscillometric device on a random leg, with the subject in a prone position.  Cuff placement, sizing, subject instructions during the procedure and timing of measurements are conducted according to ARIC Protocol 11 for sitting Blood pressure and postural changes.</PREFERREDDEFINITION>
+

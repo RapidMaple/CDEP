@@ -50,6 +50,13 @@ public class CDE {
 						syns = sp[1].split("(,\\s+)|(,)");
 					for(String syn : syns){
 						if(temp.indexOf(syn) != -1 || temp.matches(syn)){
+							
+							// Statistical measure
+							if(CDEParserRunner.freqCount.get(syn) == null)
+								CDEParserRunner.freqCount.put(syn, 0);
+							CDEParserRunner.freqCount.put(syn, CDEParserRunner.freqCount.get(syn)+1);
+							
+							
 							matched.add(main);
 							isValid = true;
 						}

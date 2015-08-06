@@ -1,0 +1,35 @@
+keyWord         | frequency count |        percent composition
+______________________________________________________________
+date            |            4017 |                  51.82557%
+week            |             845 |                  10.90182%
+year            |             377 |                   4.86389%
+finish          |               1 |                   0.01290%
+prior to        |              64 |                   0.82570%
+later           |               7 |                   0.09031%
+within          |              53 |                   0.68378%
+hour            |              96 |                   1.23855%
+ before         |              13 |                   0.16772%
+meet            |               2 |                   0.02580%
+today           |              44 |                   0.56767%
+ago             |               1 |                   0.01290%
+when            |              40 |                   0.51606%
+after           |              35 |                   0.45155%
+post            |             458 |                   5.90891%
+at least        |               2 |                   0.02580%
+subsequent      |              62 |                   0.79990%
+around          |               8 |                   0.10321%
+night           |              20 |                   0.25803%
+ seconds        |               7 |                   0.09031%
+until           |              12 |                   0.15482%
+day             |             546 |                   7.04425%
+previous        |              85 |                   1.09663%
+about           |              86 |                   1.10953%
+overlap         |              12 |                   0.15482%
+morning         |               5 |                   0.06451%
+during          |             169 |                   2.18036%
+start           |             115 |                   1.48368%
+month           |             436 |                   5.62508%
+while           |               7 |                   0.09031%
+concurrent      |              48 |                   0.61927%
+minute          |              70 |                   0.90311%
+ between        |               8 |                   0.10321%

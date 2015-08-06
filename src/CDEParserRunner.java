@@ -8,9 +8,12 @@ import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Random;
+import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -25,30 +28,26 @@ public class CDEParserRunner {
 	private static BufferedReader in;
 	private static PrintWriter out;
 	private static PrintWriter otherout;
+	private static PrintWriter statout;
 	//private static StringTokenizer st;
 	private static List<CDE> cdeList;
+	private static List<CDE> otherCDEList;
 	private static boolean write;
 	private static Pattern pattern;
+	public static Map<String, Integer> freqCount;
 	
 	public static void main(String[] args) throws Exception{
-		// TODO Auto-generated method stub
-		/*
-		FileInputStream file = new FileInputStream(new File("CDE Temporal Operators.xlsx")); //input path to CDE Temporal Operators here
-		//XSSFWorkbook workbook = new XSSFWorkbook(file);
-		XSSFWorkbook workbook = new XSSFWorkbook(file);
-		Sheet input = workbook.getSheetAt(0);
-		Iterator<Row> it = input.rowIterator();
-		while(it.hasNext()){
-			System.out.println(it.next());
-		}
-		*/
+
 		int counter = 0;
 		pattern = buildPattern("bin//fields.txt");
 		CDE.searchPattern = Pattern.compile(searchPattern("bin//searchFields.txt").toString());
 		out = new PrintWriter(new BufferedWriter(new FileWriter("parsedCDEs.txt")));
 		otherout = new PrintWriter(new BufferedWriter(new FileWriter("cParsedCDEs.txt")));
+		statout = new PrintWriter(new BufferedWriter(new FileWriter("parsedCDEStats.txt")));
 		write = false;
-		cdeList = new ArrayList<CDE>();
+		cdeList = new ArrayList<>();
+		otherCDEList = new ArrayList<>();
+		freqCount = new HashMap<>();
 		for(File f: new File("xml_files").listFiles()){
 			in = new BufferedReader(new FileReader(f.getAbsolutePath()));
 			String curLine = in.readLine();
@@ -77,6 +76,7 @@ public class CDEParserRunner {
 						for(String outp : element.getElements())
 							otherout.println(outp);
 						otherout.println();	
+						otherCDEList.add(element);
 					}
 					//clear element
 					element = new CDE();
@@ -94,6 +94,10 @@ public class CDEParserRunner {
 		in.close();
 		out.close();
 		otherout.close();
+		
+		getStats();
+		statout.close();
+		generateRandomSamples(3, 300);
 	}
 	
 	/**
@@ -103,8 +107,9 @@ public class CDEParserRunner {
 	 */
 	public static Pattern buildPattern(String fields) throws Exception{
 		StringBuilder p = helpBuild(fields);
-		StringBuilder outp = new StringBuilder("(^.*<DataElement num=\"\\d+\">.*$)");
-		outp.append("|("+p.toString()+")");
+		StringBuilder outp = new StringBuilder("(^.*<DataElement num=\"\\d+\">$)");
+		outp.append("|("+p.toString() + ")");
+		System.out.println(outp);
 		Pattern pat = Pattern.compile(outp.toString());
 		return pat;
 	}
@@ -121,15 +126,16 @@ public class CDEParserRunner {
 		String curLine = read.readLine().trim();
 		int ct = curLine.length();
 		int count = 0;
-		p.append("^.*<("+curLine+")>.*<(/"+curLine+")>.*$");
+		p.append("^.*<("+curLine+")>.*$"); //remove second slash ending?
 		while(true){
 			curLine = read.readLine();
 			if(curLine == null)	break;
-			p.insert(12+ct*2+count, "|/" + curLine);
+			//p.insert(12+ct*2+count, "|/" + curLine);
 			p.insert(5+ct, "|" + curLine);
 			ct += 1 + curLine.length();
 			count++;
 		}
+		System.out.println(p.toString());
 		if(CDE.full == 0)
 			CDE.full = count + 2;
 		read.close();
@@ -145,6 +151,61 @@ public class CDEParserRunner {
 			freq.put(temp, freq.get(temp)+1);
 		}
 		return freq;
+	}
+	private static void generateRandomSamples(int num, int n) throws Exception{
+		for(int i=1;i<=num;i++){
+			Random rand = new Random();
+			PrintWriter gen = new PrintWriter(new BufferedWriter(new FileWriter("parsedGroup" + i + ".txt")));
+			PrintWriter cGen = new PrintWriter(new BufferedWriter(new FileWriter("cParsedGroup" + i + ".txt")));
+			List<CDE> curSample = new ArrayList<>();
+			Set<Integer> indSet = new HashSet<>();
+			while(true){
+				if(curSample.size()==n)
+					break;
+				int oldSize = indSet.size();
+				int randNum = rand.nextInt(cdeList.size());
+				indSet.add(randNum);
+				if(oldSize != indSet.size()){
+					CDE temp = cdeList.get(randNum);
+					curSample.add(temp);
+					for(String ele : temp.getElements())
+						gen.println(ele);
+					gen.println();
+				}
+			}
+			curSample = new ArrayList<>();
+			indSet = new HashSet<>();
+			gen.close();
+			while(true){
+				if(curSample.size()==n)
+					break;
+				int oldSize = indSet.size();
+				int randNum = rand.nextInt(otherCDEList.size());
+				indSet.add(randNum);
+				if(oldSize != indSet.size()){
+					CDE temp = otherCDEList.get(randNum);
+					curSample.add(temp);
+					for(String ele : temp.getElements())
+						cGen.println(ele);
+					cGen.println();
+				}
+			}
+			cGen.close();
+		}
+		
+	}
+	private static void getStats(){
+		int tot = 0;
+		for(String op : freqCount.keySet()){
+			tot += freqCount.get(op);
+		}
+		statout.printf("%-15s | %15s | %26s","keyWord","frequency count", "percent composition");
+		statout.println();
+		statout.println("______________________________________________________________");
+		for(String op : freqCount.keySet()){
+			statout.printf("%-15s | %15d | %25.5f%s", op, freqCount.get(op), (freqCount.get(op) * 1.0 / tot * 100),"%");
+			statout.println();
+		}
 	}
 
 }

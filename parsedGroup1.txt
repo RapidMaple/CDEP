@@ -1,0 +1,1800 @@
+   <DataElement num="20997">
+      <PUBLICID>4665463</PUBLICID>
+      <LONGNAME>Performance Status Two Week Prior Enrollment Greater Than or Equal To Integer::50 Assessment Indicator</LONGNAME>
+      <PREFERREDNAME>PER_ST_2W_ENR_50_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator response regarding whether a patient's performance status score is greater than or equal to 50 within 2 weeks prior to enrollment.</PREFERREDDEFINITION>
+
+   <DataElement num="19849">
+      <PUBLICID>2201154</PUBLICID>
+      <LONGNAME>Birth Date</LONGNAME>
+      <PREFERREDNAME>BD</PREFERREDNAME>
+      <PREFERREDDEFINITION>Person's Birthdate</PREFERREDDEFINITION>
+
+   <DataElement num="40429">
+      <PUBLICID>2312</PUBLICID>
+      <LONGNAME>Adjuvant Radiation Therapy Prior End Date</LONGNAME>
+      <PREFERREDNAME>ADJ_RT_PRIOR_END_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the end date for previous radiation therapy administered as preventive treatment for an earlier stage of this cancer.</PREFERREDDEFINITION>
+
+   <DataElement num="9805">
+      <PUBLICID>4119698</PUBLICID>
+      <LONGNAME>Dexamethasone Symptom Questionnaire During Week Post Chemotherapy Have Increased Appetite Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>DSQ_INCR_APPETITE_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of the incidence and severity of increased appetite during the week following dexamethasone treatment, using a four point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="39928">
+      <PUBLICID>2768037</PUBLICID>
+      <LONGNAME>Malignant Neoplasm Past Treatment Study Therapeutic Procedure History Or Anatomic Site Surgical Procedure Cancer Treatment Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2767817v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas (adenocarcinomas or squamous cell carcinomas), Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas.:Before the present time.:A type of study protocol designed to evaluate intervention(s) for disease treatment.:An action or administration of therapeutic agents to produce an effect that is intended to alter or stop a pathologic process.:The aggregate of past events; the continuum of events occurring in succession leading from the past to the present; a record or narrative description of past events._An article used to connect words, phrases, or clauses representing alternatives; used to connect alternative terms for the same thing; used in correlation; used to correct or rephrase what was previously said; otherwise.:Named locations of or within the body.:A diagnostic or treatment procedure performed by manual and/or instrumental means, often involving an incision and the removal or replacement of a diseased organ or tissue; of or relating to or involving or used in surgery or requiring or amenable to treatment by surgery.:Any intervention for management of a malignant neoplasm.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="1473">
+      <PUBLICID>3461830</PUBLICID>
+      <LONGNAME>Papillary or Follicular (Differentiated) Thyroid Cancer American Joint Committee on Cancer (AJCC) Edition 7 Under 45 Years Group Stage</LONGNAME>
+      <PREFERREDNAME>3461582v1.0:3461778v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Stage group determined from information on the tumor (T), regional node (N) and metastases (M) and by grouping cases with similar prognosis for papillary or follicular cancer (differentiated) in cases under 45 years of age.</PREFERREDDEFINITION>
+
+   <DataElement num="33098">
+      <PUBLICID>3862997</PUBLICID>
+      <LONGNAME>Within Graft Neoplastic Cell Detection Indicator</LONGNAME>
+      <PREFERREDNAME>3862996v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes whether or not neoplastic cells were detected in the product (graft).</PREFERREDDEFINITION>
+
+   <DataElement num="5980">
+      <PUBLICID>3521245</PUBLICID>
+      <LONGNAME>Diabetes Mellitus Agent Current or Past12 Week Administration Indicator</LONGNAME>
+      <PREFERREDNAME>3521244v1.0:2181608v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Indicator to signify the administration of medications for diabetes mellitus currently or over the past 12 weeks</PREFERREDDEFINITION>
+
+   <DataElement num="46443">
+      <PUBLICID>2224555</PUBLICID>
+      <LONGNAME>Dexamethasone Concomitant Medication Day Dose Administered Amount</LONGNAME>
+      <PREFERREDNAME>DX_C_ME_D_DO_ADM_AMT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the daily dose amount of dexamethasone, as concomitant medication, administered.</PREFERREDDEFINITION>
+
+   <DataElement num="7010">
+      <PUBLICID>2734629</PUBLICID>
+      <LONGNAME>Past Integer::4 Week Adult Malignant Neoplasm Loss Income Problem Psychometrics Assessment Score</LONGNAME>
+      <PREFERREDNAME>PAST_4WK_LSS_INC_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the response to a QLAC question posed to an adult about financial problems due to a loss of income over the past four weeks as a result of cancer. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="41315">
+      <PUBLICID>2517614</PUBLICID>
+      <LONGNAME>Recurrent Disease Authoritative Diagnosis Date</LONGNAME>
+      <PREFERREDNAME>RECUR_AUTH_DX_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The definitive date of diagnosis (investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms) of recurrent cancer.</PREFERREDDEFINITION>
+
+   <DataElement num="28124">
+      <PUBLICID>3212331</PUBLICID>
+      <LONGNAME>Past 4 Week Sex Behavior Overall Ability Code</LONGNAME>
+      <PREFERREDNAME>PST4_OVLL_SX_BEH_CD</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric code response to a question about the severity of a person's problems with sexual function or lack of sexual function during the previous four weeks.</PREFERREDDEFINITION>
+
+   <DataElement num="32349">
+      <PUBLICID>2830322</PUBLICID>
+      <LONGNAME>Clinical Observation Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2830209v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Relating to the examination and treatment of patients dependent on direct observation.  The term may also refer to the institution (clinic) providing this activity.:Watching something and taking note of what happens._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="48294">
+      <PUBLICID>3302559</PUBLICID>
+      <LONGNAME>Magnetic Resonance Imaging Diagnostic Imaging Assessment Date</LONGNAME>
+      <PREFERREDNAME>2632128v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date related to having imaging that uses radiofrequency waves and a strong magnetic field rather than x-rays to provide amazingly clear and detailed pictures of internal organs and tissues.</PREFERREDDEFINITION>
+
+   <DataElement num="31872">
+      <PUBLICID>2777</PUBLICID>
+      <LONGNAME>Non-protocol Radiation Therapy Concurrent Administered Ind-3</LONGNAME>
+      <PREFERREDNAME>NPR_RT_CON_ADM_IND3</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator that asks whether the patient is receiving radiation therapy not indicated in the protocol.</PREFERREDDEFINITION>
+
+   <DataElement num="26968">
+      <PUBLICID>2732970</PUBLICID>
+      <LONGNAME>Amendment Approval Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2732950v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A change in a document made by correction, adding, substituting or omitting a certain part. Amendments are the mechanism of changes introduction, further development and improvement of previously submitted or approved clinical study protocols and proposals.:Acceptance as satisfactory by an authoritative body; established by authority; given authoritative approval._The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44710">
+      <PUBLICID>2764925</PUBLICID>
+      <LONGNAME>Eastern Cooperative Oncology Group Oncotype DX Breast Cancer Assay Outcome Fax Date/Time</LONGNAME>
+      <PREFERREDNAME>ECOG_ONC_OC_FAX_DTTM</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date and time the result, provided as a recurrence score (0-100), for Oncotype DX breast cancer assay, a diagnostic assay that quantifies the likelihood of breast cancer recurrence in women with newly diagnosed, early stage breast cancer, was faxed, a telecommunications technology used to transfer copies of documents using devices operating over the telephone network, to ECOG, a cooperative group funded primarily by the NCI, one of the largest clinical cancer research organizations in the US, incorporating universities, medical centers, Community Clinical Oncology Programs, and Cooperative Group Outreach Programs with almost 6000 physicians, nurses, pharmacists, statisticians, and clinical research associates from the US, Canada, and South Africa.</PREFERREDDEFINITION>
+
+   <DataElement num="4373">
+      <PUBLICID>4723257</PUBLICID>
+      <LONGNAME>Chemotherapy Most Recent Veliparib Administered Agent Start Date</LONGNAME>
+      <PREFERREDNAME>MR_VEL_ADM_AGT_ST_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The response indicating the first date of veliparib (ABT-888) administration for the most recent therapy regimen.</PREFERREDDEFINITION>
+
+   <DataElement num="45859">
+      <PUBLICID>2756054</PUBLICID>
+      <LONGNAME>Function Entity Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2753944v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The normal action performed by a structure or device.:An independently existing thing (living or nonliving)._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="24572">
+      <PUBLICID>58524</PUBLICID>
+      <LONGNAME>Partial Response Confirmed Date</LONGNAME>
+      <PREFERREDNAME>PRTL_RESP_CONF_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date when a follow-up exam occurred to confirm a &quot;partial response&quot; of disease to treatment using RECIST guidelines or another standard response criteria defined in the protocol.</PREFERREDDEFINITION>
+
+   <DataElement num="34062">
+      <PUBLICID>2603066</PUBLICID>
+      <LONGNAME>Fourth Biopsy Performed Date</LONGNAME>
+      <PREFERREDNAME>FOUR_BIOPS_PER_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date related to the carried through to completion of fourth biopsy.</PREFERREDDEFINITION>
+
+   <DataElement num="35188">
+      <PUBLICID>4566714</PUBLICID>
+      <LONGNAME>Disease or Disorder Clinical Suspicion Diagnosis Date</LONGNAME>
+      <PREFERREDNAME>DIS_CLIN_SUS_DX_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The response regarding the date of the of initial preliminary tests/procedures completed that led the clinical team to suspect disease/disorder before a definitive diagnosis was made.</PREFERREDDEFINITION>
+
+   <DataElement num="43327">
+      <PUBLICID>2600582</PUBLICID>
+      <LONGNAME>Tooth Endodontic Treatment Retreatment Date</LONGNAME>
+      <PREFERREDNAME>TOOTH_ENDTX_RETX_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date related to repeated act of treatment of root canal in tooth.</PREFERREDDEFINITION>
+
+   <DataElement num="43240">
+      <PUBLICID>2422275</PUBLICID>
+      <LONGNAME>Study Publication Year Number</LONGNAME>
+      <PREFERREDNAME>ST_PUB_YR_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Enter the year that the journal was published.</PREFERREDDEFINITION>
+
+   <DataElement num="17110">
+      <PUBLICID>3228249</PUBLICID>
+      <LONGNAME>Disease or Disorder Pericarditis Initial Diagnosis Date</LONGNAME>
+      <PREFERREDNAME>3228247v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date of the initial diagnosis of pericarditis, an inflammatory process affecting the pericardium, as an abnormal condition of the body or mind that causes discomfort, dysfunction, or distress to the person affected or those in contact with the person.</PREFERREDDEFINITION>
+
+   <DataElement num="8287">
+      <PUBLICID>2664991</PUBLICID>
+      <LONGNAME>Cardiovascular Agent Prior Year Received Type</LONGNAME>
+      <PREFERREDNAME>CVAGT_P_YR_RCVD_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>information related to cardiovascular medications, agents that affect the rate or intensity of cardiac contraction, blood vessel diameter, or blood volume to prevent or treat abnormal cardiovascular functions, having been received or taken during the last year, 12 months or 365 days.</PREFERREDDEFINITION>
+
+   <DataElement num="21632">
+      <PUBLICID>2960121</PUBLICID>
+      <LONGNAME>Intervention Trial Study Protocol Document Monthly Target Accrual Number ISO21090.INT.v1.0</LONGNAME>
+      <PREFERREDNAME>2959367v1.0:2803195v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A pre-clinical or clinical study in human beings in which individuals are assigned by an investigator based on a protocol to receive specific interventions. The individuals are then followed and biomedical and/or health outcomes are assessed.:A detailed examination, analysis, or critical inspection of a subject designed to discover facts about it.:A rule which guides how an activity should be performed.:An organized collection of records that describe a particular body of data._Every month.:An object fixed as a goal or point of examination; something to point at; a destination.:The process of obtaining subjects for a study.:A numeral or string of numerals expressing value, quantity, or identification._Number results from counting and enumerating.</PREFERREDDEFINITION>
+
+   <DataElement num="5604">
+      <PUBLICID>3714482</PUBLICID>
+      <LONGNAME>Tobacco Use Smoking Every Day For Six Month Indicator Code</LONGNAME>
+      <PREFERREDNAME>Toba_Smok_Ever_Day_For_Six_Mon</PREFERREDNAME>
+      <PREFERREDDEFINITION>Questions asking the respondent about EVER smoked cigarettes EVERY DAY for at least 6 months.</PREFERREDDEFINITION>
+
+   <DataElement num="14597">
+      <PUBLICID>3190690</PUBLICID>
+      <LONGNAME>Agent Post Registration Cimetidine Administered Month Duration</LONGNAME>
+      <PREFERREDNAME>3190549v1.0:3190443v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the number of months between registration and administration Cimetidine, a histamine H(2)-receptor antagonist that enhances anti-tumor cell-mediated responses, cimetidine blocks histamine's ability to stimulate suppressor T lymphocyte activity and to inhibit natural killer (NK) cell activity and interleukin-2 production, following officially enrolling on a clinical trial.</PREFERREDDEFINITION>
+
+   <DataElement num="15449">
+      <PUBLICID>3287958</PUBLICID>
+      <LONGNAME>Stage Prognostic Factor Collaborative Staging Prior To Therapeutic Procedure Metastasis Code</LONGNAME>
+      <PREFERREDNAME>2688815v1.0:3287936v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The CS pre-treatment data items include all information prior to the start of therapy. In rare circumstances where workup could not be completed prior to therapy, these items may be based on testing after limited treatment in the absence of progression or regression of disease, such as delayed planned or usual diagnostic workup.</PREFERREDDEFINITION>
+
+   <DataElement num="4587">
+      <PUBLICID>3101888</PUBLICID>
+      <LONGNAME>Ultraviolet Radiation Exposure Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3100648v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The invisible ultraviolet spectrum makes up one specific portion of sunlight. This unique portion accounts for three percent of all solar radiation reaching the earth. UV radiation causes many health problems.:The act of subjecting someone or something to an influencing experience._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="33896">
+      <PUBLICID>2199664</PUBLICID>
+      <LONGNAME>Godin Leisure Time Exercise Questionnaire Completion Date</LONGNAME>
+      <PREFERREDNAME>GODIN_LSR_TM_COMP_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Date of completion of the Godin Leisure Time Exercise Questionnaire, a psychometric tool that individuals complete as a survey of usual leisure-time exercise habits.</PREFERREDDEFINITION>
+
+   <DataElement num="36262">
+      <PUBLICID>2426251</PUBLICID>
+      <LONGNAME>Hormone Refractory Prostate Carcinoma Therapy Administration First Date</LONGNAME>
+      <PREFERREDNAME>HO_RE_PR_TX_ADM_F_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date of the first therapy for hormone refractory prostate cancer.</PREFERREDDEFINITION>
+
+   <DataElement num="47748">
+      <PUBLICID>3725273</PUBLICID>
+      <LONGNAME>Lymphedema and Breast Cancer Questionnaire During Past Year Have Aching Experience Indicator</LONGNAME>
+      <PREFERREDNAME>3722555v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of whether or not during the past year they have or had aching in their arm, breast, or chest, using a yes or no indicator.</PREFERREDDEFINITION>
+
+   <DataElement num="49715">
+      <PUBLICID>2719418</PUBLICID>
+      <LONGNAME>Post Procedure Analgesic Agent Over the Counter Product Recommendation Name</LONGNAME>
+      <PREFERREDNAME>P_P_AA_OTC_REC_NAM</PREFERREDNAME>
+      <PREFERREDDEFINITION>the free-text field related to analgesic agent (pain alleviating compounds), which can be bought without a doctor's prescription, after procedure.</PREFERREDDEFINITION>
+
+   <DataElement num="26362">
+      <PUBLICID>3199133</PUBLICID>
+      <LONGNAME>Sun Exposure Log Day Total Number</LONGNAME>
+      <PREFERREDNAME>SU_EXPO_LG_D_TTL_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>The total number of days in which exposure to the sun was recorded.</PREFERREDDEFINITION>
+
+   <DataElement num="36365">
+      <PUBLICID>2322172</PUBLICID>
+      <LONGNAME>Trastuzumab Agent Administration Begin Date</LONGNAME>
+      <PREFERREDNAME>TRA_AGT_ADM_BEG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date administration of trastuzumab began.</PREFERREDDEFINITION>
+
+   <DataElement num="21521">
+      <PUBLICID>2718362</PUBLICID>
+      <LONGNAME>Intravenous Contrast Agent Quantity Start Time</LONGNAME>
+      <PREFERREDNAME>IV_CNTRST_AGT_BEG_TM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Time IV contrast is injected.  Time is recorded in military format, e.g. 1:00 pm = 1300 hrs.</PREFERREDDEFINITION>
+
+   <DataElement num="10336">
+      <PUBLICID>2984095</PUBLICID>
+      <LONGNAME>Organ Progressive Disease First Observed Date</LONGNAME>
+      <PREFERREDNAME>2984070v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date related to a disease process that is increasing in scope or severity for a part of the body that performs a specific function being first observed.</PREFERREDDEFINITION>
+
+   <DataElement num="38074">
+      <PUBLICID>2608320</PUBLICID>
+      <LONGNAME>Clinical Trial Protocol Status Status Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2607941v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An action plan for a clinical trial.  The plan states what the study will do, how, and why.  It explains how many people will be in it, who is eligible to participate, what study agents or other interventions they will be given, what tests they will receive and how often, and what information will be gathered.:A condition or state at a particular time._A condition or state at a particular time.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="953">
+      <PUBLICID>2529315</PUBLICID>
+      <LONGNAME>Surgical Procedure End Day Number java.lang.Long</LONGNAME>
+      <PREFERREDNAME>2529017v1.0:2178534v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Used for operative procedures on organs, regions, or tissues in the treatment of diseases, including tissue section by lasers. It excludes transplantation, for which &quot;transplantation&quot; is used._The point or place at which something terminates in time, space, or extent.:The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours.  This also refers to a specific day.:A numeral or string of numerals expressing value, quantity, or identification._Generic value domain for a primitive java dataype that is a long integer (64-bit two's complement).</PREFERREDDEFINITION>
+
+   <DataElement num="23702">
+      <PUBLICID>2970763</PUBLICID>
+      <LONGNAME>Physical Activity Weight Exercise Assessment Week Month Duration</LONGNAME>
+      <PREFERREDNAME>2970650v1.0:2970429v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The period of time spent performing weight training or resistance exercises as an assessment of physical activity that requires physical or mental exertion, especially when performed to develop or maintain fitness per week within a given month.</PREFERREDDEFINITION>
+
+   <DataElement num="33872">
+      <PUBLICID>3861020</PUBLICID>
+      <LONGNAME>Patient Total Parenteral Nutrition Receive Begin Date</LONGNAME>
+      <PREFERREDNAME>PtTPNRcvdSttDt</PREFERREDNAME>
+      <PREFERREDDEFINITION>Start date related to the intravenous administration of a liquid mixture of proteins, carbohydrates, fats, vitamins, minerals and other nutrients in patients who cannot eat or cannot get enough nutrients from the foods they eat.</PREFERREDDEFINITION>
+
+   <DataElement num="31134">
+      <PUBLICID>3176832</PUBLICID>
+      <LONGNAME>Study Subject Milestone Administration, Management Performed Study Activity Status Date and Time ISO21090.TS.DATETIME.v1.0</LONGNAME>
+      <PREFERREDNAME>3175335v1.0:3148148v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The completed activity which marks a study subject-specific, protocol-defined point in the course of a study. EXAMPLE(S): obtain informed consent, verify eligibility criteria, enroll, registration to a study, randomize, assignment to a treatment arm, start of on-study period, complete study visits, end of on-study period, exit trial, break treatment blind, protocol violation, premature withdrawal The date (and time) on which the status is assigned to the activity.</PREFERREDDEFINITION>
+
+   <DataElement num="17099">
+      <PUBLICID>2752531</PUBLICID>
+      <LONGNAME>Adverse Event Details Adverse Event End Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2752015v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any unfavorable or unintended symptom, sign, or disease including an abnormal laboratory finding) temporally associated with the use of a medical treatment or procedure that may or may not be considered related to the medical treatment or procedure.  Such events can be intervention related, dose related, route related, patient related, or caused by an interaction with another drug(s) or procedure(s).:Particulars considered individually and in relation to a whole._Any unfavorable or unintended symptom, sign, or disease including an abnormal laboratory finding) temporally associated with the use of a medical treatment or procedure that may or may not be considered related to the medical treatment or procedure.  Such events can be intervention related, dose related, route related, patient related, or caused by an interaction with another drug(s) or procedure(s).:The point or place at which something terminates in time, space, or extent.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="24611">
+      <PUBLICID>2322108</PUBLICID>
+      <LONGNAME>Laboratory Test Assay Date</LONGNAME>
+      <PREFERREDNAME>LAB_TEST_ASSAY_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Date of performance of an assay, measurement of the effects of a biologically active substance in tissue(s) using an intermediate in vivo or in vitro tissue or cell model under controlled conditions.</PREFERREDDEFINITION>
+
+   <DataElement num="24365">
+      <PUBLICID>3008890</PUBLICID>
+      <LONGNAME>Case Report Form Version Date</LONGNAME>
+      <PREFERREDNAME>3008884v1.0:2017121v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The released or published date of the specific version of a case report form.</PREFERREDDEFINITION>
+
+   <DataElement num="10588">
+      <PUBLICID>2694776</PUBLICID>
+      <LONGNAME>Treatment Subsequent Therapy Intervention or Procedure Fourth Course Treatment Date</LONGNAME>
+      <PREFERREDNAME>2694774v1.0:3027992v1.1</PREFERREDNAME>
+      <PREFERREDDEFINITION>Date of initiation of the fourth course of treatment.</PREFERREDDEFINITION>
+
+   <DataElement num="21631">
+      <PUBLICID>3453180</PUBLICID>
+      <LONGNAME>Patient Crossover Study Initiation Occurrence Date</LONGNAME>
+      <PREFERREDNAME>3453176v1.0:2017121v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Calendar date for a patients start on a crossover study, in which each subject receives the same series of treatments but in a random order that differs across study arms.</PREFERREDDEFINITION>
+
+   <DataElement num="7902">
+      <PUBLICID>3008728</PUBLICID>
+      <LONGNAME>Surgical Procedure Re-excision First Cancer Progression Year Date</LONGNAME>
+      <PREFERREDNAME>SURG_EXC_PROG_YR_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the year of surgical resection for initial disease recurrence.</PREFERREDDEFINITION>
+
+   <DataElement num="5791">
+      <PUBLICID>3651305</PUBLICID>
+      <LONGNAME>Previous Clinical Breast Examination Indicator</LONGNAME>
+      <PREFERREDNAME>3079359v1.0:3270332v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Occurring prior to something else._Having to do with the examination and treatment of patients._One of two hemispheric projections of variable size situated in the subcutaneous layer over the pectoralis major muscle on either side of the chest._An appraisal or evaluation of a patient's condition by a physician or registered nurse, based on clinical and laboratory data, medical history, and the patient's account of symptoms.  2. The process by which a patient's condition is appraised or evaluated. (Taber's)_The affirmative response to a question or activity._The non-affirmative response to a question._The answer is not known by the person answering._An event, entity or condition that typically characterizes a prescribed environment or situation and determines or aids in determining whether certain stated circumstances exist or criteria are satisfied.</PREFERREDDEFINITION>
+
+   <DataElement num="10421">
+      <PUBLICID>2723079</PUBLICID>
+      <LONGNAME>Thaw Process Occurrence Date</LONGNAME>
+      <PREFERREDNAME>2718244v1.0:2532012v2.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The month, day, and year the thawing process occurred.</PREFERREDDEFINITION>
+
+   <DataElement num="32220">
+      <PUBLICID>2137</PUBLICID>
+      <LONGNAME>Non-Protocol Therapy First Administered Date</LONGNAME>
+      <PREFERREDNAME>NPROT_TX_FIRS_ADM_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>a date when the first treatment was given to a patient that was not indicated by the protocol.</PREFERREDDEFINITION>
+
+   <DataElement num="14099">
+      <PUBLICID>2752560</PUBLICID>
+      <LONGNAME>Pharmacokinetics Integer::24 Hour Dose Post Plasma Freezing Time java.util.Date</LONGNAME>
+      <PREFERREDNAME>2752044v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._A number with no fractional part, including the negative and positive numbers as well as zero.::24:A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day.:A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.:Happening at a time subsequent to a reference time; later in time or order.:Plasma is the fluid (noncellular) portion of the circulating blood, as distinguished from the serum that is the fluid portion of the blood obtained by removal of the fibrin clot and blood cells after coagulation.:The act or event which causes the transition from a liquid to solid matter phase.:The continuum of experience in which events pass from the future through the present to the past._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="2229">
+      <PUBLICID>2548534</PUBLICID>
+      <LONGNAME>Patient Leukoplakia Past Year Personal Medical History Yes No Unknown Indicator</LONGNAME>
+      <PREFERREDNAME>2548519v1.0:2182115v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Indicator of Yes, No, or Unknown to represent a condition of a white patch or plaque on a mucous membrane that cannot be characterized clinically or pathologically as any other disease. The diagnosis of leukoplakia is one of exclusion; other conditions such as candidiasis, lichen planus, leukoedema, etc. must be ruled out before a diagnosis of leukoplakia can be made. Leukoplakia may be a premalignant condition --2004 in a person who requires medical care occurring before the period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period in a record of a patient&quot;s background regarding health and the occurrence of disease events of the individual.  In addition, personal medical history may be a variable in epidemiologic studies.</PREFERREDDEFINITION>
+
+   <DataElement num="34154">
+      <PUBLICID>3628742</PUBLICID>
+      <LONGNAME>Assessment of Survivor Concerns Worry About Future Diagnostic Tests Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>3626143v1.0:3626563v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how much they worry about future diagnostic tests, using a four-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="27692">
+      <PUBLICID>2539860</PUBLICID>
+      <LONGNAME>Value Domain Relationship Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2539662v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A set of permissible values for a data element.:A state of connectedness between people, objects, or events; to be associated or connected with something._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="9930">
+      <PUBLICID>2513887</PUBLICID>
+      <LONGNAME>Collection Protocol Begin Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2513621v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The act of gathering things together.:A rule which guides how an activity should be performed; a set of formal rules used to specify the format of an exchange of data._Have a beginning, in a temporal, spatial, or evaluative sense.:a particular day specified as the time something has, or will, happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="71">
+      <PUBLICID>4348007</PUBLICID>
+      <LONGNAME>Post Orchiectomy Serum Tumor Marker Test Less Initial Pathologic Diagnosis Date Calculated Day Value</LONGNAME>
+      <PREFERREDNAME>4347997v1.0:3008213v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Time interval in days from the date of the patient's initial pathologic diagnosis to the date that the post orchiectomy serum marker tests were obtained.</PREFERREDDEFINITION>
+
+   <DataElement num="9433">
+      <PUBLICID>2998089</PUBLICID>
+      <LONGNAME>Adverse Event End Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2192228v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date the unwanted effect caused by a drug or therapy. Such effects can be drug related, dose related, route related, patient related, caused by an interaction with another drug, or caused by opioid initiation or dose escalation ceased._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="44667">
+      <PUBLICID>2960133</PUBLICID>
+      <LONGNAME>Intervention Trial Study Protocol Document Begin Date Type Code StartDateType</LONGNAME>
+      <PREFERREDNAME>2959377v1.0:2959424v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A pre-clinical or clinical study in human beings in which individuals are assigned by an investigator based on a protocol to receive specific interventions. The individuals are then followed and biomedical and/or health outcomes are assessed.:A detailed examination, analysis, or critical inspection of a subject designed to discover facts about it.:A rule which guides how an activity should be performed.:An organized collection of records that describe a particular body of data._Have a beginning, in a temporal, spatial, or evaluative sense; the point in space or time where something begins.:The particular day, month and year an event has happened or will happen.:Something distinguishable as an identifiable class based on common qualities.:A symbol or combination of symbols which is given an arbitrary meaning within a systematized collection of concepts used for data representation._The code that indicates whether the start date is an actual date or an anticipated date.</PREFERREDDEFINITION>
+
+   <DataElement num="45543">
+      <PUBLICID>3078442</PUBLICID>
+      <LONGNAME>Study End Point Event Occurrence Month Value</LONGNAME>
+      <PREFERREDNAME>3070941v1.0:3070778v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Period of time (in months) to an event as defined by a study.</PREFERREDDEFINITION>
+
+   <DataElement num="5915">
+      <PUBLICID>3435987</PUBLICID>
+      <LONGNAME>Surgical Procedure Lymphadenectomy Performed Date</LONGNAME>
+      <PREFERREDNAME>2430054v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date on which an observation was made or an event occurred related to a surgical procedure in which the lymph nodes are removed and examined to see whether they contain cancer.</PREFERREDDEFINITION>
+
+   <DataElement num="31473">
+      <PUBLICID>2916144</PUBLICID>
+      <LONGNAME>Pharmacokinetics Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2916022v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="21805">
+      <PUBLICID>3232452</PUBLICID>
+      <LONGNAME>Perceived Stress Scale Last Month How Often Upset By Something Unexpected Last Month Score_5 Point Scale</LONGNAME>
+      <PREFERREDNAME>3232434v1.0:3232435v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how often in the past month he/she has been upset because of something that happened unexpectedly, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="12743">
+      <PUBLICID>3100911</PUBLICID>
+      <LONGNAME>Service Item Change Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3099686v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A distinct item or unit of work available by fee for service purchase._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="7120">
+      <PUBLICID>3175962</PUBLICID>
+      <LONGNAME>Reuse Template Until Repeat Activity Rule Comment ISO21090.ST.v1.0</LONGNAME>
+      <PREFERREDNAME>3174847v1.0:2803207v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Additional description of the repeat activity until rule.</PREFERREDDEFINITION>
+
+   <DataElement num="44439">
+      <PUBLICID>3631728</PUBLICID>
+      <LONGNAME>Companion Blood Culture Specimen Initiation Date</LONGNAME>
+      <PREFERREDNAME>3631727v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Characteristic or indicative of (e.g., a disease)._A liquid tissue; its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood._Any laboratory procedure for growing microorganisms._Collected; brought together in one place._Any laboratory procedure for growing microorganisms._A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis._The act of starting something; an act that sets in motion some course of events._the date on which an observation was made or an event occurred.</PREFERREDDEFINITION>
+
+   <DataElement num="10441">
+      <PUBLICID>2614167</PUBLICID>
+      <LONGNAME>Whole Right Breast Prior Image Study Date</LONGNAME>
+      <PREFERREDNAME>2614133v1.0:2613867v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date on which an image study of the entire right breast area previously imaged.</PREFERREDDEFINITION>
+
+   <DataElement num="9571">
+      <PUBLICID>3629919</PUBLICID>
+      <LONGNAME>MBSRQ Appearance Orientation Never Think About Appearance Agreement Score Likert Scale Text</LONGNAME>
+      <PREFERREDNAME>3628902v1.0:3626258v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of their agreement to a statement about never thinking about their appearance, using a five point Likert scale value captured as a non-enumerated text field.</PREFERREDDEFINITION>
+
+   <DataElement num="37241">
+      <PUBLICID>4753816</PUBLICID>
+      <LONGNAME>Outcome Satisfaction Questionnaire Current Appearance of Arm or Leg After Treatment Score 5 Point Likert Scale</LONGNAME>
+      <PREFERREDNAME>CS_ARMLEG_APPEAR_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of their satisfaction now with the appearance of their arm or leg after treatment.</PREFERREDDEFINITION>
+
+   <DataElement num="9222">
+      <PUBLICID>2773372</PUBLICID>
+      <LONGNAME>Biological Characteristic Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2772718v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Pertaining to biology or to life and living things.:The distinguishing qualities or prominent aspect of a person, object, action, process, or substance._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="5224">
+      <PUBLICID>2536962</PUBLICID>
+      <LONGNAME>Response Assessment Certification Date</LONGNAME>
+      <PREFERREDNAME>RESP_ASSESS_CERT_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Date of documented validation of a patient's response assessment or date of death.</PREFERREDDEFINITION>
+
+   <DataElement num="28371">
+      <PUBLICID>2857241</PUBLICID>
+      <LONGNAME>Disease Status Evaluation Current Report Period Date</LONGNAME>
+      <PREFERREDNAME>DS_ST_EVL_CUR_RPT_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date on which an observation was made about the state of any abnormal condition of the body or mind that causes discomfort, dysfunction, or distress to the person affected described during the present reporting interval.</PREFERREDDEFINITION>
+
+   <DataElement num="9268">
+      <PUBLICID>3983794</PUBLICID>
+      <LONGNAME>Skin Rash Duration Day Count</LONGNAME>
+      <PREFERREDNAME>3983380v1.0:3294157v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any change in the skin which affects its appearance or texture. A rash may be localised to one part of the body, or affect all the skin. Rashes may cause the skin to change color, itch, become warm, bumpy, dry, cracked or blistered, swell and may be painful._The period of time during which something continues_The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day._To determine the number or amount of something; the result of this activity.</PREFERREDDEFINITION>
+
+   <DataElement num="45026">
+      <PUBLICID>2767982</PUBLICID>
+      <LONGNAME>On Study Form Birth Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2767762v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Research conducted with human subjects or on material of human origin in which an investigator directly interacts with human subjects; includes development of new technologies, study of mechanisms of human diseases, therapy, clinical trials, epidemiologic, behavior, and health services research.:A printed or electronic document with spaces to be filled out._The event of being born.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="3784">
+      <PUBLICID>2664520</PUBLICID>
+      <LONGNAME>Prior Lung Carcinoma History Year Number</LONGNAME>
+      <PREFERREDNAME>P_LUNG_CA_H_YEAR_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>The number that represents the time in years that a participant had cancer removed from the lung.</PREFERREDDEFINITION>
+
+   <DataElement num="50211">
+      <PUBLICID>2553398</PUBLICID>
+      <LONGNAME>Received Event Parameter Object Timestamp java.util.Date</LONGNAME>
+      <PREFERREDNAME>2553254v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>To have taken, accepted, or gotten something offered.:Something that happens at a given place and time.:Any factor that defines a system and determines (or limits) its performance._A variation of the Date datatype that's useful for storing very precise datetime values, down to small fractions of seconds. The Timestamp datatype stores all the information that the Date datatype stores, but also includes fractional seconds._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="48612">
+      <PUBLICID>2968228</PUBLICID>
+      <LONGNAME>Classification Scheme Item Administered Item Begin Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2967753v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A component of content in a Classification Scheme. This may be a node in a taxonomy or ontology or a term in a thesaurus, etc.:A registry item for which administrative information is recorded in an Administration Record._Have a beginning, in a temporal, spatial, or evaluative sense.:a particular day specified as the time something has, or will, happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="20527">
+      <PUBLICID>2759900</PUBLICID>
+      <LONGNAME>Prior Hormonal Therapy Other Administered Last Date</LONGNAME>
+      <PREFERREDNAME>PR_HORMO_O_ADM_L_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the last date related the other prior hormonal therapy being administered.</PREFERREDDEFINITION>
+
+   <DataElement num="16800">
+      <PUBLICID>2839231</PUBLICID>
+      <LONGNAME>Chromosome Segment Overlap Programming Parameter Deletion Mutation Chromosome Segment Mean Cutoff java.lang.Double</LONGNAME>
+      <PREFERREDNAME>2839220v1.0:2200948v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>One of the bodies in the cell nucleus that is the bearer of genes, has the form of a delicate chromatin filament during interphase, contracts to form a compact cylinder segmented into two arms by the centromere during metaphase and anaphase stages of cell division, and is capable of reproducing its physical and chemical structure through successive cell divisions.:One of the parts into which something naturally divides.:The phenomenon of coinciding partially or wholly; extending over and covering a part of.:A value that is passed to a routine._A loss of any genetic material on a chromosome, ranging from loss of a single nucleotide, to loss of part or all of a gene, to loss of a visible portion of the chromosome involving multiple genes. Deletions often disrupt gene or protein function and cell function as a result.:One of the bodies in the cell nucleus that is the bearer of genes, has the form of a delicate chromatin filament during interphase, contracts to form a compact cylinder segmented into two arms by the centromere during metaphase and anaphase stages of cell division, and is capable of reproducing its physical and chemical structure through successive cell divisions.:One of the parts into which something naturally divides.:The sum of a set of values divided by the number of values in the set.:A designated limit beyond which something cannot function or must be terminated._Generic value domain for a primitive java datatype that is a Double-precision floating point number (64-bit IEEE 7540).</PREFERREDDEFINITION>
+
+   <DataElement num="22635">
+      <PUBLICID>2519457</PUBLICID>
+      <LONGNAME>Project Planned End Date and Time java.util.Date</LONGNAME>
+      <PREFERREDNAME>2519368v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any piece of work that is undertaken or attempted._Devised, contrived, or formed in design.:The point or place at which something terminates in time, space, or extent.:An expression of both date and time that an event has happened or will happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="18441">
+      <PUBLICID>3262940</PUBLICID>
+      <LONGNAME>Laboratory Procedure Pharmacologic Substance First Level Date</LONGNAME>
+      <PREFERREDNAME>3181144v1.0:2532012v2.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting._An active natural, synthetic or semi-synthetic ingredient including endogenous body substance that is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease or to affect the structure or any function of the human body, but does not include intermediates used in the synthesis of such ingredient (21 CFR 314.3(b))._Preceding all others in time or space or degree._A position on a scale measuring intensity, quality, or amount._The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="13511">
+      <PUBLICID>3743731</PUBLICID>
+      <LONGNAME>Post Medication Return Pain Efficacy Duration</LONGNAME>
+      <PREFERREDNAME>P_MED_PAIN_EFF_DURN</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text term to describe the length of time a medication is effective until pain returns.</PREFERREDDEFINITION>
+
+   <DataElement num="5325">
+      <PUBLICID>2232418</PUBLICID>
+      <LONGNAME>Value Domain Permissible Value Association Class End Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2231817v3.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A set of permissible values for a data element.:This captures the many to many relationship between value domain and permissible values and allows to associate a value domain to a permissible value. (NCICB):In UML modeling, an association that is also a class.  It not only connects a set of classes, but also defines a set of features that belong to the relationship itself. (ISO 11179)_The point or place at which something terminates in time, space, or extent.:The particular day, month and year an event will happen or has happened._Java Date Type</PREFERREDDEFINITION>
+
+   <DataElement num="18127">
+      <PUBLICID>4494166</PUBLICID>
+      <LONGNAME>Myeloproliferative Neoplasm Symptom Assessment Form Past Week Overall Quality of Life Score 11 Point Scale</LONGNAME>
+      <PREFERREDNAME>MPNSAF_QUAL_LIFE_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of their overall quality of life during the past week, using an 11 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="10715">
+      <PUBLICID>3430829</PUBLICID>
+      <LONGNAME>Patient Compliance Removable  Retainer Device Component First Integer 6 Month Assessment Percentage Value</LONGNAME>
+      <PREFERREDNAME>3428330v1.0:2903088v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The percentages of patients who are compliant with the amount of time they are instructed to wear their removable retainer in the first six months after they receive the retainer.</PREFERREDDEFINITION>
+
+   <DataElement num="23417">
+      <PUBLICID>3811420</PUBLICID>
+      <LONGNAME>Patient Health Questionnaire (PHQ-9) Last Two Weeks How Often Feel Depressed Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>PHQ9_FEEL_DEPR_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how often over the last 2 weeks they have been bothered by feeling down, depressed, or hopeless, using a four point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="25990">
+      <PUBLICID>2194834</PUBLICID>
+      <LONGNAME>Smoking Cessation Cigarette Duration in Years Number</LONGNAME>
+      <PREFERREDNAME>SMK_CESS_DUR_YR_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>A count of number of years a person has discontinued the habit of smoking.</PREFERREDDEFINITION>
+
+   <DataElement num="29419">
+      <PUBLICID>3101198</PUBLICID>
+      <LONGNAME>Project Actual Start Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3099965v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any piece of work that is undertaken or attempted._Existing in fact; real.:The calendar date on which something is to start or did start._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="14657">
+      <PUBLICID>3639415</PUBLICID>
+      <LONGNAME>Pittsburgh Sleep Quality Index Cough Or Snore Score Past Month Frequency Score Four Point Scale</LONGNAME>
+      <PREFERREDNAME>PSQI_CGH_SNORE_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Category to capture the frequency over the past month that an individual has had trouble sleeping because of coughing or snoring loudly.</PREFERREDDEFINITION>
+
+   <DataElement num="20035">
+      <PUBLICID>3176825</PUBLICID>
+      <LONGNAME>Clinical Performed Observation Outcome Report Date and Time ISO21090.TS.DATETIME.v1.0</LONGNAME>
+      <PREFERREDNAME>2869284v1.0:3148148v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A result of a clinical observation, i.e. from an examination, test or direct observation performed on the subject. EXAMPLE(S): The performed observation of &quot;WBC count&quot; would be associated to a clinical result called &quot;WBC result&quot; in which the results of the observation (13000 WBCs) would be stored. The date (and time) on which the result is reported.</PREFERREDDEFINITION>
+
+   <DataElement num="49390">
+      <PUBLICID>2475773</PUBLICID>
+      <LONGNAME>Laboratory Procedure Baseline Prostate-Specific Antigen Prior Antiandrogen Therapy Outcome Date</LONGNAME>
+      <PREFERREDNAME>LA_BS_PS_AT_OC_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date for a medical test for a tissue kallikrein-related sequence enzyme used as biomarker for prostate cancer prior to treatment with agents that interfere with action of male sex hormones.</PREFERREDDEFINITION>
+
+   <DataElement num="48533">
+      <PUBLICID>4609752</PUBLICID>
+      <LONGNAME>FACT-Cog Questionnaire Version 3 CogPMT2 How True Past Seven Days Able to Keep Track of What I Am Doing Even When Interrupted Score 5 Point Scale</LONGNAME>
+      <PREFERREDNAME>FACTCOG_V3_COGPMT2_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>A persons' stated observation of how true in the past 7 days they are able to keep track of what they are doing, even if interrupted, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="21292">
+      <PUBLICID>2823862</PUBLICID>
+      <LONGNAME>Post Biopsy Hemorrhage All Sextant No Yes Coded Indicator</LONGNAME>
+      <PREFERREDNAME>2823720v1.0:2598021v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Post; occuring after._Removal and pathologic examination of specimens in the form of small pieces of tissue from the living body._Bleeding or escape of blood from a vessel._To a complete degree or to the full or entire extent._One sixth of a circle or disc; a sector with an angle of 60 degrees. In anatomy, the division of teeth into six parts: maxillary right, maxillary anterior, maxillary left, mandibular right, mandibular anterior, mandibular left._Coded numeric response for No (1) or Yes (2) in answer to a question. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="49901">
+      <PUBLICID>2486466</PUBLICID>
+      <LONGNAME>Urine Specimen Collection Date</LONGNAME>
+      <PREFERREDNAME>URN_SPEC_COLL_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date a urine specimen was collected for analysis.</PREFERREDDEFINITION>
+
+   <DataElement num="18030">
+      <PUBLICID>64799</PUBLICID>
+      <LONGNAME>Agent Minute Duration</LONGNAME>
+      <PREFERREDNAME>AGT_MIN_DUR</PREFERREDNAME>
+      <PREFERREDDEFINITION>the number of minutes the agent was administered to the patient.</PREFERREDDEFINITION>
+
+   <DataElement num="11660">
+      <PUBLICID>2185803</PUBLICID>
+      <LONGNAME>Cancer Progression Bone Observed Date</LONGNAME>
+      <PREFERREDNAME>CAPROG_BON_PROG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date that spread of cancer in the body to the bones, a rigid connective tissue that makes up the skeleton of vertebrates, was observed.</PREFERREDDEFINITION>
+
+   <DataElement num="39968">
+      <PUBLICID>2603068</PUBLICID>
+      <LONGNAME>Fourth Biopsy Performed Year Date</LONGNAME>
+      <PREFERREDNAME>FOUR_BIOPS_PER_YR_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the numeric representation of the calendar year related to the carried through to completion of fourth biopsy.</PREFERREDDEFINITION>
+
+   <DataElement num="5087">
+      <PUBLICID>2752568</PUBLICID>
+      <LONGNAME>Pharmacokinetics Eight Hour Dose Post Specimen Collection Time java.util.Date</LONGNAME>
+      <PREFERREDNAME>2752052v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._A natural number greater than 7 and less than 9 and the quantity that it denotes: the sum of seven and one.:A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day.:A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.:Happening at a time subsequent to a reference time; later in time or order.:A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis.:The act of gathering things together; having been brought together in one place.:The continuum of experience in which events pass from the future through the present to the past._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="5113">
+      <PUBLICID>3212323</PUBLICID>
+      <LONGNAME>Past 4 Week Defecation Incontinence Severity Code</LONGNAME>
+      <PREFERREDNAME>PST4_WK_DEF_INC_CD</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric code response to a question about the severity of stool incontinence for a person during the previous four weeks.</PREFERREDDEFINITION>
+
+   <DataElement num="20582">
+      <PUBLICID>2916117</PUBLICID>
+      <LONGNAME>Transfection Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2915995v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The process of introduction of DNA into a recipient eukaryote cell and its subsequent integration into the recipient cell's chromosomal DNA, so that the cells or progeny may express the integrated donor gene._The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="27282">
+      <PUBLICID>2545414</PUBLICID>
+      <LONGNAME>Prior Chest Computed Tomography Performed Date</LONGNAME>
+      <PREFERREDNAME>PR_CT_PERF_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date of the previous chest computer tomography.</PREFERREDDEFINITION>
+
+   <DataElement num="22261">
+      <PUBLICID>4241604</PUBLICID>
+      <LONGNAME>Past 4 Week Person Pep Assessment How Much of the Time 6 Point Scale</LONGNAME>
+      <PREFERREDNAME>SF36_23</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how much of the time during the past four weeks they have felt vibrant or full of energy, using a 6 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="34384">
+      <PUBLICID>2752569</PUBLICID>
+      <LONGNAME>Pharmacokinetics Dose Prior Specimen Collection Time java.util.Date</LONGNAME>
+      <PREFERREDNAME>2752053v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.:Earlier in time or order.:A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis.:The act of gathering things together; having been brought together in one place.:The continuum of experience in which events pass from the future through the present to the past._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="7434">
+      <PUBLICID>2475126</PUBLICID>
+      <LONGNAME>Assessment Positron Emission Tomography Other Imaging Gallium Scan Date</LONGNAME>
+      <PREFERREDNAME>AS_P_O_IM_GAL_SCN_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date a gallium scan, PET scan, or other functional imaging study was done.</PREFERREDDEFINITION>
+
+   <DataElement num="40806">
+      <PUBLICID>3227998</PUBLICID>
+      <LONGNAME>Patient Serum Pregnancy Test Date</LONGNAME>
+      <PREFERREDNAME>3227063v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date the patient had a serum pregnancy test.</PREFERREDDEFINITION>
+
+   <DataElement num="10656">
+      <PUBLICID>3193910</PUBLICID>
+      <LONGNAME>Patient Reported Outcome Problem Nipple Discharge Past Week Severity Score_11 Point Scale</LONGNAME>
+      <PREFERREDNAME>3193898v1.0:3186243v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how bad, if at all, nipple discharge has been a problem during the past week, including today, using an 11-point Likert scale where 0 is not a problem and 10 is as bad as possible.</PREFERREDDEFINITION>
+
+   <DataElement num="16645">
+      <PUBLICID>4763616</PUBLICID>
+      <LONGNAME>Toronto Extremity Salvage Score, Lower Extremity Past Week Difficulty Ability to Do Heavy Household Chores Score 5 Point Likert Scale</LONGNAME>
+      <PREFERREDNAME>TESSLE_HVYCHORES_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Person's stated observation of the difficulty in the past week doing heavy household chores such as vacuuming and moving furniture, using a 5 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="28732">
+      <PUBLICID>2429533</PUBLICID>
+      <LONGNAME>Symptom Post Surgery Weight Loss Present Ind-3</LONGNAME>
+      <PREFERREDNAME>SM_POS_SX_WTL_P_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no/unknown indicator related to the reduction in overall body mass after an operative procedure.</PREFERREDDEFINITION>
+
+   <DataElement num="25185">
+      <PUBLICID>3232451</PUBLICID>
+      <LONGNAME>Perceived Stress Scale Last Month How Often Felt Difficulties Too High To Overcome Score_5 Point Scale</LONGNAME>
+      <PREFERREDNAME>3232433v1.0:3232435v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how often in the past month he/she felt difficulties were piling up so high that he/she could not overcome them, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="11383">
+      <PUBLICID>3651289</PUBLICID>
+      <LONGNAME>Hot Flash Related Daily Interference Past Week Sleep Score Likert Scale Text</LONGNAME>
+      <PREFERREDNAME>3651229v1.0:3626258v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how much in the past week hot flashes have interfered with their sleep, using a Likert scale value captured as a non-enumerated text field.</PREFERREDDEFINITION>
+
+   <DataElement num="14731">
+      <PUBLICID>3151127</PUBLICID>
+      <LONGNAME>Recurrent Disease Cancer Progression First Diagnosis Month Number</LONGNAME>
+      <PREFERREDNAME>2010287v3.0:2895904v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value that represents the month that disease recurrence was first diagnosed.</PREFERREDDEFINITION>
+
+   <DataElement num="10760">
+      <PUBLICID>4287526</PUBLICID>
+      <LONGNAME>Correlative Study Specimen Collected Date</LONGNAME>
+      <PREFERREDNAME>2422060v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Samples (blood, urine, tissue, etc.) that have been collected in a laboratory, pharmacokinetic or other correlative study embedded within the primary protocol._the date on which an observation was made or an event occurred.</PREFERREDDEFINITION>
+
+   <DataElement num="33745">
+      <PUBLICID>2329</PUBLICID>
+      <LONGNAME>Prior High-Dose Chemotherapy with Stem Cell Support Metastatic Recurrent Disease Administered  Begin Date</LONGNAME>
+      <PREFERREDNAME>PR_HD/A_ME_RE_AD_B_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>a start date of previous cancer treatment for metastatic or recurrent disease using high dose chemotherapy with stem cell support or transplant.</PREFERREDDEFINITION>
+
+   <DataElement num="6442">
+      <PUBLICID>2773290</PUBLICID>
+      <LONGNAME>Type Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2772640v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Something distinguishable as an identifiable class based on common qualities._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="7606">
+      <PUBLICID>4448751</PUBLICID>
+      <LONGNAME>EORTC QLQ-TC26 Past Week Concerned about Ability to Have Children Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>EORTC_ABL_HV_CHLD_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of the extent to which they were concerned about their ability to have children during the past week, using a four point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="37924">
+      <PUBLICID>2002094</PUBLICID>
+      <LONGNAME>Clinical Study Protocol Amendment Activation Date</LONGNAME>
+      <PREFERREDNAME>2010945v3.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the activation date of a protocol amendment, a change to the plan states what the study will do, how, and why.</PREFERREDDEFINITION>
+
+   <DataElement num="35248">
+      <PUBLICID>3811032</PUBLICID>
+      <LONGNAME>Neck Dissection Impairment Index Past Four Weeks How Much Limited in Ability to Lift Heavy Objects Because of Shoulder or Neck 5 Point Scale</LONGNAME>
+      <PREFERREDNAME>NDII_LIFT_HVY_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how much they have been imited in their ability to lift heavy objects because of their shoulder or neck over the past four weeks as a result of the cancer treatment of their neck, using an five point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="46589">
+      <PUBLICID>2469365</PUBLICID>
+      <LONGNAME>Specimen Gleason Score Date</LONGNAME>
+      <PREFERREDNAME>SPEC_GLEASONSC_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date on which a sample of prostate gland tissue was collected to identify any cells very different from normal cells (pattern 4 or 5) according to the standard Gleason grading system.</PREFERREDDEFINITION>
+
+   <DataElement num="9278">
+      <PUBLICID>62692</PUBLICID>
+      <LONGNAME>Neoadjuvant Therapy Prior Chemotherapy Administered End Date</LONGNAME>
+      <PREFERREDNAME>NEO_PR_CT_ADM_E_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date on which prior neoadjuvant chemotherapy treatment ended.</PREFERREDDEFINITION>
+
+   <DataElement num="21124">
+      <PUBLICID>2852633</PUBLICID>
+      <LONGNAME>Quality of Life High Exercise Performed Assessment Week Frequency</LONGNAME>
+      <PREFERREDNAME>2852623v1.0:2852624v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the number of times strenuous exercise, activity that requires high physical or mental exertion, especially when performed to develop or maintain fitness, was performed within any period of seven consecutive days as a subjective measurement of an individual's sense of well-being and ability to enjoy life.</PREFERREDDEFINITION>
+
+   <DataElement num="40151">
+      <PUBLICID>2658011</PUBLICID>
+      <LONGNAME>Prior Biopsy Not Completed Before Pre-Registration Reason Text</LONGNAME>
+      <PREFERREDNAME>P_BX_NC_B_PREG_R_TXT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The text used to describe the reason why the biopsy was not completed prior to pre-registration.</PREFERREDDEFINITION>
+
+   <DataElement num="24057">
+      <PUBLICID>4396436</PUBLICID>
+      <LONGNAME>Adverse Event Resolved Alpha DVG Date</LONGNAME>
+      <PREFERREDNAME>AE_STOP_ALPHA_DVG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The end or last date of an adverse event._The last or final date of an event, described using a date or a text response of 'ongoing'.</PREFERREDDEFINITION>
+
+   <DataElement num="27526">
+      <PUBLICID>3724709</PUBLICID>
+      <LONGNAME>Lymphedema and Breast Cancer Questionnaire Today Or Past Month Have Numbness Experience Indicator</LONGNAME>
+      <PREFERREDNAME>3722486v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of whether or not today or in the past month they have or had numbness in their arm, breast, or chest, using a yes or no indicator.</PREFERREDDEFINITION>
+
+   <DataElement num="4796">
+      <PUBLICID>4821836</PUBLICID>
+      <LONGNAME>EORTC QLQ-BN20 36 Past Week Have Double Vision Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>BN20_DBL_VISION_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Persons' stated perception of how often in the past week they had double vision, using a four point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="3645">
+      <PUBLICID>4119692</PUBLICID>
+      <LONGNAME>Dexamethasone Symptom Questionnaire During Week Post Chemotherapy Have Indigestion Heartburn Reflux or Discomfort in Upper Abdomen Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>DSQ_INDIGESTION_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of the incidence and severity of indigestion, heartburn, reflux or discomfort in the upper abdomen during the week following dexamethasone treatment, using a four point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="28753">
+      <PUBLICID>2006521</PUBLICID>
+      <LONGNAME>Quality-of-Life Assessment Patient Day Resting Scale</LONGNAME>
+      <PREFERREDNAME>QOL_PT_D_REST_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>the scale for assessment of patient's rest or sleep during the daylight hours.</PREFERREDDEFINITION>
+
+   <DataElement num="47052">
+      <PUBLICID>2006184</PUBLICID>
+      <LONGNAME>Responsible Person Signature Date</LONGNAME>
+      <PREFERREDNAME>RSPBL_PERSON_SIG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date the clinical trials staff person signed the case report form or report.</PREFERREDDEFINITION>
+
+   <DataElement num="49741">
+      <PUBLICID>2897020</PUBLICID>
+      <LONGNAME>Month Last Contact Number</LONGNAME>
+      <PREFERREDNAME>MON_LAST_CONT_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the month of the last contact with a patient, family member, or caregiver.</PREFERREDDEFINITION>
+
+   <DataElement num="39458">
+      <PUBLICID>2839843</PUBLICID>
+      <LONGNAME>NonCigarette Tobaco Smoking Cessation Duration Year Number</LONGNAME>
+      <PREFERREDNAME>NONCIG_SMOK_YR_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the number of years that have elapsed since an individual last use noncigarette tobacco products.</PREFERREDDEFINITION>
+
+   <DataElement num="16859">
+      <PUBLICID>3646080</PUBLICID>
+      <LONGNAME>Pleurodesis Performed 90 Days Prior To Tumor Resection Indicator</LONGNAME>
+      <PREFERREDNAME>3646067v1.0:3506034v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Indicator to signify whether or not pleurodesis was performed 90 days prior to cancer sample procurement.</PREFERREDDEFINITION>
+
+   <DataElement num="20914">
+      <PUBLICID>3183575</PUBLICID>
+      <LONGNAME>Patient Employment Absent Day Count</LONGNAME>
+      <PREFERREDNAME>2743070v1.0:2018594v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the quantity of days related to patient taking time away from work.</PREFERREDDEFINITION>
+
+   <DataElement num="13634">
+      <PUBLICID>3101146</PUBLICID>
+      <LONGNAME>Approval Poll Change Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3099910v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Acceptance as satisfactory by an authoritative body; established by authority; given authoritative approval.:To take or register the number of votes or opinions._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="31388">
+      <PUBLICID>2518615</PUBLICID>
+      <LONGNAME>Patient Colostomy Performed Date</LONGNAME>
+      <PREFERREDNAME>PT_COLOST_PERF_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date a colostomy was performed.</PREFERREDDEFINITION>
+
+   <DataElement num="859">
+      <PUBLICID>4367992</PUBLICID>
+      <LONGNAME>Person Caregiver Relationship Assessment Duration Year Number</LONGNAME>
+      <PREFERREDNAME>CGRELATIONYRS</PREFERREDNAME>
+      <PREFERREDDEFINITION>The number of years related to the relationship between a person and their caregiver, the primary person in charge of the care of a patient, usually a family member or a designated health care professional.</PREFERREDDEFINITION>
+
+   <DataElement num="33026">
+      <PUBLICID>2772959</PUBLICID>
+      <LONGNAME>Contact Information Change Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2772314v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Information regarding the means of contacting a person or group._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="21786">
+      <PUBLICID>2594800</PUBLICID>
+      <LONGNAME>Maxilla Tooth Present Year Date</LONGNAME>
+      <PREFERREDNAME>MAX_TOOTH_PRES_YDT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the year date realted to present teeth in the upper jawbone.</PREFERREDDEFINITION>
+
+   <DataElement num="13002">
+      <PUBLICID>2743856</PUBLICID>
+      <LONGNAME>Retreatment Administered Date</LONGNAME>
+      <PREFERREDNAME>RTX_ADMIN_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date related to the repeated act of the dispensing, applying, or tendering of something to another after an initial treatment.</PREFERREDDEFINITION>
+
+   <DataElement num="36460">
+      <PUBLICID>2793</PUBLICID>
+      <LONGNAME>Response Duration Begin Date</LONGNAME>
+      <PREFERREDNAME>RESP_DUR_BEG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the initial date when a patient's level of response after treatment (CR, PR, SD, PD, etc.) is documented using a standard criteria for response specified in the protocol.</PREFERREDDEFINITION>
+
+   <DataElement num="10378">
+      <PUBLICID>3679906</PUBLICID>
+      <LONGNAME>EORTC QLQ-C30 Past Week Have Difficulty Remembering Things Score Likert Scale Text</LONGNAME>
+      <PREFERREDNAME>3679784v1.0:3626258v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how often in the past week they had difficulty remembering things, using a Likert scale value captured as a non-enumerated text field.</PREFERREDDEFINITION>
+
+   <DataElement num="24919">
+      <PUBLICID>3761151</PUBLICID>
+      <LONGNAME>Adverse Event Outcome Assessment Observation Performed Study Activity Date and Time Validation Code ISO21090.CD.v1.0</LONGNAME>
+      <PREFERREDNAME>3760364v1.0:2803170v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The completed action of evaluating the final state of a subject or study subject who experienced an adverse event, which takes place after the adverse event occurs. A coded value specifying the degree of authoritativeness or certiitude of the date of the activity. EXAMPLE(S): date estimated, date greater than 100 days - day is correct, date known, date less than 100 days - date is correct, date previously reported NOTE(S): The concept of &quot;date unknown&quot; is captured by a null flavor of &quot;UNK&quot; on the date range attribute, rather than a code in this attribute.</PREFERREDDEFINITION>
+
+   <DataElement num="35844">
+      <PUBLICID>3243996</PUBLICID>
+      <LONGNAME>Subject Oral Contraceptive Last 10 Year Received Indicator</LONGNAME>
+      <PREFERREDNAME>SUB_OC_LT_TEN_YR_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>The yes/no/unknown indicator whether subject has taken oral contraceptives within the last 10 years.</PREFERREDDEFINITION>
+
+   <DataElement num="47904">
+      <PUBLICID>2772942</PUBLICID>
+      <LONGNAME>Computer Program Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2772298v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>data and instructions stored in the computer in a format to be used by the computer for its processing functions._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="43318">
+      <PUBLICID>3762307</PUBLICID>
+      <LONGNAME>Breast carcinoma Post Neoadjuvant Therapy Pathologic T Stage</LONGNAME>
+      <PREFERREDNAME>2663820v1.0:3762306v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Code to represent the post-neoadjuvant therapy pathologic T stage for a breast tumor as defined by the AJCC Cancer Staging Manual, 7th Ed.</PREFERREDDEFINITION>
+
+   <DataElement num="38729">
+      <PUBLICID>2773511</PUBLICID>
+      <LONGNAME>Fluid Specimen Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2772851v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A continuous amorphous substance that tends to flow and to conform to the outline of its container (i.e., a liquid or a gas).  Also used as an adjective to describe something with properties like that of a fluid.:A sample or part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="10230">
+      <PUBLICID>4529028</PUBLICID>
+      <LONGNAME>Adverse Event Occurrence Day Count</LONGNAME>
+      <PREFERREDNAME>AE_OCUR_COUNT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The total number of days the patient experienced a grade 3 or higher adverse event.</PREFERREDDEFINITION>
+
+   <DataElement num="1791">
+      <PUBLICID>3212322</PUBLICID>
+      <LONGNAME>Past 4 Week Increased Defecation Frequency Severity Code</LONGNAME>
+      <PREFERREDNAME>PST4_WK_DEF_FREQ_CD</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric code response to a question about the severity of increased frequency of bowel movements for a person during the previous four weeks.</PREFERREDDEFINITION>
+
+   <DataElement num="33474">
+      <PUBLICID>2684636</PUBLICID>
+      <LONGNAME>Cancer Identification Multiple Tumor Date</LONGNAME>
+      <PREFERREDNAME>2684627v1.0:2684638v1.1</PREFERREDNAME>
+      <PREFERREDDEFINITION>The month, day and year the patient is diagnosed with multiple tumor(s) reported as a single primary using the SEER, IARC, or Canadian Cancer Registry multiple primary rules.</PREFERREDDEFINITION>
+
+   <DataElement num="16483">
+      <PUBLICID>2682420</PUBLICID>
+      <LONGNAME>Internal Mammary Lymph Node Radiation Therapy Post Neoadjuvant Therapy Administered Ind-2</LONGNAME>
+      <PREFERREDNAME>IM_RT_P_NEO_ADM_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator whether radiation therapy was administered to the lymph nodes located in the armpit following neodajuvant therapy, treatment designed to be used as a first step toward shrinking the cancer and in evaluating response to drugs and other agents.</PREFERREDDEFINITION>
+
+   <DataElement num="6174">
+      <PUBLICID>3624727</PUBLICID>
+      <LONGNAME>Evidence of Disease Post Completion Definitive Treatment Indicator</LONGNAME>
+      <PREFERREDNAME>3624718v1.0:3506034v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Indicator to signify whether or not there was evidence of disease after the curative definitive treatment was completed.</PREFERREDDEFINITION>
+
+   <DataElement num="30898">
+      <PUBLICID>2773024</PUBLICID>
+      <LONGNAME>Name Convention Change Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2772376v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The words or language units by which a thing is known.:Something regarded as a normative example._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="45871">
+      <PUBLICID>2821629</PUBLICID>
+      <LONGNAME>Abdominal Cavity Pelvis Computed Tomography Diagnostic Imaging Performed Date</LONGNAME>
+      <PREFERREDNAME>ABD_PEL_CT_DI_PER_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date related to abdominal pelvis CT or MRI scan performed.</PREFERREDDEFINITION>
+
+   <DataElement num="75">
+      <PUBLICID>4588614</PUBLICID>
+      <LONGNAME>Curative Definitive Treatment Completion Time Subtract Initial Pathologic Diagnosis Time Duration Day Calculation Value</LONGNAME>
+      <PREFERREDNAME>4588613v1.0:3008213v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Time interval from the date of the initial pathologic diagnosis to the date of completion of the curative definitive treatment, represented as a calculated number of days.</PREFERREDDEFINITION>
+
+   <DataElement num="23186">
+      <PUBLICID>2711975</PUBLICID>
+      <LONGNAME>Experiment 2-Dimensional Electrophoresis Gel Change Time java.util.Date</LONGNAME>
+      <PREFERREDNAME>2711220v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A set of actions and observations, performed to verify or falsify a hypothesis or research a causal relationship between phenomena.:The property of being measured and described using two orthogonal directions.:A gel matrix through which molecules are separated, usually by size or charge, under the influence of an electrical field._The act of alteration or modification; changed or altered in form or character.:The continuum of experience in which events pass from the future through the present to the past._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="2514">
+      <PUBLICID>3808779</PUBLICID>
+      <LONGNAME>NCCN Guidelines Version 1.2011 Distress Management Problem List Screening Tool Past Week Distress over Physical Problem with Breathing Indicator</LONGNAME>
+      <PREFERREDNAME>NCCN_DSTMG_BREATH_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of how distressed they have been during the past week over physical problems with breathing, using a yes or no indicator.</PREFERREDDEFINITION>
+
+   <DataElement num="4580">
+      <PUBLICID>2744993</PUBLICID>
+      <LONGNAME>Adverse Event Onset Date</LONGNAME>
+      <PREFERREDNAME>AE_ONSET_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date on which the adverse event was first evident.</PREFERREDDEFINITION>
+
+   <DataElement num="9897">
+      <PUBLICID>4723862</PUBLICID>
+      <LONGNAME>Was Concurrent Agent administered with Radiation Therapy  or was Agent Administered  as Adjuvant Treatment Post Radiation Therapy Yes No Unknown Not Applicable Indicator</LONGNAME>
+      <PREFERREDNAME>Conc_With_Agen_Radi_Or_Adju_Po</PREFERREDNAME>
+      <PREFERREDDEFINITION>A question asking if an agent was given concurrently with radiation therapy or if an agent was given as an adjuvant treatment after the completion of radiation therapy._The preferred Value Domain to indicate a question with permissible values of yes/no/unknown/not applicable.</PREFERREDDEFINITION>
+
+   <DataElement num="35403">
+      <PUBLICID>3639411</PUBLICID>
+      <LONGNAME>Pittsburgh Sleep Quality Index Hours No Sleep Within 30 Minute Score Past Month Frequency Score Four Point Scale</LONGNAME>
+      <PREFERREDNAME>PSQI_NO_SLP_30M_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Category to capture the frequency over the past month that an individual has had trouble sleeping because of not being able to fall asleep within 30 minutes.</PREFERREDDEFINITION>
+
+   <DataElement num="47037">
+      <PUBLICID>3263298</PUBLICID>
+      <LONGNAME>Breast Problem Awareness Month Name</LONGNAME>
+      <PREFERREDNAME>3262923v1.0:3259267v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text term to represent the name of the month in which a breast symptom was noticed by the patient.</PREFERREDDEFINITION>
+
+   <DataElement num="39570">
+      <PUBLICID>4682049</PUBLICID>
+      <LONGNAME>Computed Tomography Simulation Successful Occurrence Date</LONGNAME>
+      <PREFERREDNAME>CT_SIMUL_SUC_OCC_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Calendar date a plan for radiation therapy that insures the target area is precisely located and marked using computed tomography (CT)  was successfully completed.</PREFERREDDEFINITION>
+
+   <DataElement num="26885">
+      <PUBLICID>3669414</PUBLICID>
+      <LONGNAME>Breast Implant Present Alpha DVG Date</LONGNAME>
+      <PREFERREDNAME>3079282v1.0:2183138v2.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date of the breast implant.</PREFERREDDEFINITION>
+
+   <DataElement num="18800">
+      <PUBLICID>4743043</PUBLICID>
+      <LONGNAME>Brain Perfusion Magnetic Resonance Imaging Performed Date</LONGNAME>
+      <PREFERREDNAME>4743042v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Brain which is an organ composed of grey and white matter containing billions of neurons that is the center for intelligence and reasoning which is protected by the bony cranium. Perfusion is a special type of magnetic resonance imaging (MRI) that uses an injected dye in order to see blood flow through tissues. Once executed and carried through to completion the date on which an observation was made or an event occurred is reported.</PREFERREDDEFINITION>
+
+   <DataElement num="3765">
+      <PUBLICID>64842</PUBLICID>
+      <LONGNAME>Hospital Admission Date</LONGNAME>
+      <PREFERREDNAME>HOSP_ADM_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date the patient was admitted to the hospital.</PREFERREDDEFINITION>
+
+   <DataElement num="14867">
+      <PUBLICID>2798684</PUBLICID>
+      <LONGNAME>Smoking Status Prior Past Year Indicator</LONGNAME>
+      <PREFERREDNAME>2798682v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The indicator that describes whether or not a person has smoked prior to but not during the past year.</PREFERREDDEFINITION>
+
+   <DataElement num="45784">
+      <PUBLICID>3176055</PUBLICID>
+      <LONGNAME>Study Subject Milestone Administration, Management Performed Study Activity Study Reference Object Date and Time Range ISO21090.IVL.TS.DATETIME.v1.0</LONGNAME>
+      <PREFERREDNAME>2868105v1.0:3152480v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date and time span used to indicate the start and end of the study for a subject.</PREFERREDDEFINITION>
+
+   <DataElement num="20780">
+      <PUBLICID>4493986</PUBLICID>
+      <LONGNAME>Myeloproliferative Neoplasm Symptom Assessment Form Past Week How Much Difficulty Sleeping Score 11 Point Scale</LONGNAME>
+      <PREFERREDNAME>MPNSAF_SLEEP_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how much difficulty they had during the past week with sleeping, using an 11 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="41115">
+      <PUBLICID>3263553</PUBLICID>
+      <LONGNAME>Edit Over-ride Case Last Changed Date</LONGNAME>
+      <PREFERREDNAME>2698014v1.0:3263498v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Date the case was last changed or updated.</PREFERREDDEFINITION>
+
+   <DataElement num="45301">
+      <PUBLICID>2503517</PUBLICID>
+      <LONGNAME>Ethyl Alcohol 70% Fixative DateTime Value</LONGNAME>
+      <PREFERREDNAME>ETOH_FIXST_TM_DT_VAL</PREFERREDNAME>
+      <PREFERREDDEFINITION>The particular time, day, month and year of use of 70% ethanol to fix tissues and cells for microscopic study.</PREFERREDDEFINITION>
+
+   <DataElement num="39183">
+      <PUBLICID>4274895</PUBLICID>
+      <LONGNAME>Confirmation Immunophenotype B-cell Lineage Date</LONGNAME>
+      <PREFERREDNAME>4274894v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Date of immunophenotype confirmation of B-Cell lineage</PREFERREDDEFINITION>
+
+   <DataElement num="22312">
+      <PUBLICID>3761365</PUBLICID>
+      <LONGNAME>Product Transfer Performed Study Activity Status Date and Time ISO21090.TS.DATETIME.v1.0</LONGNAME>
+      <PREFERREDNAME>3760565v1.0:3148148v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A completed action of transporting a product between a point of origin and a point of destination. EXAMPLE(S): Delivery of drugs from the manufacturer to a medical facility. The date (and time) on which the status is assigned to the activity.</PREFERREDDEFINITION>
+
+   <DataElement num="13448">
+      <PUBLICID>2608457</PUBLICID>
+      <LONGNAME>Qualitative Evaluation Evaluation Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2608069v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A type of evaluation that is primarily descriptive and interpretative, and may or may not lend itself to quantification. Mainly concerned with the properties, the state, and the character (i.e., the nature) of phenomena. It implies an emphasis on processes and meanings that are rigorously examined, but not measured in terms of quantity, amount, or frequency. (www.unfpa.org/monitoring/toolkit/glossary.pdf and Nonprofit Good Practice Guide Glossary)_Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="23577">
+      <PUBLICID>3101557</PUBLICID>
+      <LONGNAME>Inquiry Payment Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3100314v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A request for information._A sum of money paid.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="16966">
+      <PUBLICID>2182909</PUBLICID>
+      <LONGNAME>Protocol Amendment Date</LONGNAME>
+      <PREFERREDNAME>PROT_AMDT_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Date of protocol amendment approval by IRB.  Amendments are versions of the original protocol document, each version with an eligibility checklist, informed consent, and complete revised protocol.</PREFERREDDEFINITION>
+
+   <DataElement num="27153">
+      <PUBLICID>2716739</PUBLICID>
+      <LONGNAME>Emission Scan Start Military Time</LONGNAME>
+      <PREFERREDNAME>ESCAN_START_TM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Record emission scan start time in military formate.g. 1:00 pm = 1300 hrs.</PREFERREDDEFINITION>
+
+   <DataElement num="41296">
+      <PUBLICID>3176099</PUBLICID>
+      <LONGNAME>Study Site Research Personnel Role Effective Date and Time Range ISO21090.IVL.TS.DATETIME.v1.0</LONGNAME>
+      <PREFERREDNAME>3174948v1.0:3152480v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date and time span for when the study site personnel is active.</PREFERREDDEFINITION>
+
+   <DataElement num="635">
+      <PUBLICID>2784170</PUBLICID>
+      <LONGNAME>Alcoholic Beverage Consumption History Without Agent Year Number java.lang.Double</LONGNAME>
+      <PREFERREDNAME>2783401v1.0:2200948v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A drink, including beer, wine or liquor, that is made by fermentation of raw materials. An alcoholic beverage contains ethanol (alcohol) as the active ingredient. Alcoholic beverage is a known human carcinogen.:The bodily process of taking in and using up something, especially the eating or drinking of something.:The aggregate of past events; the continuum of events occurring in succession leading from the past to the present; a record or narrative description of past events._Used to indicate the absence or lack of something or someone.:An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.:The period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period.:A numeral or string of numerals expressing value, quantity, or identification._Generic value domain for a primitive java datatype that is a Double-precision floating point number (64-bit IEEE 7540).</PREFERREDDEFINITION>
+
+   <DataElement num="17908">
+      <PUBLICID>2778190</PUBLICID>
+      <LONGNAME>Patient Prior Registration Laboratory Procedure Eligibility Determination Begin Date</LONGNAME>
+      <PREFERREDNAME>PT_P_RE_LA_ELG_B_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the begin date of a laboratory procedure or other evaluation performed as part of the determination of the eligibility for enrollment in a study according to specific protocol criteria and procedures.</PREFERREDDEFINITION>
+
+   <DataElement num="48382">
+      <PUBLICID>3935925</PUBLICID>
+      <LONGNAME>Medical Outcomes Study Your Feelings Questionnaire Past Month How Much of the Time Have You Been in Low or Very Low Spirits Score 6 Point Scale</LONGNAME>
+      <PREFERREDNAME>MOS_LOW_SPIRIT_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how much of the time they have been in low or very low spirits during the past month, using a 6 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="43238">
+      <PUBLICID>2589828</PUBLICID>
+      <LONGNAME>Thrombosis Adverse Event Observed Begin Date</LONGNAME>
+      <PREFERREDNAME>THROMB_AE_OBS_B_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date a thrombotic event was observed.</PREFERREDDEFINITION>
+
+   <DataElement num="47931">
+      <PUBLICID>4746667</PUBLICID>
+      <LONGNAME>EORTC QLQ-C30 Version 3.0 27 Past Week Interference with Social Activities due to Physical Condition or Medical Treatment Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>EORTCQLQ30_SOCLIF_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>Persons' stated perception of how often in the past week their physical condition or medical treatment interfered with social activities, using a four point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="18796">
+      <PUBLICID>4715175</PUBLICID>
+      <LONGNAME>Prior Biological Therapy Administered Date</LONGNAME>
+      <PREFERREDNAME>2190855v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>information related to biological therapy administered previously._the date on which an observation was made or an event occurred.</PREFERREDDEFINITION>
+
+   <DataElement num="6065">
+      <PUBLICID>3812572</PUBLICID>
+      <LONGNAME>Therapy HER2/neu Administered Begin Date</LONGNAME>
+      <PREFERREDNAME>ANTIHER2STRTDT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The start date related to the administration of an anti-HER2 therapy.</PREFERREDDEFINITION>
+
+   <DataElement num="26358">
+      <PUBLICID>4763895</PUBLICID>
+      <LONGNAME>Toronto Extremity Salvage Score, Lower Extremity Past Week Ability to Walk Within the House Score Difficulty Ability to Walk Within the House 5 Point Likert Scale</LONGNAME>
+      <PREFERREDNAME>TESSLE_WALKHOUSE_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Person's stated observation of the difficulty in the past week walking within the house, using a 5 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="20096">
+      <PUBLICID>3150981</PUBLICID>
+      <LONGNAME>Brachytherapy Begin Occurrence Year Number</LONGNAME>
+      <PREFERREDNAME>3150978v1.0:2896906v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the year that brachytherapy began.</PREFERREDDEFINITION>
+
+   <DataElement num="44023">
+      <PUBLICID>3210307</PUBLICID>
+      <LONGNAME>Patient Prior Registration Laboratory Procedure Malignant Neoplasm Eligibility Determination Date</LONGNAME>
+      <PREFERREDNAME>3210301v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date related to the medical procedure regarding tumor prior to the act of enrolling on a clinical trial as a determination of the suitable for enrollment in a study according specific protocol criteria and procedures.</PREFERREDDEFINITION>
+
+   <DataElement num="15693">
+      <PUBLICID>2734786</PUBLICID>
+      <LONGNAME>Past Integer::4 Week Adult Pain Restriction Activity Anxiety Psychometrics Assessment Score</LONGNAME>
+      <PREFERREDNAME>PAST_4WK_RES_ANX_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the response to a QLAC question posed to an adult about being bothered by pain that kept a person from doing the things that he/she wanted to do in the past four weeks. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="3019">
+      <PUBLICID>3444000</PUBLICID>
+      <LONGNAME>Study Research Identification Report Transmission Date</LONGNAME>
+      <PREFERREDNAME>3434423v1.0:3263505v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date on which the study is submitted to an archive (format: YYYY-MM-DD).</PREFERREDDEFINITION>
+
+   <DataElement num="3288">
+      <PUBLICID>61395</PUBLICID>
+      <LONGNAME>Prior Cancer Diagnosis Date</LONGNAME>
+      <PREFERREDNAME>PRIOR_CA_DX_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>a date on which previous cancer was diagnosed.</PREFERREDDEFINITION>
+
+   <DataElement num="28746">
+      <PUBLICID>3008763</PUBLICID>
+      <LONGNAME>Additional Hormone Therapy Post Recurrent Disease Administered Indicator</LONGNAME>
+      <PREFERREDNAME>ADD_HORM_REC_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text yes/no/unknown indicator to signify additional administration of hormonal therapy after return of disease.</PREFERREDDEFINITION>
+
+   <DataElement num="28417">
+      <PUBLICID>2425572</PUBLICID>
+      <LONGNAME>Application Person Complete Time java.util.Date</LONGNAME>
+      <PREFERREDNAME>2425562v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Putting something to a special use or purpose; the work of applying something.:A single human being._To possess every necessary or normal part or component or step.  It may also mean having come or been brought to a conclusion.:Time is the continuum of experience in which events pass from the future through the present to the past.  It may also refer to a specific point in this continuum or to the interval separating two points.  It is generally measured in minutes, days, months, or years._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="20742">
+      <PUBLICID>2732194</PUBLICID>
+      <LONGNAME>Computer Program Created Record Generation Date</LONGNAME>
+      <PREFERREDNAME>COMP_RECD_GEN_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Date on which an entry or record generated by a computer program is created [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="26860">
+      <PUBLICID>3462254</PUBLICID>
+      <LONGNAME>Positron Emission Tomography Diagnostic Imaging Malignant Neoplasm Assessment Date</LONGNAME>
+      <PREFERREDNAME>3462243v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date of the diagnostic imaging of positron emission tomography (PET), to assess for malignant neoplasms.</PREFERREDDEFINITION>
+
+   <DataElement num="28027">
+      <PUBLICID>4757312</PUBLICID>
+      <LONGNAME>Past Year Health New Medication Start Yes No Indicator</LONGNAME>
+      <PREFERREDNAME>P_YR_NEW_MEDCTN_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text term to signify whether a patient started any new medications in the past calendar year.</PREFERREDDEFINITION>
+
+   <DataElement num="11379">
+      <PUBLICID>3158070</PUBLICID>
+      <LONGNAME>Diagnostic Imaging Chest Assessment Date</LONGNAME>
+      <PREFERREDNAME>3158060v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date examination of the chest, part of the human body between the neck and the diaphragm, or abdomen, the area of the body that contains the pancreas, stomach, intestine, liver, gallbladder, and other organs, by any method that uses a visual display of structural or functional patterns of organs or tissues for diagnostic evaluation.</PREFERREDDEFINITION>
+
+   <DataElement num="14252">
+      <PUBLICID>2974244</PUBLICID>
+      <LONGNAME>Disabilities of the Arm Shoulder and Hand Outcome Measure Assessment Complete Date</LONGNAME>
+      <PREFERREDNAME>DASH_COMP_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Calendar date for a completed assessment using the Disabilities of the Arm Shoulder and Hand Outcome Measure (DASH), a 30-item, self-reported questionnaire designed to measure physical and social function along with symptom impact associated with musculosketetal disorders of the upper limb.</PREFERREDDEFINITION>
+
+   <DataElement num="12126">
+      <PUBLICID>2768042</PUBLICID>
+      <LONGNAME>Malignant Neoplasm Past Treatment Study Therapeutic Procedure History Radiation Therapy First Dose Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2767822v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas (adenocarcinomas or squamous cell carcinomas), Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas.:Before the present time.:A type of study protocol designed to evaluate intervention(s) for disease treatment.:An action or administration of therapeutic agents to produce an effect that is intended to alter or stop a pathologic process.:The aggregate of past events; the continuum of events occurring in succession leading from the past to the present; a record or narrative description of past events._Treatment of a disease by means of exposure of the target or the whole body to radiation. Radiation therapy is often used as part of curative therapy and occasionally as a component of palliative treatment for cancer. Other uses include total body irradiation prior to transplantation.:Preceding all others in time or space or degree.:A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="9429">
+      <PUBLICID>2691581</PUBLICID>
+      <LONGNAME>Clinical Study Document Central Institutional Review Board Approval Date</LONGNAME>
+      <PREFERREDNAME>C_S_DOC_CIRB_APPR_DY</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date the Central Institutional Review Board (CIRB) approved the document.</PREFERREDDEFINITION>
+
+   <DataElement num="35268">
+      <PUBLICID>3980231</PUBLICID>
+      <LONGNAME>Treatment Assignment Date</LONGNAME>
+      <PREFERREDNAME>TAC_DATE</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date a coded value representing the start of a specific treatment has been assigned to be uniformly administered to a group of study subjects for separate statistical analysis.</PREFERREDDEFINITION>
+
+   <DataElement num="30661">
+      <PUBLICID>2390927</PUBLICID>
+      <LONGNAME>Follow-up Contact Date</LONGNAME>
+      <PREFERREDNAME>FU_CNT_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Date on which information about the health status of a patient/participant no longer on protocol treatment is obtained.</PREFERREDDEFINITION>
+
+   <DataElement num="41873">
+      <PUBLICID>4503835</PUBLICID>
+      <LONGNAME>Prior To Consent Bone Marrow Biopsy Performed Indicator</LONGNAME>
+      <PREFERREDNAME>PR_CON_BM_BX_PER_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>The yes/no response regarding whether a bone marrow biopsy (biopsy involving the removal of core tissue containing bone spicules and hematopoietic elements embedded in the marrow stroma) was performed prior to the patient providing consent for study participation.</PREFERREDDEFINITION>
+
+   <DataElement num="37318">
+      <PUBLICID>3101938</PUBLICID>
+      <LONGNAME>Generation Change Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3100698v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A single step in the line of descent from a common ancestor._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="38398">
+      <PUBLICID>3983711</PUBLICID>
+      <LONGNAME>Genital Soreness Duration Day Count</LONGNAME>
+      <PREFERREDNAME>3983369v1.0:3294157v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The group of organs and glands involved with having a child. In women, these are the uterus (womb), the fallopian tubes, the ovaries, and the vagina (birth canal). The reproductive system in men includes the testes, the prostate, and the penis.__A dull achy pain_The period of time during which something continues._The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day._To determine the number or amount of something; the result of this activity.</PREFERREDDEFINITION>
+
+   <DataElement num="27667">
+      <PUBLICID>2513809</PUBLICID>
+      <LONGNAME>Audit Event Date and Time java.util.Date</LONGNAME>
+      <PREFERREDNAME>2513543v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A methodical examination or review of a condition or situation.:Something that happens at a given place and time._An expression of both date and time that an event has happened or will happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="17979">
+      <PUBLICID>2765427</PUBLICID>
+      <LONGNAME>Malignant Anal Neoplasm Proctoscopy Sigmoidoscopy Diagnostic Procedure Date</LONGNAME>
+      <PREFERREDNAME>MA_P_S_DIAPROC_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date related to the diagnosis, through the procedures of endoscopic examination of the rectum (proctoscopy) or the luminal surface of the sigmoid colon (sigmoidoscopy), of a malignant anal neoplasm (cancer), carcinomas that arise from the anus and include anal canal and anal margin (perianal skin) carcinomas.</PREFERREDDEFINITION>
+
+   <DataElement num="26366">
+      <PUBLICID>3151011</PUBLICID>
+      <LONGNAME>Brachytherapy End Occurrence Day Number</LONGNAME>
+      <PREFERREDNAME>3151001v1.0:2896868v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the day that brachytherapy was finished.</PREFERREDDEFINITION>
+
+   <DataElement num="48796">
+      <PUBLICID>4759013</PUBLICID>
+      <LONGNAME>Supplemental FACIT Fatigue Scale Past Week How True Distressed by Sleep that is Restless and Disturbed Score 5 Point Likert Scale</LONGNAME>
+      <PREFERREDNAME>SFFS_SLEEP_DIST_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>A persons' stated observation of how much in the past 7 days they have been distressed because they have sleep that is restless and disturbed, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="39589">
+      <PUBLICID>3656876</PUBLICID>
+      <LONGNAME>MFLIE Enjoyment Past 24 Hour Drink Vomiting Affect 7 Point Likert Scale</LONGNAME>
+      <PREFERREDNAME>MFLIE_VOM_DK_24H_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric response to a question of how much vomiting has affected a person's ability to enjoy a liquid refreshment in the past 24 hours.</PREFERREDDEFINITION>
+
+   <DataElement num="26324">
+      <PUBLICID>2847285</PUBLICID>
+      <LONGNAME>Participant Last Known Alive Date</LONGNAME>
+      <PREFERREDNAME>PART_LAST_KN_ALIV_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The most recent date that someone from the study could verify a status for the study participant.</PREFERREDDEFINITION>
+
+   <DataElement num="42481">
+      <PUBLICID>3114851</PUBLICID>
+      <LONGNAME>Adverse Event Integer::24 Report Hour Report Occurrence Date</LONGNAME>
+      <PREFERREDNAME>AE_24H_REP_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Calendar date of a telephone call to report an adverse event (AE) within 24 hours of a scan.</PREFERREDDEFINITION>
+
+   <DataElement num="14720">
+      <PUBLICID>3212305</PUBLICID>
+      <LONGNAME>Past 4 Week Daily Protective Clothing Use Code</LONGNAME>
+      <PREFERREDNAME>PST4_WK_CLTH_USE_CD</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric code response to a question about the number of pads or adult diapers typically used per day by a person to control leakage during the previous four weeks.</PREFERREDDEFINITION>
+
+   <DataElement num="38836">
+      <PUBLICID>3635771</PUBLICID>
+      <LONGNAME>Adverse Event Pulmonary Embolism Present Last Date</LONGNAME>
+      <PREFERREDNAME>PELSTDT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The last occurrence date of a closure of the pulmonary artery or one of its branches by an embolus, sometimes associated with infarction of the lung as an unfavorable and unintended sign (including an abnormal laboratory finding), symptom, syndrome, or disease, temporally associated with the use of a medical product or procedure, regardless of whether or not it is considered related to the product or procedure being present.</PREFERREDDEFINITION>
+
+   <DataElement num="22563">
+      <PUBLICID>2773352</PUBLICID>
+      <LONGNAME>Molecule Specimen Change Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2772698v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An aggregate of two or more atoms in a defined arrangement held together by chemical bonds.:A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="16526">
+      <PUBLICID>4617971</PUBLICID>
+      <LONGNAME>Measured Less Than or Equal 1.5 Times Upper Limit of Normal Activated Partial Thromboplastin Time (aPTT) Within Anticoagulant Agent Therapeutic Range Occurrence Code Indicator</LONGNAME>
+      <PREFERREDNAME>PPT_1.5ULN_COA_CD_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>The coded indicator response regarding whether the result of the Activated Partial Thromboplastin Time (aPTT) is less than or equal to 1.5 times the institution upper limit of normal (ULN), unless the use of anticoagulant therapy requires a therapeutic range that must be observed.</PREFERREDDEFINITION>
+
+   <DataElement num="6128">
+      <PUBLICID>4609703</PUBLICID>
+      <LONGNAME>FACT-Cog Questionnaire Version 3 CogF24 How Often Past Seven Days Have Forgotten Names of People Soon After Being Introduced Score 5 Point Scale</LONGNAME>
+      <PREFERREDNAME>FACTCOG_V3_COGF24_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>A persons' stated observation of how often in the past 7 days they have forgotten names of people soon after being introduced, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="42782">
+      <PUBLICID>2211950</PUBLICID>
+      <LONGNAME>First Chemotherapy Post Surgery Date</LONGNAME>
+      <PREFERREDNAME>CT_POST_SX_BEG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date of first chemotherapy after surgery.</PREFERREDDEFINITION>
+
+   <DataElement num="7560">
+      <PUBLICID>2007188</PUBLICID>
+      <LONGNAME>Treatment Post Planned Type</LONGNAME>
+      <PREFERREDNAME>TX_POST_P_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>the type of therapeutic procedure expected or to be planned to follow the existing treatment of an individual.</PREFERREDDEFINITION>
+
+   <DataElement num="25173">
+      <PUBLICID>2711713</PUBLICID>
+      <LONGNAME>Electrophoresis Gel Change Time java.util.Date</LONGNAME>
+      <PREFERREDNAME>2710956v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A gel matrix through which molecules are separated, usually by size or charge, under the influence of an electrical field._The act of alteration or modification; changed or altered in form or character.:The continuum of experience in which events pass from the future through the present to the past._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="14472">
+      <PUBLICID>2752725</PUBLICID>
+      <LONGNAME>Adverse Event Amendment Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2752209v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, syndrome, or disease, temporally associated with the use of a medical product or procedure, regardless of whether or not it is considered related to the product or procedure (attribution of unrelated, unlikely, possible, probable, or definite). The concept refers to events that could be medical product related, dose related, route related, patient related, caused by an interaction with another therapy or procedure, or caused by opioid initiation or dose escalation. The term also is referred to as an adverse experience. The old term Side Effect is retired and should not be used._A change in a document made by correction, adding, substituting or omitting a certain part. Amendments are the mechanism of changes introduction, further development and improvement of previously submitted or approved clinical study protocols and proposals.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="26308">
+      <PUBLICID>3164209</PUBLICID>
+      <LONGNAME>Study Agent Returned Date</LONGNAME>
+      <PREFERREDNAME>STDY_DRG_RETRN_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date on which the study agent that was given back or returned.</PREFERREDDEFINITION>
+
+   <DataElement num="14581">
+      <PUBLICID>1133</PUBLICID>
+      <LONGNAME>Laboratory Procedure Blood Urea Nitrogen Result Date</LONGNAME>
+      <PREFERREDNAME>LAB_BUN_RSLT_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>a date on which a blood sample was collected from a patient to measure the amount of blood urea nitrogen present.</PREFERREDDEFINITION>
+
+   <DataElement num="33888">
+      <PUBLICID>3755484</PUBLICID>
+      <LONGNAME>Lymphedema and Breast Cancer Questionnaire During Past Six Months Have Swelling with Pitting Experience Indicator</LONGNAME>
+      <PREFERREDNAME>3754444v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of whether or not during the past six months they have or had swelling with pitting in their arm, breast, or chest, using a yes or no indicator.</PREFERREDDEFINITION>
+
+   <DataElement num="31503">
+      <PUBLICID>2717592</PUBLICID>
+      <LONGNAME>Post Procedure Pain Present Day Duration</LONGNAME>
+      <PREFERREDNAME>P_PROC_PAIN_PRS_D_D</PREFERREDNAME>
+      <PREFERREDDEFINITION>the number of days during related to presence of pain after procedure.</PREFERREDDEFINITION>
+
+   <DataElement num="7237">
+      <PUBLICID>3162615</PUBLICID>
+      <LONGNAME>Chest Computed Tomography Performed Date</LONGNAME>
+      <PREFERREDNAME>2201502v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date a computed tomographic scan of the chest was performed.</PREFERREDDEFINITION>
+
+   <DataElement num="32126">
+      <PUBLICID>2553382</PUBLICID>
+      <LONGNAME>Transfer Event Parameter Object Timestamp java.util.Date</LONGNAME>
+      <PREFERREDNAME>2553239v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The act of moving something from one location to another.:Something that happens at a given place and time.:Any factor that defines a system and determines (or limits) its performance._A variation of the Date datatype that's useful for storing very precise datetime values, down to small fractions of seconds. The Timestamp datatype stores all the information that the Date datatype stores, but also includes fractional seconds._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="27213">
+      <PUBLICID>2755691</PUBLICID>
+      <LONGNAME>Calendar Month Name</LONGNAME>
+      <PREFERREDNAME>CLDR_MON_NM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text name of a month in the Gregorian calendar. [Manually-curated</PREFERREDDEFINITION>
+
+   <DataElement num="24392">
+      <PUBLICID>2689754</PUBLICID>
+      <LONGNAME>Clinical Study Document Reminder Sent Investigator Date</LONGNAME>
+      <PREFERREDNAME>CSTDY_D_RSENT_INV_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date when a formal reminder was sent to the investigator regarding the anticipated receipt of document.</PREFERREDDEFINITION>
+
+   <DataElement num="23227">
+      <PUBLICID>2773402</PUBLICID>
+      <LONGNAME>Availability Quantity Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2772748v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The quality of being obtainable or accessible and ready for use or service.:How much there is of something that you can measure; the total amount or number._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="27975">
+      <PUBLICID>2773057</PUBLICID>
+      <LONGNAME>Electronic Document Format Specification Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2772408v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Material recorded in a format that requires an electronic device to view or modify the content.:The organization of information according to preset specifications.:A detailed description of criteria for a piece of work._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="5471">
+      <PUBLICID>3679871</PUBLICID>
+      <LONGNAME>EORTC QLQ-C30 Past Week Difficulty Concentrating Reading Newspaper or Watching Television Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>3679766v1.0:3654523v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how often in the past week they had difficulty in concentrating on things like reading a newspaper or watching television, using a four point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="42700">
+      <PUBLICID>2180259</PUBLICID>
+      <LONGNAME>Hodgkin&quot;s Lymphoma Complete Response First Observed Date</LONGNAME>
+      <PREFERREDNAME>HODG_CR_FIR_OBS_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date on which all criteria for clinical complete response for Hodgkin's lymphoma were first reported in a patient's medical records.</PREFERREDDEFINITION>
+
+   <DataElement num="40275">
+      <PUBLICID>3278754</PUBLICID>
+      <LONGNAME>Weight Age 18 Years Pound Value</LONGNAME>
+      <PREFERREDNAME>3271594v1.0:3271513v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent weight at 18 years of age measured in pounds.</PREFERREDDEFINITION>
+
+   <DataElement num="9999">
+      <PUBLICID>4761353</PUBLICID>
+      <LONGNAME>Toronto Extremity Salvage Score, Upper Extremity Past Week Difficulty Ability to Brush Your Teeth Score 5 Point Likert Scale</LONGNAME>
+      <PREFERREDNAME>TESSUE_TEETH_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of the difficulty in the past week brushing their teeth, using a 5 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="14324">
+      <PUBLICID>58241</PUBLICID>
+      <LONGNAME>Last Molecular Assessment Date</LONGNAME>
+      <PREFERREDNAME>LAST_MOL_ASSESS_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date of the last molecular assessment.</PREFERREDDEFINITION>
+
+   <DataElement num="2214">
+      <PUBLICID>2232601</PUBLICID>
+      <LONGNAME>Value Domain Administered Item Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2232000v3.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A set of permissible values for a data element.:A registry item for which administrative information is recorded in an Administration Record. (ISO 11179)_Brought into existence.:The particular day, month and year an event will happen or has happened._Java Date Type</PREFERREDDEFINITION>
+
+   <DataElement num="9789">
+      <PUBLICID>2897088</PUBLICID>
+      <LONGNAME>Month Targeted Molecular Therapy Start Number</LONGNAME>
+      <PREFERREDNAME>MON_TGTX_ST_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the month of the start of targeted molecular therapy.</PREFERREDDEFINITION>
+
+   <DataElement num="24">
+      <PUBLICID>3414503</PUBLICID>
+      <LONGNAME>Computed Tomography Less Initial Pathologic Diagnosis Date Calculated Day Value</LONGNAME>
+      <PREFERREDNAME>3412734v1.0:3008213v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Time interval from the date of Computed Tomography (CT) scan to the date of initial pathologic diagnosis, represented as a calculated number of days.</PREFERREDDEFINITION>
+
+   <DataElement num="37668">
+      <PUBLICID>3791272</PUBLICID>
+      <LONGNAME>Fatigue Severity Scale Past Week Fatigue Interferes with Work Family or Social Life Agreement Score 7 Point Scale</LONGNAME>
+      <PREFERREDNAME>FSS_FATG_INTF_LIFE_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated observation of their agreement with a statement about fatigue interfering with their work, family or social life in the past week, using a seven point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="33907">
+      <PUBLICID>4811131</PUBLICID>
+      <LONGNAME>Pittsburgh Sleep Quality Index Q10 Past Month Have Bed Partner Or Room Mate Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>PSQI_ROOMMATE_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Persons' stated perception in the past month of having a bed partner or roommate and where that person sleeps, using a 4 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="39146">
+      <PUBLICID>3262123</PUBLICID>
+      <LONGNAME>Rectum Congestive Mucosa Severity Post Radiation Therapy Grade</LONGNAME>
+      <PREFERREDNAME>CON_MUC_RT_GD</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric score for the severity of mucosal congestion in the rectum after radiation therapy, using the Vienna Rectoscopy Score (VRS).</PREFERREDDEFINITION>
+
+   <DataElement num="33762">
+      <PUBLICID>3429209</PUBLICID>
+      <LONGNAME>Orthodontist Removable Mandible   Retainer Device Component Second Treatment Regimen  Recommendation Hour Daily Count</LONGNAME>
+      <PREFERREDNAME>3427546v1.0:3428332v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A count of the number of hours in a day that the orthodontist recommends the patient use the removable retainer on their mandibular arch immediately after the initial procedure period is complete</PREFERREDDEFINITION>
+
+   <DataElement num="27351">
+      <PUBLICID>3534486</PUBLICID>
+      <LONGNAME>Greater Than or Equal To 3 Months Survival Status Indicator</LONGNAME>
+      <PREFERREDNAME>3534485v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Indicator that signifies whether or not the subject will survive 3 months or longer</PREFERREDDEFINITION>
+
+   <DataElement num="27575">
+      <PUBLICID>3192966</PUBLICID>
+      <LONGNAME>Patient Reported Outcome Problem Suspected New Neoplasm Past Week Severity Score_11 Point Scale</LONGNAME>
+      <PREFERREDNAME>3192957v1.0:3186243v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how bad, if at all, a new lump/mass (suspected of being cancer)  has been a problem during the past week, including today, using an 11-point Likert scale where 0 is not a problem and 10 is as bad as possible.</PREFERREDDEFINITION>
+
+   <DataElement num="33114">
+      <PUBLICID>4827182</PUBLICID>
+      <LONGNAME>Person Household Year Passive Smoke Exposure Duration Category</LONGNAME>
+      <PREFERREDNAME>HLD_PSV_SMOK_DUR_CAT</PREFERREDNAME>
+      <PREFERREDDEFINITION>The text response indicating the duration category of passive smoke exposure in the home.</PREFERREDDEFINITION>
+
+   <DataElement num="46427">
+      <PUBLICID>3288498</PUBLICID>
+      <LONGNAME>Disease Diagnosis Date To Consent Date Day Count</LONGNAME>
+      <PREFERREDNAME>3288491v1.0:3288393v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The number of days from the date the patient was diagnosed to the date of the patient's formal consent.</PREFERREDDEFINITION>
+
+   <DataElement num="42784">
+      <PUBLICID>4746645</PUBLICID>
+      <LONGNAME>EORTC QLQ-C30 Version 3.0 15 Past Week Had Vomiting Score 4 Point Scale</LONGNAME>
+      <PREFERREDNAME>EORTCQLQ30_VOMIT_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>Persons' stated perception of how often in the past week they vomited, using a four point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="9800">
+      <PUBLICID>64961</PUBLICID>
+      <LONGNAME>Prior Vaccine Last Administered Date</LONGNAME>
+      <PREFERREDNAME>PRIOR_VAC_LAS_ADM_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date on which the last vaccination of a previous series was given.</PREFERREDDEFINITION>
+
+   <DataElement num="2976">
+      <PUBLICID>3308255</PUBLICID>
+      <LONGNAME>Protocol American College of Radiology Imaging Network Identifier Date</LONGNAME>
+      <PREFERREDNAME>2195032v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the ACRIN qualification date.</PREFERREDDEFINITION>
+
+   <DataElement num="33636">
+      <PUBLICID>2958498</PUBLICID>
+      <LONGNAME>Father Birth Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2958392v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Father; a male parent._The event of being born.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="29767">
+      <PUBLICID>2529060</PUBLICID>
+      <LONGNAME>Study End Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2528769v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A type of research study that tests how well new medical treatments or other interventions work in people.  Such studies test new methods of screening, prevention, diagnosis, or treatment of a disease.  The study may be carried out in a clinic or other medical facility.  Also called a clinical trial._The point or place at which something terminates in time, space, or extent.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="28865">
+      <PUBLICID>3935924</PUBLICID>
+      <LONGNAME>Medical Outcomes Study Your Feelings Questionnaire Past Month How Much of the Time Have You Been a Happy Person Score 6 Point Scale</LONGNAME>
+      <PREFERREDNAME>MOS_HAPPY_PERSON_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how much of the time they have been a happy person during the past month, using a 6 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="29271">
+      <PUBLICID>4457115</PUBLICID>
+      <LONGNAME>Post Surgical Procedure Return Operating Room Complication Indicator</LONGNAME>
+      <PREFERREDNAME>Post_Surg_Retu_Oper_Comp_YES_N</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator relating to Information regarding the return to a room in a health care facility equipped for the performance of surgical operations and procedures due to complication occurring after a diagnostic or treatment procedure performed by manual and/or instrumental means, often involving an incision and the removal or replacement of a diseased organ or tissue.</PREFERREDDEFINITION>
+
+   <DataElement num="34478">
+      <PUBLICID>2747922</PUBLICID>
+      <LONGNAME>Adverse Event Routine Report Begin Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2747667v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any unfavorable or unintended symptom, sign, or disease including an abnormal laboratory finding) temporally associated with the use of a medical treatment or procedure that may or may not be considered related to the medical treatment or procedure.  Such events can be intervention related, dose related, route related, patient related, or caused by an interaction with another drug(s) or procedure(s).:An unvarying or habitual method or procedure.:A short textual account; having provided a short account._Have a beginning, in a temporal, spatial, or evaluative sense.:a particular day specified as the time something has, or will, happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="31774">
+      <PUBLICID>2752544</PUBLICID>
+      <LONGNAME>Pharmacokinetics Complete Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2752028v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._To possess every necessary or normal part or component or step; having come or been brought to a conclusion.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="1169">
+      <PUBLICID>2949578</PUBLICID>
+      <LONGNAME>Dental Professional Practice Dental Hygienist Performed Week Frequency</LONGNAME>
+      <PREFERREDNAME>D_PP_DNTHY_PERF_W_FR</PREFERREDNAME>
+      <PREFERREDDEFINITION>the number of occurrences within any period of seven consecutive days for dental hygienist being utilized to carry out task in dental practice.</PREFERREDDEFINITION>
+
+   <DataElement num="1314">
+      <PUBLICID>3298607</PUBLICID>
+      <LONGNAME>Disease or Disorder Symptom First Onset Date</LONGNAME>
+      <PREFERREDNAME>3298606v1.0:2532012v2.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any abnormal condition of the body or mind that causes discomfort, dysfunction, or distress to the person affected or those in contact with the person. The term is often used broadly to include injuries, disabilities, syndromes, symptoms, deviant behaviors, and atypical variations of structure and function._Subjective evidence of disease perceived by the patient._Preceding all others in time or space or degree._The start, beginning, or early stages. (NCI)_The particular day, month and year an event has happened or will happen.</PREFERREDDEFINITION>
+
+   <DataElement num="49443">
+      <PUBLICID>4799911</PUBLICID>
+      <LONGNAME>Laboratory Procedure Partial Thromboplastin Time Seconds Performed Yes No Unknown Not Applicable Indicator</LONGNAME>
+      <PREFERREDNAME>PTTPrfmYesNo</PREFERREDNAME>
+      <PREFERREDDEFINITION>A response of Yes/No to indicate if laboratory procedure Partial Thromboplastin Time in seconds was performed.</PREFERREDDEFINITION>
+
+   <DataElement num="17197">
+      <PUBLICID>4457637</PUBLICID>
+      <LONGNAME>Post Surgical Procedure Adverse Event Documented Indicator</LONGNAME>
+      <PREFERREDNAME>Post_Surg_Adve_Docu_YES_NO_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>the yes/no indicator relating to information regarding a documentation of any unfavorable or unintended symptom, sign, or disease including an abnormal laboratory finding) temporally associated with the use of a medical treatment or procedure that may or may not be considered related to the medical treatment or procedure happening after a diagnostic or treatment procedure performed by manual and/or instrumental means, often involving an incision and the removal or replacement of a diseased organ or tissue.</PREFERREDDEFINITION>
+
+   <DataElement num="14015">
+      <PUBLICID>3021</PUBLICID>
+      <LONGNAME>Prior Therapy Other Begin Date</LONGNAME>
+      <PREFERREDNAME>PRIOR_TX_OTHE_BEG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date on which other therapy started that was previously administered as treatment for this cancer.</PREFERREDDEFINITION>
+
+   <DataElement num="26392">
+      <PUBLICID>2734693</PUBLICID>
+      <LONGNAME>Past Integer::4 Week Adult Malignant Neoplasm Related Financial Problem Psychometrics Assessment Score</LONGNAME>
+      <PREFERREDNAME>PAST_4WK_FNS_PRB_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the response to a QLAC question posed to an adult about money problems in the past four weeks because of cancer. [Manually-curated]</PREFERREDDEFINITION>
+
+   <DataElement num="3695">
+      <PUBLICID>4828594</PUBLICID>
+      <LONGNAME>Malignant Neoplasm Greater Than or Equal To Integer::5 Year Remission Checkbox Indicator</LONGNAME>
+      <PREFERREDNAME>MALIG_GTE_5Y_REM_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>The response indicating whether a patient's cancer has been in remission for five or more years.</PREFERREDDEFINITION>
+
+   <DataElement num="11094">
+      <PUBLICID>2694738</PUBLICID>
+      <LONGNAME>Treatment Subsequent Therapy Summary Third Course Code</LONGNAME>
+      <PREFERREDNAME>2694736v1.0:2654990v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The name for a group of subfields that describe the third course or set of subsequent therapy.</PREFERREDDEFINITION>
+
+   <DataElement num="47590">
+      <PUBLICID>3101649</PUBLICID>
+      <LONGNAME>Ventilation Change Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3100409v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The act of moving air into and out of a space._The act of alteration or modification; changed or altered in form or character.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="10418">
+      <PUBLICID>3613143</PUBLICID>
+      <LONGNAME>Patient Amended Consent Date</LONGNAME>
+      <PREFERREDNAME>3613142v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date related to the patient's altered formally of consent.</PREFERREDDEFINITION>
+
+   <DataElement num="24480">
+      <PUBLICID>2185555</PUBLICID>
+      <LONGNAME>Menstrual Cycle Day Number</LONGNAME>
+      <PREFERREDNAME>MENCYC_DAY_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Reference to a specific day within the menstrual cycle, which is typically 28 days in length.</PREFERREDDEFINITION>
+
+   <DataElement num="43233">
+      <PUBLICID>2470361</PUBLICID>
+      <LONGNAME>First Progression Histologic Diagnosis Date</LONGNAME>
+      <PREFERREDNAME>FIRS_PROG_HIST_DX_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>a date when initial advancement in extent or severity of disease is reported based on changes identified by microscopic examination of cells and extracellular environment.</PREFERREDDEFINITION>
+
+   <DataElement num="29638">
+      <PUBLICID>2768149</PUBLICID>
+      <LONGNAME>Pharmacokinetics Pharmacokinetics Prior Dose Actual Time java.util.Date</LONGNAME>
+      <PREFERREDNAME>2767928v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements._The characteristic movements of drugs within biological systems, as affected by absorption, distribution, binding, elimination, biotransformation, and excretion; particularly the rates of such movements.:Earlier in time or order.:A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.:Existing in fact; real.:The continuum of experience in which events pass from the future through the present to the past._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="20426">
+      <PUBLICID>3151002</PUBLICID>
+      <LONGNAME>Brachytherapy End Occurrence Month Number</LONGNAME>
+      <PREFERREDNAME>3151001v1.0:2895904v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value to represent the month that brachytherapy was finished.</PREFERREDDEFINITION>
+
+   <DataElement num="3399">
+      <PUBLICID>2916135</PUBLICID>
+      <LONGNAME>Toxicology Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2916013v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Toxicology is the branch of pharmacology that deals with the nature and effects and treatments of poisons._The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="47595">
+      <PUBLICID>3475312</PUBLICID>
+      <LONGNAME>Patient Telephone Third Attempt Communication Contact Follow-up Date</LONGNAME>
+      <PREFERREDNAME>3475311v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date of the third attempt to contact a patient over the telephone.</PREFERREDDEFINITION>
+
+   <DataElement num="11">
+      <PUBLICID>2261932</PUBLICID>
+      <LONGNAME>Age At Death Derived in Years Number</LONGNAME>
+      <PREFERREDNAME>AGE_DEATH_DERIV_NUM</PREFERREDNAME>
+      <PREFERREDDEFINITION>Value to represent the age of a person at the time of death, expressed in number of years.</PREFERREDDEFINITION>
+
+   <DataElement num="24472">
+      <PUBLICID>3886529</PUBLICID>
+      <LONGNAME>Medical Outcomes Study Social Support Survey How Often Available Someone You Can Count On to Listen to You When You Need to Talk Score 5 Point Scale</LONGNAME>
+      <PREFERREDNAME>MOS_SUPPORT_TALK_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of how much time someone they count on is available to listen when they need to talk, using a 5 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="718">
+      <PUBLICID>3521337</PUBLICID>
+      <LONGNAME>Patient Lost Follow-up Date</LONGNAME>
+      <PREFERREDNAME>2190036v1.0:2018550v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date on which a study participant was declared lost to follow-up.</PREFERREDDEFINITION>
+
+   <DataElement num="1856">
+      <PUBLICID>4761396</PUBLICID>
+      <LONGNAME>Toronto Extremity Salvage Score, Upper Extremity Past Week Difficulty Ability to Participate in My Usual Leisure Activities Score 5 Point Likert Scale</LONGNAME>
+      <PREFERREDNAME>TESSUE_LEISURE_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Person's stated observation of the difficulty in the past week participating in my usual leisure activities, using a 5 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="40572">
+      <PUBLICID>3101482</PUBLICID>
+      <LONGNAME>Carbohydrate Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3100239v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The largest class of organic compounds, including starches, glycogens, cellulose, gums, and simple sugars. Carbohydrates are composed of carbon, hydrogen, and oxygen in a ratio of Cn(H2O)n. (MeSH)_Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="47302">
+      <PUBLICID>3176165</PUBLICID>
+      <LONGNAME>Biospecimen Collection Intervention or Procedure Performed Study Activity Actual Date and Time Range ISO21090.IVL.TS.DATETIME.v1.0</LONGNAME>
+      <PREFERREDNAME>2868447v1.0:3152480v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The completed action of gathering samples that may be used for subsequent analysis. EXAMPLE(S): blood draw The date and time span when this activity began and ended. EXAMPLE(S): The date and time when a sample is taken from the subject. A dose of chemotherapy is given on June 12th starting at 9am and finishing at 12pm.</PREFERREDDEFINITION>
+
+   <DataElement num="40534">
+      <PUBLICID>3684735</PUBLICID>
+      <LONGNAME>M.D. Anderson Dysphagia Inventory Past Week Ability to Swallow Limits Daily Activities Agreement Score 5 Point Likert Scale</LONGNAME>
+      <PREFERREDNAME>3684657v2.0:3682709v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of their agreement with a statement related to swallowing ability limiting their daily activities, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="15164">
+      <PUBLICID>3948980</PUBLICID>
+      <LONGNAME>Patient Sustained Engraftment Occurrence Date</LONGNAME>
+      <PREFERREDNAME>PT_SUS_ENG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>Calendar date of recovery of bone marrow function with neutrophil recovery associated with more than 95% T-cell and myeloid cell chimerism at day 100 post transplantation.</PREFERREDDEFINITION>
+
+   <DataElement num="40196">
+      <PUBLICID>4810692</PUBLICID>
+      <LONGNAME>PROMIS 43 Adult Profile v2.0 PAININ22 Past 7 Days How Much Did Pain Interfere with Work Around the Home Score 5 Point Scale</LONGNAME>
+      <PREFERREDNAME>PROMIS43_PAININ22_SC</PREFERREDNAME>
+      <PREFERREDDEFINITION>Persons' stated observation of how much in the past 7 days pain interfered with their work around the home, using a five-point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="21606">
+      <PUBLICID>3151491</PUBLICID>
+      <LONGNAME>Diagnostic MRI Performed Month Number</LONGNAME>
+      <PREFERREDNAME>2200496v1.0:2895904v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Numeric value that represents the month that a diagnostic magnetic resonance imaging scan was performed.</PREFERREDDEFINITION>
+
+   <DataElement num="868">
+      <PUBLICID>2965017</PUBLICID>
+      <LONGNAME>Plan Occurrence Activity Occurrence Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2964982v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>To devise, contrive, or formed in design.:An instance of something happening, such as an event or incident._An action taken in pursuit of an objective; the state of being active.:An instance of something happening, such as an event or incident.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="8773">
+      <PUBLICID>2919640</PUBLICID>
+      <LONGNAME>Shipping Send Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2919492v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The act or business of transporting goods._Cause or enable to go or be conveyed or transmitted.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="18920">
+      <PUBLICID>2805006</PUBLICID>
+      <LONGNAME>Patient Caregiver Encounter Begin Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>2804934v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person who receives medical attention, care, or treatment, or who is registered with medical professional or institution with the purpose to receive medical care when necessary.:The primary person in charge of the care of a patient, usually a family member or a designated health care professional.:Each individual, unique interaction between two subjects of interest._Have a beginning, in a temporal, spatial, or evaluative sense.:a particular day specified as the time something has, or will, happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="17555">
+      <PUBLICID>4761375</PUBLICID>
+      <LONGNAME>Toronto Extremity Salvage Score, Upper Extremity Past Week Difficulty Ability to Cut Food While Eating Score 5 Point Likert Scale</LONGNAME>
+      <PREFERREDNAME>TESSUE_CUTFOOD_SCL</PREFERREDNAME>
+      <PREFERREDDEFINITION>Person's stated observation of the difficulty in the past week cutting food while eating, using a 5 point Likert scale.</PREFERREDDEFINITION>
+
+   <DataElement num="8691">
+      <PUBLICID>3008745</PUBLICID>
+      <LONGNAME>Neoplasm Subsequent Recurrence Diagnosis Specimen Acquisition Method Type</LONGNAME>
+      <PREFERREDNAME>SUB_REC_DX_METH_TP</PREFERREDNAME>
+      <PREFERREDDEFINITION>Text name of the procedure used to secure the tissue used to make a subsequent disease recurrence diagnosis.</PREFERREDDEFINITION>
+
+   <DataElement num="44524">
+      <PUBLICID>3102047</PUBLICID>
+      <LONGNAME>Mating Event Created Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3100806v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The act of pairing individuals for sexual reproduction.:Something that happens at a given place and time._Brought into existence.:The particular day, month and year an event will happen or has happened._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
+   <DataElement num="20855">
+      <PUBLICID>3090511</PUBLICID>
+      <LONGNAME>Protocol Patient Observation Administered End Date</LONGNAME>
+      <PREFERREDNAME>3090346v1.0:2188674v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>the last date related to the administration of the most conservative option for patient under the control of medical professional.</PREFERREDDEFINITION>
+
+   <DataElement num="4819">
+      <PUBLICID>61261</PUBLICID>
+      <LONGNAME>Brachytherapy Begin Date</LONGNAME>
+      <PREFERREDNAME>BRT_BEG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date on which the brachytherapy was initiated.</PREFERREDDEFINITION>
+
+   <DataElement num="30055">
+      <PUBLICID>3725862</PUBLICID>
+      <LONGNAME>Lymphedema and Breast Cancer Questionnaire During Past Year Have Other Symptoms Experience Indicator</LONGNAME>
+      <PREFERREDNAME>3722567v1.0:3506068v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's stated perception of whether or not during the past year they have or had other symptoms in their arm, breast, or chest, using a yes or no indicator.</PREFERREDDEFINITION>
+
+   <DataElement num="37948">
+      <PUBLICID>2548553</PUBLICID>
+      <LONGNAME>Patient Face pain Past Year Personal Medical History Specify</LONGNAME>
+      <PREFERREDNAME>2548527v1.0:2548551v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Specify; be specific about something; define clearly pain in the facial region including orofacial pain and craniofacial pain. Associated conditions include local inflammatory and neoplastic disorders and neuralgic syndromes involving the trigeminal, facial, and glossopharyngeal nerves. Conditions which feature recurrent or persistent facial pain as the primary manifestation of disease are referred to as FACIAL PAIN SYNDROMES in a person who requires medical care occurring before the period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period in a record of a patient&quot;s background regarding health and the occurrence of disease events of the individual.  In addition, personal medical history may be a variable in epidemiologic studies.</PREFERREDDEFINITION>
+
+   <DataElement num="10688">
+      <PUBLICID>2725326</PUBLICID>
+      <LONGNAME>Best Response Alpha DVG Date</LONGNAME>
+      <PREFERREDNAME>BEST_RESP_DVG_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>First date of the best response to intervention or treatment, expressed as a calendar date or text term.</PREFERREDDEFINITION>
+
+   <DataElement num="19912">
+      <PUBLICID>3726759</PUBLICID>
+      <LONGNAME>Lymphedema and Breast Cancer Questionnaire Today Or Past Month Have Limited Movement of Fingers Experience Descriptive Text</LONGNAME>
+      <PREFERREDNAME>3722459v1.0:2181231v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>A person's description of the limited movement of their fingers today or in the past month, using a text field.</PREFERREDDEFINITION>
+
+   <DataElement num="24490">
+      <PUBLICID>2958546</PUBLICID>
+      <LONGNAME>Assessment Gestational Weeks Week java.lang.Integer</LONGNAME>
+      <PREFERREDNAME>2958440v1.0:2178537v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>Examination of the body by auscultation, palpation, percussion, inspection, and olfaction.  (Taber&quot;s)_A standard determination of fetal age; it is the number of weeks since the first day of the last menstrual period of the mother to the date of interest.:Any period of seven consecutive days._Generic value domain for a primitive java dataype that is an Integer (32-bit two&quot;s complement).</PREFERREDDEFINITION>
+
+   <DataElement num="2516">
+      <PUBLICID>2790008</PUBLICID>
+      <LONGNAME>Adverse Event During Thaw Occurrence Indicator</LONGNAME>
+      <PREFERREDNAME>AE_DR_THAW_OCCR_IND</PREFERREDNAME>
+      <PREFERREDDEFINITION>Any unfavorable or unintended symptom, sign, or disease including an abnormal laboratory finding) temporally associated with the use of a medical treatment or procedure that may or may not be considered related to the medical treatment or procedure.  Such events can be intervention related, dose related, route related, patient related, or caused by an interaction with another drug(s) or procedure(s)._At some point in a given period of time._The process whereby heat changes something from a solid to a liquid._An instance of something happening, such as an event or incident._Indicator of Yes, No, Unknown, Not Done, or Not Applicable to a question.[manually curated]</PREFERREDDEFINITION>
+
+   <DataElement num="44581">
+      <PUBLICID>4232611</PUBLICID>
+      <LONGNAME>Image Submission Date</LONGNAME>
+      <PREFERREDNAME>3424103v1.0:3434491v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>The date when the images were submitted (or transferred) from one organization or institution to another.</PREFERREDDEFINITION>
+
+   <DataElement num="31057">
+      <PUBLICID>2184731</PUBLICID>
+      <LONGNAME>Dose Total Day Count</LONGNAME>
+      <PREFERREDNAME>DOSE_TTL_D_CT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the total quantity of days of dose.</PREFERREDDEFINITION>
+
+   <DataElement num="12341">
+      <PUBLICID>2847452</PUBLICID>
+      <LONGNAME>Patient Heart Diseases Death Date</LONGNAME>
+      <PREFERREDNAME>PT_HRTDZ_DEATH_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the date of definite or probable cardiac death.</PREFERREDDEFINITION>
+
+   <DataElement num="21478">
+      <PUBLICID>793</PUBLICID>
+      <LONGNAME>Person Birth Date</LONGNAME>
+      <PREFERREDNAME>PER_BIR_DT</PREFERREDNAME>
+      <PREFERREDDEFINITION>the month, day and year on which the person was born</PREFERREDDEFINITION>
+
+   <DataElement num="47073">
+      <PUBLICID>3601071</PUBLICID>
+      <LONGNAME>Plan Maintenance Therapy Post Date Last Form Protocol Administration Indicator</LONGNAME>
+      <PREFERREDNAME>2738576v1.0:2784450v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>To devise, contrive, or formed in design._Treatment that is given to help a primary (original) treatment keep working. Maintenance therapy is often given to help keep cancer in remission._Happening at a time subsequent to a reference time; later in time or order._The particular day, month and year an event has happened or will happen._Coming after all others in time or space or degree or being the only one remaining._A printed or electronic document with spaces to be filled out._A rule which guides how an activity should be performed._The act of the dispensing, applying, or tendering of something to another, such as administration of a medicine._Indicator of Yes, No, Unknown, Not Done, or Not Applicable to a question.[manually curated]</PREFERREDDEFINITION>
+
+   <DataElement num="35234">
+      <PUBLICID>3588491</PUBLICID>
+      <LONGNAME>Hospital Admission Event Hospital Discharge Date java.util.Date</LONGNAME>
+      <PREFERREDNAME>3588438v1.0:2222504v1.0</PREFERREDNAME>
+      <PREFERREDDEFINITION>An institution that provides medical, surgical, or psychiatric care and treatment for the sick or the injured.:The condition of being allowed to enter; the activity of admitting someone to something.:Something that happens at a given place and time._An institution that provides medical, surgical, or psychiatric care and treatment for the sick or the injured.:The release of a patient from a course of care.:The particular day, month and year an event has happened or will happen._Generic value domain for a java datatype that represents a specific instant in time, with millisecond precision.</PREFERREDDEFINITION>
+
