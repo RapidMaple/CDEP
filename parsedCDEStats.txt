@@ -1,35 +1,35 @@
 keyWord         | frequency count |        percent composition
 ______________________________________________________________
-date            |            4017 |                  51.82557%
-week            |             845 |                  10.90182%
-year            |             377 |                   4.86389%
-finish          |               1 |                   0.01290%
-prior to        |              64 |                   0.82570%
-later           |               7 |                   0.09031%
-within          |              53 |                   0.68378%
-hour            |              96 |                   1.23855%
- before         |              13 |                   0.16772%
-meet            |               2 |                   0.02580%
-today           |              44 |                   0.56767%
-ago             |               1 |                   0.01290%
-when            |              40 |                   0.51606%
-after           |              35 |                   0.45155%
-post            |             458 |                   5.90891%
-at least        |               2 |                   0.02580%
-subsequent      |              62 |                   0.79990%
-around          |               8 |                   0.10321%
-night           |              20 |                   0.25803%
- seconds        |               7 |                   0.09031%
-until           |              12 |                   0.15482%
-day             |             546 |                   7.04425%
-previous        |              85 |                   1.09663%
-about           |              86 |                   1.10953%
-overlap         |              12 |                   0.15482%
-morning         |               5 |                   0.06451%
-during          |             169 |                   2.18036%
-start           |             115 |                   1.48368%
-month           |             436 |                   5.62508%
-while           |               7 |                   0.09031%
-concurrent      |              48 |                   0.61927%
-minute          |              70 |                   0.90311%
- between        |               8 |                   0.10321%
+.*( |\p{Punct})days?( |\p{Punct}).* |             951 |                  11.55107%
+.*( |\p{Punct})when( |\p{Punct}).* |              40 |                   0.48585%
+.*( |\p{Punct})within( |\p{Punct}).* |              53 |                   0.64375%
+.*( |\p{Punct})previous(ly)?( |\p{Punct}).* |              89 |                   1.08102%
+.*( |\p{Punct})concurrent(ly)?( |\p{Punct}).* |              48 |                   0.58302%
+.*( |\p{Punct})meets?( |\p{Punct}).* |               6 |                   0.07288%
+.*( |\p{Punct})before( |\p{Punct}).* |              13 |                   0.15790%
+.*( |\p{Punct})between( |\p{Punct}).* |               8 |                   0.09717%
+.*( |\p{Punct})ago( |\p{Punct}).* |               1 |                   0.01215%
+.*( |\p{Punct})about( |\p{Punct}).* |              86 |                   1.04458%
+.*( |\p{Punct})hours?( |\p{Punct}).* |             209 |                   2.53856%
+.*( |\p{Punct})subsequent( |\p{Punct}).* |              62 |                   0.75307%
+.*( |\p{Punct})at least( |\p{Punct}).* |               2 |                   0.02429%
+.*( |\p{Punct})overlaps?( |\p{Punct}).* |              12 |                   0.14575%
+.*( |\p{Punct})until( |\p{Punct}).* |              12 |                   0.14575%
+.*( |\p{Punct})weeks?( |\p{Punct}).* |             799 |                   9.70485%
+.*( |\p{Punct})date( |\p{Punct}).* |            3982 |                  48.36633%
+.*( |\p{Punct})may( |\p{Punct}).* |               1 |                   0.01215%
+.*( |\p{Punct})around( |\p{Punct}).* |               8 |                   0.09717%
+.*( |\p{Punct})today( |\p{Punct}).* |              44 |                   0.53443%
+.*( |\p{Punct})night( |\p{Punct}).* |              20 |                   0.24292%
+.*( |\p{Punct})post(-)?( |\p{Punct}).* |             509 |                   6.18244%
+.*( |\p{Punct})during( |\p{Punct}).* |             169 |                   2.05271%
+.*( |\p{Punct})years?( |\p{Punct}).* |             376 |                   4.56699%
+.*( |\p{Punct})minutes?( |\p{Punct}).* |              82 |                   0.99599%
+.*( |\p{Punct})starts?( |\p{Punct}).* |             103 |                   1.25106%
+.*( |\p{Punct})finish(es)?( |\p{Punct}).* |               1 |                   0.01215%
+.*( |\p{Punct})prior to( |\p{Punct}).* |              64 |                   0.77736%
+.*( |\p{Punct})morning( |\p{Punct}).* |               5 |                   0.06073%
+.*( |\p{Punct})months?( |\p{Punct}).* |             429 |                   5.21074%
+.*( |\p{Punct})after( |\p{Punct}).* |              35 |                   0.42512%
+.*( |\p{Punct})while( |\p{Punct}).* |               7 |                   0.08502%
+.*( |\p{Punct})seconds( |\p{Punct}).* |               7 |                   0.08502%

@@ -1,25 +1,18 @@
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 //import org.apache.
 
 
@@ -31,23 +24,50 @@ public class CDEParserRunner {
 	private static PrintWriter statout;
 	//private static StringTokenizer st;
 	private static List<CDE> cdeList;
+//	private static List<CDE> tempCDEList;
 	private static List<CDE> otherCDEList;
-	private static boolean write;
+//	private static boolean write;
 	private static Pattern pattern;
+	private static Pattern conceptPattern;
 	public static Map<String, Integer> freqCount;
+	public static boolean bool;
 	
 	public static void main(String[] args) throws Exception{
-
+		System.out.println("\\\\asdf\\\\".replaceAll("\\\\", ""));
+		System.out.println(".*(\\p{Punct}| )seconds(\\p{Punct}| ).*".replaceAll("(\\.\\*\\(\\\\p\\{Punct\\}\\| \\))|(\\(\\\\p\\{Punct\\}\\| \\)\\.\\*)", ""));
+		cdeList = new ArrayList<>();
+		//tempCDEList = new ArrayList<>();
+		//for(int i=0;i<2;i++){
+		//bool = i==0;
 		int counter = 0;
 		pattern = buildPattern("bin//fields.txt");
+		conceptPattern = Pattern.compile(".*<DATAELEMENTCONCEPT>$");
 		CDE.searchPattern = Pattern.compile(searchPattern("bin//searchFields.txt").toString());
 		out = new PrintWriter(new BufferedWriter(new FileWriter("parsedCDEs.txt")));
 		otherout = new PrintWriter(new BufferedWriter(new FileWriter("cParsedCDEs.txt")));
 		statout = new PrintWriter(new BufferedWriter(new FileWriter("parsedCDEStats.txt")));
-		write = false;
-		cdeList = new ArrayList<>();
 		otherCDEList = new ArrayList<>();
 		freqCount = new HashMap<>();
+		
+		//Generate keyWordsMap
+		CDE.keyWordList = new HashMap<>();
+		CDE.keyWordPatterns = new HashMap<>();
+		BufferedReader keyWordsReader = new BufferedReader(new FileReader(CDE.keyWords.getAbsolutePath()));
+		String cLine = keyWordsReader.readLine();
+		while(cLine != null){
+			String[] sp = cLine.split(" -> ");
+			String[] pats = sp[1].split("(\\s+)?,(\\s+)?");
+			CDE.keyWordPatterns.put(sp[0], new ArrayList<>());
+			CDE.keyWordList.put(sp[0], new ArrayList<>());
+			for(String pat : pats){
+				CDE.keyWordPatterns.get(sp[0]).add(Pattern.compile(".*( |\\p{Punct})" + pat.toLowerCase() + "( |\\p{Punct}).*"));
+				CDE.keyWordList.get(sp[0]).add(pat.toLowerCase());
+			}
+			cLine = keyWordsReader.readLine();
+		}
+		keyWordsReader.close();
+
+		
 		for(File f: new File("xml_files").listFiles()){
 			in = new BufferedReader(new FileReader(f.getAbsolutePath()));
 			String curLine = in.readLine();
@@ -56,12 +76,26 @@ public class CDEParserRunner {
 			while(curLine != null){
 				counter++;
 				Matcher m = pattern.matcher(curLine);
+				Matcher cm = conceptPattern.matcher(curLine);
 				/*if(curLine.matches("^.*<DataElement num=\"\\d+\">.*$") || curLine.matches("^.*<(PUBLICID|LONGNAME|PREFERREDDEFINITION)>.*<(/PUBLICID|/LONGNAME|/PREFERREDDEFINITION)>.*$")){
 					element.addElement(curLine);
 				}
 				*/
 				if(m.matches()){
 					element.addElement(curLine);
+				}
+				else if(cm.matches()){
+					element.addElement(curLine);
+					String temp = curLine;
+					while(true){
+						counter++;
+						if(curLine.matches(".*<PreferredName>.*")){
+							element.addElement(curLine);
+							break;
+						}
+						curLine = in.readLine();
+					}
+					element.addElement(temp.replaceAll("DATAELEMENTCONCEPT", "/DATAELEMENTCONCEPT"));
 				}
 				if(element.isFull()){
 					//do processing here
@@ -70,7 +104,10 @@ public class CDEParserRunner {
 						for(String outp : element.getElements())
 							out.println(outp);
 						out.println();
+		//				if(i==0)
 						cdeList.add(element);
+//						else
+//							tempCDEList.add(element);
 					}
 					else{
 						for(String outp : element.getElements())
@@ -98,6 +135,28 @@ public class CDEParserRunner {
 		getStats();
 		statout.close();
 		generateRandomSamples(3, 300);
+//		}
+		/*System.out.println(cdeList.size());
+		System.out.println(tempCDEList.size());
+		out = new PrintWriter(new BufferedWriter(new FileWriter("stuffInNewNotInOld.txt")));
+		for(CDE s : cdeList){
+			if(!tempCDEList.contains(s)){
+				for(String str : s.getElements())
+					out.println(str);
+				out.println();
+			}
+		}
+		out.close();
+		out = new PrintWriter(new BufferedWriter(new FileWriter("stuffInOldNotInNew.txt")));
+		for(CDE s : tempCDEList){
+			if(!cdeList.contains(s)){
+				for(String str : s.getElements())
+					out.println(str);
+				out.println();
+			}
+		}
+		out.close();
+		*/
 	}
 	
 	/**
@@ -137,7 +196,7 @@ public class CDEParserRunner {
 		}
 		System.out.println(p.toString());
 		if(CDE.full == 0)
-			CDE.full = count + 2;
+			CDE.full = count + 2 + 3;
 		read.close();
 		return p;
 	}
@@ -194,6 +253,7 @@ public class CDEParserRunner {
 		}
 		
 	}
+
 	private static void getStats(){
 		int tot = 0;
 		for(String op : freqCount.keySet()){
