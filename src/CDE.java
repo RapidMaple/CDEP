@@ -14,7 +14,7 @@ public class CDE{
 	public static final File keyWords = new File("bin//keyWordsCondensed.txt"); // list of key words to search for, formatted as "key word - key word, syn, syn,..."
 	public static Map<String, List<Pattern>> keyWordPatterns;
 	public static Map<String, List<String>> keyWordList;
-	public static final File keyWords2 = new File("bin//keyWordsCondensed2.txt");
+//	public static final File keyWords2 = new File("bin//keyWordsCondensed2.txt");
 	public static Pattern searchPattern; // constructed from searchFields.txt
 	public static int full;
 	

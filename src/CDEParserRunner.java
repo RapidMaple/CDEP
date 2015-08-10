@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 import java.util.Set;
+import java.util.TreeMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 //import org.apache.
@@ -33,6 +34,7 @@ public class CDEParserRunner {
 	public static boolean bool;
 	
 	public static void main(String[] args) throws Exception{
+		//System.out.println(".*( |\\p{Punct})days?( |\\p{Punct}).*".replaceAll("(\\.\\*\\( |\\\\p\\{Punct\\}\\))|(\\( |\\\\p\\{Punct\\}\\)\\.\\*)", ""));
 		System.out.println("\\\\asdf\\\\".replaceAll("\\\\", ""));
 		System.out.println(".*(\\p{Punct}| )seconds(\\p{Punct}| ).*".replaceAll("(\\.\\*\\(\\\\p\\{Punct\\}\\| \\))|(\\(\\\\p\\{Punct\\}\\| \\)\\.\\*)", ""));
 		cdeList = new ArrayList<>();
@@ -47,7 +49,7 @@ public class CDEParserRunner {
 		otherout = new PrintWriter(new BufferedWriter(new FileWriter("cParsedCDEs.txt")));
 		statout = new PrintWriter(new BufferedWriter(new FileWriter("parsedCDEStats.txt")));
 		otherCDEList = new ArrayList<>();
-		freqCount = new HashMap<>();
+		freqCount = new TreeMap<>();
 		
 		//Generate keyWordsMap
 		CDE.keyWordList = new HashMap<>();
@@ -60,7 +62,8 @@ public class CDEParserRunner {
 			CDE.keyWordPatterns.put(sp[0], new ArrayList<>());
 			CDE.keyWordList.put(sp[0], new ArrayList<>());
 			for(String pat : pats){
-				CDE.keyWordPatterns.get(sp[0]).add(Pattern.compile(".*( |\\p{Punct})" + pat.toLowerCase() + "( |\\p{Punct}).*"));
+				freqCount.put(pat, 0);
+				CDE.keyWordPatterns.get(sp[0]).add(Pattern.compile(".*(\\p{Punct}| )" + pat.toLowerCase() + "(\\p{Punct}| ).*"));
 				CDE.keyWordList.get(sp[0]).add(pat.toLowerCase());
 			}
 			cLine = keyWordsReader.readLine();
@@ -263,7 +266,7 @@ public class CDEParserRunner {
 		statout.println();
 		statout.println("______________________________________________________________");
 		for(String op : freqCount.keySet()){
-			statout.printf("%-15s | %15d | %25.5f%s", op, freqCount.get(op), (freqCount.get(op) * 1.0 / tot * 100),"%");
+			statout.printf("%-15s | %15d | %25.5f%s", op.replaceAll("(\\.\\*\\(\\\\p\\{Punct\\}\\| \\))|(\\(\\\\p\\{Punct\\}\\| \\)\\.\\*)", ""), freqCount.get(op), (freqCount.get(op) * 1.0 / tot * 100),"%");
 			statout.println();
 		}
 	}
